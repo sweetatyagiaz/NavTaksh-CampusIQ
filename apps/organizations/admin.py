@@ -1,3 +1,24 @@
 from django.contrib import admin
+from .models import School
 
-# Register your models here.
+
+@admin.register(School)
+class SchoolAdmin(admin.ModelAdmin):
+
+    list_display = (
+        "code",
+        "name",
+        "city",
+        "state",
+        "is_active"
+    )
+
+    search_fields = (
+        "code",
+        "name"
+    )
+
+    list_filter = (
+        "is_active",
+        "state"
+    )

@@ -63,6 +63,16 @@ class School(models.Model):
         help_text="Country name"
     )
 
+    website = models.URLField(
+        blank=True
+    )
+
+    logo = models.ImageField(
+        upload_to="schools/logos/",
+        blank=True,
+        null=True
+    )
+
     is_active = models.BooleanField(
         default=True,
         help_text="Whether institution is currently active in the system"
