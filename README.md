@@ -197,9 +197,6 @@ Administrators can ask:
 
 # Technology Stack
 
-Technology stack for the project
-![NavTaksh CampusIQ](docs/images/NavTaksh CampusIQ Technology Stack.png)
-![NavTaksh CampusIQ](docs/images/NavTaksh CampusIQ Technology Stack.png)
 <p align="center">
   <img src="docs/images/NavTaksh CampusIQ Technology Stack.png" alt="NavTaksh CampusIQ" width="100%">
 </p>
