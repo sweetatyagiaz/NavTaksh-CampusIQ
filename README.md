@@ -197,6 +197,8 @@ Administrators can ask:
 
 # Technology Stack
 
+![NavTaksh CampusIQ](docs/images/NavTaksh CampusIQ Technology Stack.png)
+
 ## Backend
 
 - Python 3.13+
