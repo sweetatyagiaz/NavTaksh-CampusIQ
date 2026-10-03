@@ -6,7 +6,7 @@ NavTaksh CampusIQ™ – An AI-powered School ERP, Campus Safety, Communication,
 
 ![NavTaksh CampusIQ](docs/images/campusiq_banner.png)
 <p align="center">
-  <img src="docs/images/campusiq_banner.png" alt="NavTaksh CampusIQ" width="100%">
+  <img src="docs/images/campusiq-banner.png" alt="NavTaksh CampusIQ" width="100%">
 </p>
 
 # NavTaksh CampusIQ™
