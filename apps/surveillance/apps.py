@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class SurveillanceConfig(AppConfig):
-    name = "surveillance"
+    name = "apps.surveillance"
