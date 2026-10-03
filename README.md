@@ -198,6 +198,7 @@ Administrators can ask:
 # Technology Stack
 
 ![NavTaksh CampusIQ](docs/images/NavTaksh CampusIQ Technology Stack.png)
+![NavTaksh CampusIQ](docs/images/NavTaksh CampusIQ Technology Stack.png)
 
 ## Backend
 
