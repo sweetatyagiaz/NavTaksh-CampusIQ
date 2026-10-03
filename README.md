@@ -5,7 +5,13 @@
 NavTaksh CampusIQ™ – An AI-powered School ERP, Campus Safety, Communication, Digital Payments, Face Recognition Attendance, and Campus Intelligence Platform for modern educational institutions.
 
 ![NavTaksh CampusIQ](docs/images/campusiq_banner.png)
+<p align="center">
+  <img src="docs/images/campusiq_banner.png" alt="NavTaksh CampusIQ" width="100%">
+</p>
 
+# NavTaksh CampusIQ™
+
+An AI-Powered School ERP, Campus Safety, Communication & Intelligence Platform.
 ---
 
 ## Vision
