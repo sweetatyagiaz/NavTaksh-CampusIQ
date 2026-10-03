@@ -205,7 +205,7 @@ parso==0.8.7
 passlib==1.7.4
 pathspec==1.1.1
 pexpect==4.9.0
-pgadmin4 @ file:///home/rakesh/Downloads/pgadmin4-9.18-py3-none-any.whl#sha256=9ea084fc416265e4fc95c9fb6e6ae0f6668d34da8670c9b65c79cea054124356
+#pgadmin4 @ file:///home/rakesh/Downloads/pgadmin4-9.18-py3-none-any.whl#sha256=9ea084fc416265e4fc95c9fb6e6ae0f6668d34da8670c9b65c79cea054124356
 pillow==12.3.0
 pillow_heif==1.8.0
 platformdirs==4.12.2
