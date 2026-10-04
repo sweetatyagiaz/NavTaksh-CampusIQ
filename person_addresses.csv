@@ -1,0 +1,1884 @@
+person_id,address_type,address_line_1,address_line_2,landmark,city,district,state,country,postal_code,latitude,longitude,is_primary,remarks
+352,2,"H.No. 939
+Baria Road",Block A,Gola-Basu,Morbi,Sri Ganganagar,Arunachal Pradesh,India,868065,20.5031128,73.5141526,True,
+352,1,"422
+Magar Road",Sector 39,Sani-Varughese,Pudukkottai,Haldia,Jharkhand,India,198540,25.9658848,72.1987127,False,
+884,3,"94/15
+Kuruvilla Road",,Aurora and Sons,Hospet,Faridabad,Chhattisgarh,India,904541,22.2423664,79.5826958,True,
+841,2,"H.No. 50, Sawhney Street",Near Khalsa Inc,Hari LLC,Ambarnath,Tirupati,Karnataka,India,495066,30.3268469,93.0664943,True,
+864,2,"802, Banerjee Path",,"Radhakrishnan, Raja and Soman",Aurangabad,Avadi,Uttar Pradesh,India,185113,21.8616439,94.8589013,True,
+82,1,"H.No. 43
+Kashyap Marg",,Borah-Puri,Bhatpara,Rajpur Sonarpur,Punjab,India,744571,36.5532757,77.8639069,True,
+773,1,"H.No. 94
+Arora Chowk",,Mand PLC,Madanapalle,Kolkata,Madhya Pradesh,India,378226,15.7283302,96.448442,True,
+668,2,"24/222, Sahota Path",Block D,"Solanki, Malhotra and Suresh",Panihati,Dharmavaram,Haryana,India,299711,13.8782458,77.5105025,True,
+668,3,"848, Dhingra",Near Narasimhan Ltd,"Zachariah, Madan and Chandran",Madhyamgram,Miryalaguda,Assam,India,728205,11.1960586,92.5342294,False,
+750,1,"H.No. 070
+Suri Path",Sector 95,Dubey and Sons,Hubli–Dharwad,Ballia,Punjab,India,034634,35.0650285,80.3295918,True,
+795,3,"33/844
+Sanghvi Path",Block A,Singhal-Tripathi,Khammam,Tirupati,Uttarakhand,India,506730,30.0497665,71.8191861,True,
+253,3,"H.No. 89, Venkatesh",Sector 43,"Toor, Wable and Aurora",Saharsa,Mangalore,Goa,India,970146,36.415776,75.3880329,True,
+501,1,"73
+Subramaniam Road","Near Agate, Chada and Nagi","Patla, Lad and Salvi",Thanjavur,Gangtok,Karnataka,India,756306,21.6857346,92.0486378,True,
+540,2,"H.No. 252, Sabharwal Road","Near Bhakta, Kakar and Lal",Jhaveri Ltd,South Dumdum,Rajkot,Punjab,India,803795,25.4353399,80.5479166,True,
+113,2,"89/226
+Goyal Road",Sector 11,Wali and Sons,Jaipur,Deoghar,Goa,India,728734,25.090251,92.3743431,True,
+209,3,"55/73
+Raghavan Ganj",,Palan-Prabhu,Anand,Gwalior,Kerala,India,035523,20.3132464,91.6217901,True,
+209,1,"H.No. 571, Sarraf Circle",Sector 69,Ghosh Group,Kirari Suleman Nagar,Bhiwandi,Odisha,India,378649,31.1152077,84.691378,False,
+605,2,"26
+Sibal Circle",Block A,"Sengupta, Behl and Palla",Chandigarh,Mahbubnagar,Odisha,India,754369,31.4605457,84.159302,True,
+793,1,"53/50, Raj Road",,Chokshi-Mahal,Panvel,Asansol,Manipur,India,522053,11.0943443,77.4002843,True,
+560,1,"H.No. 811, Lad Street",Near Dua-Lala,Dhillon LLC,Mehsana,Mirzapur,Telangana,India,769923,9.0952141,68.3377182,True,
+818,1,"79
+Mani Chowk",Block A,Rout Ltd,Jamalpur,Delhi,Jharkhand,India,416393,26.0300096,95.3097914,True,
+147,1,"16/547
+Lala",Sector 6,Mistry Inc,Chinsurah,Bhilai,Jharkhand,India,963679,13.3565319,81.7839421,True,
+147,3,"68/52
+Bera Circle",Near Brahmbhatt and Sons,Vig Ltd,Hindupur,Malda,Sikkim,India,024934,18.1742493,95.9837461,False,
+287,3,"92/81, Shroff Ganj",Sector 39,Gera-Bhandari,Tirunelveli,Siwan,Meghalaya,India,402913,24.420191,73.9928325,True,
+245,2,"H.No. 16, Das Marg",Sector 28,"Mann, Vasa and Borra",Jorhat,Ahmedabad,Andhra Pradesh,India,406944,20.4779393,73.6515091,True,
+166,2,"20/78, Nazareth Nagar",Block C,Divan Ltd,Secunderabad,Dhule,Tamil Nadu,India,000382,25.6646743,68.4464766,True,
+166,3,"733
+Date Circle",Block A,Sibal Inc,Raichur,Kumbakonam,Tripura,India,164354,22.2965098,88.2993768,False,
+755,3,"11
+Vyas Zila","Near Bhardwaj, Shukla and Chaudhary",Kadakia-Madan,Sangli-Miraj & Kupwad,Pune,Nagaland,India,931833,30.7355476,80.8587338,True,
+157,3,"H.No. 54, Dani Nagar",Near Vasa Ltd,Muni PLC,Bhind,Korba,Maharashtra,India,039139,20.8587293,87.332567,True,
+936,1,"H.No. 050
+Pal Nagar",Block D,Murty Group,Jamshedpur,Ichalkaranji,Tripura,India,281673,21.528216,74.8871282,True,
+167,2,"15, Chadha Street",Sector 62,"Garg, Viswanathan and Buch",Surendranagar Dudhrej,Tiruvottiyur,Chhattisgarh,India,427603,36.104185,74.2869697,True,
+76,3,"52
+Kadakia Nagar",Near Pandit and Sons,Raja-Mani,Mysore,Pallavaram,Maharashtra,India,141369,26.9894155,75.0403392,True,
+328,1,"H.No. 53
+Badami Circle",Block C,Naidu-Chaudry,Panchkula,Nanded,Nagaland,India,966310,23.7813365,76.274829,True,
+580,2,"25, Dasgupta Circle",Sector 71,Garde-Sangha,Nagercoil,Bijapur,Haryana,India,947291,10.4319038,90.7577178,True,
+31,3,"H.No. 97
+Dhar Road",Block C,"Dutt, D’Alia and Nair",Gandhinagar,Shahjahanpur,Chhattisgarh,India,607203,19.513694,73.4903483,True,
+377,1,"H.No. 224, Venkataraman Street",Near Gokhale Ltd,"Nagarajan, Wason and Bava",Chandigarh,Gwalior,Jharkhand,India,106075,31.3126467,92.4476654,True,
+870,2,"H.No. 604
+Balan Path",Sector 47,Pandya-Uppal,Sikar,Machilipatnam,Arunachal Pradesh,India,359902,14.419574,85.6258189,True,
+870,1,"38
+Parikh Chowk","Near Mukherjee, Mammen and Gulati",Soman-Shankar,Arrah,Anantapuram,Gujarat,India,932463,10.1212054,72.1286239,False,
+336,1,"85/578, Taneja Street","Near Mall, Pant and Bhardwaj",Chhabra PLC,Mathura,Bellary,Uttar Pradesh,India,097594,8.9445776,86.9205549,True,
+980,2,"17/244, Comar Road",Near Rau-Bala,"Brar, Palla and Dass",Haridwar,Vasai-Virar,Haryana,India,399399,31.1636168,68.6013651,True,
+212,2,"05/99
+Devan Chowk",Sector 70,Kothari-Yohannan,Avadi,Thoothukudi,Mizoram,India,578779,19.3879616,71.875239,True,
+212,1,"93/865
+Johal Road",Sector 26,Hayer-Morar,Alappuzha,Begusarai,Tamil Nadu,India,928009,11.2944556,94.493677,False,
+892,1,"56, Shan Street",Sector 42,Mander-Bhattacharyya,Mirzapur,Orai,Jharkhand,India,190093,33.3001352,89.5405177,True,
+177,2,"H.No. 21, Sarin",Sector 88,Pillai-Gour,Vadodara,Shimoga,Nagaland,India,317670,16.7433053,69.3858948,True,
+175,2,"544
+Shetty Zila",Block C,Hayer-Mistry,Akola,Kishanganj,Odisha,India,838345,27.5432618,94.4269761,True,
+41,3,"73/85, Balakrishnan",,Shere-Saran,Kurnool,Haldia,West Bengal,India,636494,29.3924742,73.1815856,True,
+41,2,"12/34, Manda Road",,Varma-Doctor,Raipur,Panipat,Chhattisgarh,India,633448,20.2247892,81.5942785,False,
+288,1,"H.No. 64, Bora Path",Sector 6,"Trivedi, Oza and Buch",Coimbatore,Aizawl,Mizoram,India,194148,19.2559035,87.2338094,True,
+874,2,"H.No. 75, Bath Road",Sector 8,"Kurian, Sandhu and Loke",Chittoor,Tinsukia,Gujarat,India,781140,33.0696459,91.0090589,True,
+874,1,"91/608, Edwin Path",Block C,"Mody, Pandey and Iyer",Giridih,Mira-Bhayandar,West Bengal,India,819883,20.9648293,86.2673462,False,
+204,1,"50/43
+Sarkar Circle",Near Mitra-Vasa,Shere-Mital,Deoghar,Sonipat,Gujarat,India,369871,36.6893342,74.4008145,True,
+712,3,"H.No. 52
+Keer",,Srinivas Group,Kalyan-Dombivli,Guwahati,Odisha,India,299757,32.3164351,71.572277,True,
+670,3,"H.No. 81, Buch Nagar",,"Sood, Deep and Nair",Delhi,Bhubaneswar,Himachal Pradesh,India,038953,14.5965616,83.3955603,True,
+681,1,"70/38, Oza Chowk",Sector 52,"Murty, Krishna and Ganesan",Belgaum,Raiganj,Maharashtra,India,655390,13.9512651,77.198071,True,
+194,2,"H.No. 443, Lal Road",,Patla-Raval,Rewa,Gopalpur,Uttarakhand,India,156747,14.5709387,70.4946281,True,
+187,3,"574
+Sangha Marg","Near Patla, Balasubramanian and Ghose","Bassi, Rai and Dave",Kharagpur,North Dumdum,Haryana,India,634065,25.8768515,92.483989,True,
+649,3,"724, Sant Nagar",Near Parekh and Sons,"Nigam, Dhawan and Tata",Hospet,Malda,Odisha,India,252335,35.7712354,84.3810654,True,
+649,1,"H.No. 93, Sagar Street","Near Rout, Sangha and Vaidya","Hans, Rana and Parikh",Kamarhati,Kota,Karnataka,India,297710,12.4741745,71.7831239,False,
+609,1,"61/030, Tandon Zila",Sector 78,Narang-Vora,Saharsa,Ajmer,Manipur,India,846620,8.8575245,71.4218692,True,
+526,2,"H.No. 62
+Mane Street",,"Hegde, Nair and Murty",Moradabad,Cuttack,Karnataka,India,083428,26.4858143,94.6053616,True,
+396,3,"H.No. 93
+Balakrishnan Nagar",Sector 13,Brar and Sons,Bilaspur,Bhind,Kerala,India,284485,16.6485797,96.7529787,True,
+331,3,"59/26, Thaker Street",Near Bal-Borah,Grewal-Borah,Lucknow,Erode,Meghalaya,India,742867,9.2204758,83.7860649,True,
+868,2,"84/98
+Thaman Nagar",Block C,Bhasin-Sibal,Gandhinagar,Guntakal,Sikkim,India,681581,8.722823,96.640065,True,
+783,2,"19/442
+Bail Nagar",,Goswami Ltd,Dewas,Alappuzha,Uttar Pradesh,India,259565,21.9704688,96.0608348,True,
+273,2,"H.No. 11
+Khalsa Street",Sector 82,"Ghose, Dyal and Sha",Bhopal,Pali,Mizoram,India,046581,16.713012,93.6783242,True,
+327,3,"57, Kara Nagar",Sector 92,Ramaswamy Ltd,Bellary,Sambhal,Jharkhand,India,368932,24.9076606,76.8988891,True,
+327,2,"H.No. 25
+Bail Marg",Near Keer-Bora,Majumdar-Bhatnagar,Mysore,Kota,Andhra Pradesh,India,938751,11.925026,76.0256901,False,
+542,1,"H.No. 82
+More Zila",,Ramaswamy-Bedi,Siwan,Dhule,Sikkim,India,920690,15.40576,87.6997094,True,
+326,1,"29/46, Kanda",,"Suresh, Chacko and Mistry",Indore,Bongaigaon,Sikkim,India,082125,12.8807951,74.9776673,True,
+348,3,"34/29, Lad Chowk",Near Parmer-Mand,Agarwal-Dasgupta,Raichur,Hajipur,Sikkim,India,449145,26.2978434,69.5133982,True,
+348,1,"H.No. 10, Patla Zila",,"Acharya, Jha and Mitter",Salem,Morena,Telangana,India,710823,35.0450838,84.5650267,False,
+226,1,"H.No. 128, Shere Circle",Block A,"Mittal, Garg and Shanker",Kadapa,Dindigul,Sikkim,India,435068,21.6877348,69.4291198,True,
+832,3,"H.No. 686, Gola Zila",Near Dhaliwal Ltd,"Dua, Gala and Badami",Nashik,Bellary,Karnataka,India,680504,36.1364284,85.4104632,True,
+832,1,"H.No. 11, Borah Street",Block B,Lall Inc,Pallavaram,Junagadh,Manipur,India,747845,34.6986217,76.0873091,False,
+981,1,"482
+Mittal Chowk",Sector 85,"Chhabra, Radhakrishnan and Mitter",Sikar,Etawah,Tripura,India,234511,10.1678484,89.1298543,True,
+618,3,"82/07
+Aurora Street",Sector 58,Rout and Sons,Sambhal,Bidhannagar,Gujarat,India,375656,17.03538,79.7549185,True,
+934,2,"05/973, Mittal Street",Sector 93,Batra-Bora,Delhi,Howrah,Tamil Nadu,India,424211,33.8779463,78.3406135,True,
+743,2,"83, Thaman Street",Near Bava-Baria,"Sehgal, Korpal and Patla",Bettiah,Burhanpur,Bihar,India,474963,16.5525146,76.1870811,True,
+743,1,"937, Prakash Marg","Near Sekhon, Borra and Dada",Kunda-Pathak,Asansol,Bhiwani,Punjab,India,564775,17.0538214,92.5179849,False,
+585,3,"04, Amble Road",,Dhaliwal-Dyal,Ujjain,Eluru,Goa,India,296708,19.2576323,85.064027,True,
+164,1,"65, Keer Nagar",,"Rattan, Malhotra and Viswanathan",Rohtak,Tirupati,Rajasthan,India,224604,20.9403362,85.7764885,True,
+414,1,"H.No. 275, Basu Marg",Sector 30,"Palla, Chaudhuri and Amble",Ballia,Singrauli,Chhattisgarh,India,413577,30.7308662,96.6159532,True,
+769,2,"H.No. 620, Sami",Near Sachar and Sons,Varghese-Bhandari,Kalyan-Dombivli,Gwalior,Tripura,India,201090,32.6364566,81.6326727,True,
+769,3,"H.No. 53
+Rao Circle",Block D,Chandra-Narayan,Shimla,Bhatpara,Madhya Pradesh,India,088137,18.6122481,70.2822152,False,
+96,3,"H.No. 62, Basak Street",,"Jhaveri, Mani and Anne",Thanjavur,Bhatpara,West Bengal,India,327704,18.0807965,88.1187037,True,
+96,1,"71/64
+Karan Path",Block D,Taneja-Toor,Tumkur,Bulandshahr,Meghalaya,India,368746,8.0508391,84.9685411,False,
+888,3,"22, Bera",,"Natt, Bhatti and Chandran",Saharanpur,Jaipur,West Bengal,India,584700,33.1201254,89.778775,True,
+652,2,"H.No. 75, Saha Ganj",Sector 90,"Bora, Talwar and Vig",Chapra,Hosur,Goa,India,760841,23.6879099,93.0836479,True,
+825,2,"05
+Master Path",Sector 50,Mall Group,Gangtok,Bangalore,Telangana,India,330275,21.9924197,87.3899055,True,
+8,3,"H.No. 000
+Sahni Road",Sector 31,Subramaniam Inc,Bhavnagar,Bettiah,Bihar,India,056217,33.553822,84.752147,True,
+8,2,"55/341, Dada Ganj",Sector 10,Anne-Shroff,Saharsa,Siwan,Mizoram,India,282414,13.3388257,95.158109,False,
+595,3,"H.No. 267, Khatri Zila",,Chaudry-Agarwal,Ranchi,Jhansi,Himachal Pradesh,India,793330,23.0281371,88.7364366,True,
+69,3,"10, Yogi Road",Near Choudhury-Chakrabarti,Bera-Babu,Kadapa,Satna,Nagaland,India,056175,25.6438738,75.3189404,True,
+220,3,"54
+Lala Road",Block D,Parikh-Ganguly,Jamnagar,Gorakhpur,Andhra Pradesh,India,883600,20.5715916,71.698114,True,
+220,1,"60, Tiwari Road",Near Badami LLC,Handa-Sama,Kadapa,Patna,Madhya Pradesh,India,296743,26.2022942,95.8992048,False,
+16,1,"20/589, Parmer",,Rastogi LLC,Bettiah,Hajipur,Haryana,India,809878,31.0533298,83.8965728,True,
+16,3,"46
+Shah Chowk",,Bajaj-Pathak,Madurai,Panipat,Arunachal Pradesh,India,638863,31.3700037,78.7733231,False,
+407,3,"96/673
+Varkey Street",Block B,Bali-Bir,Tadipatri,Vijayawada,Bihar,India,407762,19.6346464,69.0343893,True,
+469,2,"H.No. 30, Saraf Marg",Sector 77,"Chaudhary, Handa and Chander",Aurangabad,Nanded,Assam,India,235508,35.5193073,81.7834734,True,
+880,2,"H.No. 87, Rama Street",Near Deo LLC,Jani Inc,Nellore,Buxar,Telangana,India,419453,24.6419615,69.1778543,True,
+344,3,"H.No. 03
+Narula Path",Block B,Lalla Group,Gangtok,Alwar,Mizoram,India,597330,24.45969,85.8121123,True,
+947,2,"H.No. 438, Char Path",Sector 98,"Vasa, Sachar and Sankar",Udaipur,Bangalore,Gujarat,India,814828,30.5619086,68.0984254,True,
+883,1,"H.No. 19, Batta Path",Block D,Barad PLC,Rajahmundry,Muzaffarpur,Tripura,India,422534,33.1765369,83.3357375,True,
+229,1,"571
+Bhavsar Ganj",,Dubey PLC,Kalyan-Dombivli,Alappuzha,Jharkhand,India,152632,16.8615322,85.4666747,True,
+137,3,"363, Guha Marg",Sector 69,"Edwin, Konda and Bose",Phagwara,Faridabad,Mizoram,India,186065,15.3954067,70.434062,True,
+137,1,"87
+Khalsa Ganj",,"Golla, Tak and Rana",Raurkela Industrial Township,Hosur,Tamil Nadu,India,227019,36.6797822,89.6481972,False,
+778,3,"H.No. 07
+Kashyap Street",Block A,Ravel Group,Ghaziabad,Rajahmundry,Mizoram,India,812017,34.4144391,85.6160545,True,
+532,1,"88
+Dewan Path",Near Natt-Basu,Murty Inc,Bathinda,Kottayam,Gujarat,India,259332,35.4840779,85.2562551,True,
+532,3,"15/31
+Nagarajan Ganj",,"Ramesh, Bhatt and Khurana",Madhyamgram,Gorakhpur,Madhya Pradesh,India,619912,30.8359847,93.1343884,False,
+59,1,"79/229
+Sani Circle",Sector 6,Ray LLC,Visakhapatnam,Tadipatri,Kerala,India,007841,25.1824344,78.0861856,True,
+7,3,"H.No. 48
+Kulkarni Zila",Block B,Saha and Sons,Ichalkaranji,Bhatpara,Gujarat,India,552190,29.2142928,81.4768585,True,
+549,2,"H.No. 74
+Lal",,Morar Group,Amroha,Durgapur,Madhya Pradesh,India,103267,35.9750976,85.4628526,True,
+978,1,"06/33
+Vaidya Zila","Near Talwar, Seshadri and Bath",Sheth and Sons,Gorakhpur,Hyderabad,Arunachal Pradesh,India,686527,30.0598915,90.2342796,True,
+332,2,"566, Saha Chowk",Sector 61,Kamdar Inc,Vijayanagaram,Farrukhabad,Chhattisgarh,India,119488,25.2435018,71.4593776,True,
+9,2,"26/512, Banerjee Zila",Block A,Apte-Chauhan,Naihati,Akola,Sikkim,India,297291,26.8103336,82.8068294,True,
+9,3,"85/650, Sandal",Block C,Bail LLC,Tirupati,Kulti,Karnataka,India,320337,19.2773287,84.6807528,False,
+914,3,"99/17, Varghese",Near Mutti Group,"Magar, Wali and Gulati",Jehanabad,Mira-Bhayandar,Gujarat,India,787909,35.3859254,71.8998735,True,
+623,1,"69/516, Garde",,"Bail, Date and Ahuja",Srikakulam,Ujjain,Karnataka,India,201107,15.3054121,91.2032348,True,
+623,2,"H.No. 502, Tiwari Nagar",Block A,"Prakash, Purohit and Wable",Alappuzha,Giridih,Manipur,India,735814,27.9095901,76.035558,False,
+592,3,"96, Nagy Marg",Sector 34,Palla Inc,Pali,Muzaffarpur,Meghalaya,India,020229,32.5013392,83.3543797,True,
+592,1,"H.No. 206
+Wadhwa Nagar",Block C,Raj-Choudhry,Satna,Salem,Tamil Nadu,India,585620,15.4971779,71.7836955,False,
+372,3,"H.No. 629, Yadav",Near Pathak PLC,"Dhawan, Dutt and Johal",Anantapuram,Kamarhati,Haryana,India,501159,28.6716281,78.0905783,True,
+485,2,"H.No. 989
+Cherian Chowk",,Kara-Naidu,Parbhani,Durg,Haryana,India,369964,21.2828164,72.7364849,True,
+669,2,"01, Upadhyay",Sector 76,Swamy Group,Sagar,Bareilly,Tripura,India,437829,27.9159155,91.8254986,True,
+168,3,"914
+Venkataraman Path",,Sunder Group,Vijayanagaram,Rajkot,Uttarakhand,India,194479,32.9839207,76.6213985,True,
+168,2,"H.No. 99
+Dara Marg",,Ramanathan Group,Jalandhar,Gaya,Gujarat,India,821749,29.1818586,87.098305,False,
+612,3,"319, Comar Street","Near Khosla, Buch and Sani",Sur Group,Sasaram,Giridih,Odisha,India,186298,25.8680864,70.9613299,True,
+99,3,"253
+Krish Marg",Sector 60,Sood LLC,Moradabad,Asansol,Karnataka,India,945882,33.1224633,70.0519107,True,
+729,1,"17/598
+Ray Marg",Sector 9,"Devi, Bobal and Bhakta",Dehradun,Kanpur,Jharkhand,India,325199,16.8150668,92.3819825,True,
+87,2,"25/72, Raju Ganj",,"Karpe, Solanki and Sunder",Chapra,Sambhal,Uttar Pradesh,India,294632,36.7197316,92.3097016,True,
+937,3,"H.No. 44, Agrawal Path",,"Minhas, Patel and Kari",Ghaziabad,Panchkula,West Bengal,India,008478,9.5475184,73.3309871,True,
+687,2,"H.No. 984, Vora",Block A,Chakrabarti Inc,Rampur,Ajmer,Jharkhand,India,515065,10.5310986,93.7074489,True,
+460,1,"H.No. 42, Sandal Road",Block D,Wagle-Bhandari,Kishanganj,Haldia,Bihar,India,403768,15.1798362,91.5519375,True,
+891,2,"H.No. 45
+Raman Ganj",Block D,Keer LLC,Junagadh,Bihar Sharif,Gujarat,India,161124,27.43447,84.9876269,True,
+255,1,"74/172
+Dada",Sector 59,"Banerjee, Buch and Bobal",Thoothukudi,Ghaziabad,West Bengal,India,059729,28.8224033,72.7011099,True,
+447,2,"H.No. 445, Ravi Nagar",Sector 12,Solanki LLC,Kochi,Visakhapatnam,Uttar Pradesh,India,584322,27.9001246,82.4400378,True,
+447,3,"66
+Ratta Zila",,Kamdar-Lalla,Farrukhabad,Delhi,Haryana,India,960888,14.0942732,81.7125269,False,
+12,3,"072, Choudhury Street",,"Bahri, Kothari and Gill",Katihar,Durgapur,Chhattisgarh,India,191549,31.3174499,81.243045,True,
+932,2,"H.No. 159, Raghavan Path",Sector 5,Bhasin-Ramesh,Bhalswa Jahangir Pur,Eluru,Uttar Pradesh,India,903179,12.1418871,84.2397688,True,
+608,2,"28/102
+Narain Ganj",,Varma-Mukherjee,Bahraich,Rajahmundry,Goa,India,029481,22.2793977,80.2471891,True,
+222,3,"64
+Kalita Circle",,Radhakrishnan Inc,Chandrapur,Faridabad,Bihar,India,959238,27.5174225,93.5975812,True,
+912,3,"H.No. 53, Dora Street",,Kulkarni PLC,Raichur,Thane,Chhattisgarh,India,493687,20.7675847,87.3819546,True,
+912,1,"90/30, Zachariah Road",Near Sabharwal-Sunder,Doshi and Sons,Raurkela Industrial Township,Anantapur,Mizoram,India,897932,18.8370536,82.9596116,False,
+685,2,"33, Mall Path",Block B,Pau Inc,Bhilai,Alappuzha,Uttarakhand,India,785722,20.2533636,83.5471986,True,
+404,1,"93
+Pillai Marg",,"Purohit, Shetty and Khatri",Rajpur Sonarpur,Karimnagar,Tamil Nadu,India,507840,13.5433086,84.7530582,True,
+114,2,"32/30
+Bajwa Ganj",,"Madan, Suri and Tella",Bhusawal,Agartala,Telangana,India,028175,28.1572938,73.7237283,True,
+426,2,"19, Dalal Street",,Anand-Contractor,Khammam,Kozhikode,Uttarakhand,India,329541,9.8605541,68.7781306,True,
+858,2,"70/740
+Buch Marg",Near Wagle-Ravi,Keer-Sen,Sangli-Miraj & Kupwad,Aizawl,Uttar Pradesh,India,279409,12.8527685,73.0076934,True,
+858,3,"675, Parmar Zila",Near Arora Inc,Dutta-Mall,Shimoga,Fatehpur,Telangana,India,484034,18.5114117,86.8162719,False,
+792,2,"637, Kibe Path",Block A,Gala-Raju,Imphal,Meerut,Maharashtra,India,152171,34.527292,85.0154801,True,
+792,1,"80/862, Dua Ganj",Near Mistry LLC,Sundaram-Chander,Nellore,Sultan Pur Majra,Andhra Pradesh,India,966543,10.804995,76.7786199,False,
+620,1,"12, Palla Circle",,"Hegde, Srinivas and Devan",Ratlam,Jabalpur,Punjab,India,705947,28.6588072,88.136143,True,
+620,2,"40/10, Gera Street",Block D,Dhillon PLC,Kottayam,Panchkula,Gujarat,India,109595,15.1940399,88.3757595,False,
+435,2,"38, Sengupta Chowk",Near Ranganathan-Jhaveri,Char-Seth,Medininagar,Serampore,Uttar Pradesh,India,034307,19.1598717,74.3176262,True,
+435,1,"16/971
+Behl Chowk",Sector 83,"Sawhney, Kohli and Banik",Belgaum,Rewa,Nagaland,India,285248,16.7185116,82.8028802,False,
+724,1,"H.No. 608
+Lal Street",,Bahl-Choudhary,Allahabad,Berhampur,Manipur,India,114851,31.0167481,81.0292045,True,
+634,1,"020
+Balay Nagar",Near Jain-Lad,Kumer Ltd,Agartala,Alappuzha,Madhya Pradesh,India,122485,22.2412999,72.9569701,True,
+634,3,"14/029, Banerjee Zila",Sector 5,Sule-Gandhi,Gulbarga,Tinsukia,Jharkhand,India,317897,10.4639016,78.6377847,False,
+163,1,"H.No. 382, Handa",Near Uppal-Biswas,Buch Inc,Kolkata,Nadiad,Telangana,India,731083,17.9793852,76.7809154,True,
+477,2,"H.No. 54, Mutti Chowk",Sector 85,Lall LLC,Thanjavur,Barasat,Himachal Pradesh,India,789234,14.9472413,72.2531896,True,
+855,1,"23/286
+Shah Path",,Bath-Lalla,Chapra,Anantapur,Telangana,India,709928,15.1439432,96.1996172,True,
+71,3,"H.No. 93, Pandey Chowk",Block D,"Bakshi, Deshpande and Sheth",Bally,Aurangabad,Manipur,India,220796,19.7864574,76.2976648,True,
+71,2,"H.No. 09
+Patel Nagar",Near Bassi-Ratti,"Keer, Mitra and Palla",Mysore,Delhi,Manipur,India,853796,13.3446557,87.9211295,False,
+444,2,"95/33, Murty Nagar",Sector 69,"Dixit, Kunda and Narayan",Meerut,Satna,Andhra Pradesh,India,824576,30.3491545,95.9290984,True,
+444,3,"25, Rai",,Trivedi-Bora,Siliguri,Kota,Arunachal Pradesh,India,779535,19.4972254,73.6218465,False,
+343,2,"H.No. 980, Soman Zila","Near Krishnamurthy, Yohannan and Ramanathan",Kala Ltd,Agra,Nagercoil,Goa,India,890975,14.3884801,77.4874589,True,
+484,2,"H.No. 40
+Manne",,Vala Inc,Guna,Alappuzha,Manipur,India,382347,21.2450522,91.045026,True,
+695,2,"33/728
+Deo Street",Sector 3,Hegde-Chaudhry,Morena,Pune,Andhra Pradesh,India,604078,22.7759305,95.5743153,True,
+5,1,"684
+Dua Path",Sector 73,Bajwa-Balakrishnan,Agra,Rewa,Meghalaya,India,686459,34.7141859,94.7663538,True,
+5,2,"956
+Som Street",,Ranganathan and Sons,Siliguri,Gandhinagar,Tamil Nadu,India,352765,31.4747726,69.4575553,False,
+953,2,"H.No. 62
+Behl Chowk",Block D,"Wable, Konda and Pandit",Pondicherry,Mehsana,Sikkim,India,150677,36.8070479,91.8676458,True,
+895,1,"H.No. 106
+Jhaveri Road",Near Deol Group,Bhakta-D’Alia,Jammu,Gulbarga,Manipur,India,797165,24.8436412,73.2924073,True,
+895,2,"67/80, Goswami Ganj",Block A,"Gour, Sant and Kanda",Cuttack,Patiala,Haryana,India,934445,20.2752015,96.0018301,False,
+110,3,"44/764, Oommen Street",Block C,Sood-Randhawa,Naihati,Mathura,Tamil Nadu,India,449700,32.3351704,87.1770133,True,
+688,1,"754, Singhal Zila",,"Loyal, Krish and Tank",Rampur,Sikar,Chhattisgarh,India,274674,27.7138636,68.1077771,True,
+121,2,"H.No. 939
+Bhagat Nagar",Sector 79,Walia PLC,Thoothukudi,Karaikudi,Maharashtra,India,890858,9.2539187,93.8209283,True,
+382,1,"78/683
+Gour Marg",Block C,Bhat-Mandal,Thane,Allahabad,Telangana,India,469359,25.6186659,71.6764071,True,
+265,2,"49/02
+Saran",Sector 81,"Kant, Seshadri and Wadhwa",Sambhal,Kochi,Andhra Pradesh,India,372666,9.6979082,83.0842373,True,
+37,3,"20/36
+Chanda Circle","Near Gour, Shetty and Gala",Saha Ltd,Dehri,Patna,Manipur,India,547602,28.3504538,90.3669572,True,
+39,3,"H.No. 685, Srinivasan Street",Near Kannan-Yadav,"Suri, Ahuja and Sridhar",Miryalaguda,Motihari,Himachal Pradesh,India,034242,14.7998136,81.7998081,True,
+794,1,"H.No. 933
+Sachdev Chowk",Block D,"Sodhi, Chandran and Ghosh",Srikakulam,Hajipur,Bihar,India,873580,31.2903946,89.0745012,True,
+969,1,"57
+Mani Marg",,Jani Inc,Bellary,Kharagpur,Karnataka,India,003766,25.8104158,88.0681738,True,
+962,1,"H.No. 24
+Dutta Street",Sector 43,"Ramakrishnan, Bansal and Pandey",Shivpuri,Secunderabad,Sikkim,India,176232,30.2615329,73.189779,True,
+68,1,"722, Lalla Chowk",,"Chopra, Goyal and Viswanathan",Bidar,Bareilly,Karnataka,India,458023,25.7132962,75.6283557,True,
+513,3,"H.No. 35, Borah",Block D,Dayal and Sons,Jamalpur,Thrissur,Mizoram,India,680592,11.4904791,80.5252911,True,
+513,2,"H.No. 337
+Natarajan Marg",Sector 44,"Deo, Narula and Samra",Tezpur,Secunderabad,Rajasthan,India,633520,27.3316147,80.133854,False,
+270,2,"H.No. 319
+Arora Nagar",Sector 41,"Soman, Puri and Ravel",Giridih,Vijayawada,West Bengal,India,413960,12.2728892,71.9214269,True,
+392,1,"H.No. 19, Bumb Road",Block C,Narayan and Sons,Berhampur,Kolkata,Telangana,India,928195,13.8640867,84.0012778,True,
+53,1,"65
+Sen Path",Sector 27,Nagar-Sridhar,Nangloi Jat,Madurai,Nagaland,India,512869,19.3052143,70.4435675,True,
+192,2,"54/04, Bajwa Ganj",Block A,Murty-Basak,Bhiwani,Noida,Arunachal Pradesh,India,057648,34.1227467,84.5464718,True,
+86,1,"95/621, Lall Path",Block D,Saran-Varughese,Chandigarh,Amaravati,Punjab,India,665780,22.4978893,68.783019,True,
+436,2,"944
+Tella Ganj",Block C,Pai and Sons,Kolkata,Tenali,Sikkim,India,367080,29.866016,91.085911,True,
+955,1,"H.No. 825
+Sahota Street",Near Lad-Sagar,"Ravi, Pai and Rajagopal",Ambala,Sultan Pur Majra,Bihar,India,566558,33.7554285,68.1794281,True,
+955,2,"H.No. 977
+Goyal Path",,Sampath-Chaudhary,Latur,Orai,Maharashtra,India,536131,34.5076033,81.350512,False,
+397,1,"48/53, Kanda Zila",Block A,Gala-Vohra,Bhiwani,Nizamabad,Chhattisgarh,India,162633,32.2350497,76.9536753,True,
+742,3,"017, Patil Road",Near Rajan-Bhagat,Ramanathan-Kala,Sambalpur,Mahbubnagar,Tamil Nadu,India,228783,19.5958317,93.4719103,True,
+573,3,"30
+Nadkarni Nagar",Block D,"Nadig, Shukla and Pingle",Orai,Bhind,Assam,India,730894,21.0686666,72.3327202,True,
+218,2,"941
+Rajagopal Nagar",Block C,Kumer-Batra,Maheshtala,Kharagpur,Mizoram,India,166231,11.0794384,91.5447973,True,
+218,3,"56/33, Rai Marg",Block A,"Padmanabhan, Shroff and Nadig",Medininagar,Guntur,Rajasthan,India,896882,9.2157836,95.0701803,False,
+780,2,"H.No. 151, Sandal Nagar",,"Venkatesh, Nayak and Dhingra",Rourkela,Agra,Gujarat,India,142383,16.2920601,74.4277852,True,
+40,3,"68/450, Sodhi Road",Sector 14,"Kannan, Gera and Aggarwal",Jehanabad,Anantapur,Karnataka,India,917541,25.7876272,70.555064,True,
+767,1,"60/25
+Roy",,Munshi-Gaba,Gurgaon,Haldia,Manipur,India,913921,27.3590066,80.6066073,True,
+496,2,"H.No. 87
+Bhat Chowk",Sector 83,Mahajan-Majumdar,Noida,Aligarh,Mizoram,India,309442,27.8992414,86.4680704,True,
+459,2,"10
+Wadhwa Road",Sector 82,Roy-Tara,Hubli–Dharwad,Visakhapatnam,Goa,India,062926,24.4893404,89.8096979,True,
+459,1,"03/250
+Sandhu Street",Near De Ltd,"Kamdar, Sani and Johal",Kamarhati,Jehanabad,Tripura,India,138037,34.8868113,79.3589286,False,
+854,2,"65/722
+Gulati Road",,Dani-Upadhyay,Raebareli,Ranchi,Odisha,India,442698,15.7364739,72.8372614,True,
+561,2,"02/725
+Palla Path",Sector 12,Pillai-Dora,Machilipatnam,Gudivada,Kerala,India,188151,14.5518068,87.811171,True,
+2,3,"H.No. 50
+Chaudhry Road",Near Tak PLC,Kant-Shukla,Mirzapur,Nashik,Himachal Pradesh,India,364513,8.3918044,73.1874114,True,
+919,3,"706
+Suri Circle",,Rout LLC,Chandigarh,Bihar Sharif,Himachal Pradesh,India,780087,22.7272248,69.8357444,True,
+65,2,"H.No. 60, Rao Circle",Near Vig-Basu,Kothari Group,Kishanganj,Deoghar,Andhra Pradesh,India,249565,22.369538,84.3446025,True,
+805,2,"56
+Goswami Nagar",Block D,"Mall, Srinivasan and Nori",Jalna,Khandwa,Telangana,India,297500,23.6978922,93.2638974,True,
+675,3,"67
+Ahuja Zila",Block A,Saran Inc,Mysore,Khandwa,Punjab,India,829111,21.2703532,90.4096888,True,
+984,2,"78/763, Zacharia Marg",,Kashyap-Misra,Kadapa,Gopalpur,Punjab,India,014677,17.7133378,72.2487837,True,
+921,2,"95/87, Kalita Street",,"Sood, Dewan and Ravi",Haldia,Alwar,Goa,India,313795,13.237888,71.5477252,True,
+20,1,"07/39
+D’Alia Nagar",Sector 85,Gopal-Maharaj,Bokaro,Raebareli,Nagaland,India,786849,27.2181412,86.9596006,True,
+203,2,"H.No. 266, Sankar Ganj",,Deshpande Group,Uluberia,Bhalswa Jahangir Pur,Tamil Nadu,India,396723,30.5693132,74.3896112,True,
+203,1,"H.No. 75, Hari Nagar",Sector 95,Dani Ltd,Anantapuram,Kochi,Punjab,India,697019,32.8671034,83.8517713,False,
+32,2,"H.No. 35, Bumb Ganj",,"Rajagopalan, Pathak and Bhalla",Orai,Kalyan-Dombivli,Jharkhand,India,943316,21.2744822,80.7704728,True,
+987,1,"04/38, Bhakta",,Maharaj Inc,Karawal Nagar,Tenali,Uttarakhand,India,605648,11.0573636,78.1792184,True,
+629,2,"99
+Bandi Street",Block C,"Thakur, Rajagopalan and Panchal",Chandrapur,Gorakhpur,Kerala,India,707085,25.305626,79.0032292,True,
+922,3,"83
+Peri Street",,"Wable, Morar and Suri",Bhopal,Chinsurah,Manipur,India,090253,32.7507257,73.8440173,True,
+431,2,"71/70, Yohannan",Near Sani-Zacharia,Madan LLC,Berhampore,Morena,Himachal Pradesh,India,632842,12.0608958,95.6481034,True,
+429,3,"H.No. 937, Sane","Near Deep, Prasad and Grewal","Dar, Andra and Agarwal",Loni,Kanpur,Mizoram,India,002159,29.7000572,75.9035161,True,
+429,1,"H.No. 968
+Mani Marg",Sector 22,Bajwa-Agarwal,Bhavnagar,Gandhinagar,Madhya Pradesh,India,077828,9.8044536,96.6981115,False,
+693,2,"543
+Sheth Marg",Near Dalal LLC,"Vaidya, Muni and Agrawal",Morena,Jaipur,Uttar Pradesh,India,433715,14.7578261,68.7615726,True,
+697,2,"60/50
+Kadakia Nagar",Near Babu-Baral,Sanghvi-Batra,Kadapa,Durgapur,Haryana,India,673257,26.7795938,69.7899275,True,
+801,3,"H.No. 869, Dayal Chowk",Sector 97,"Sane, Kar and Bajaj",Bangalore,Delhi,Nagaland,India,778611,11.0195989,69.2368813,True,
+684,2,"737, Rana Marg",,Palla and Sons,Ahmedabad,Ichalkaranji,Maharashtra,India,154436,17.5761645,75.6435485,True,
+298,3,"25/111, Warrior Path",Sector 48,Sahota LLC,Danapur,Dehradun,Kerala,India,175965,17.493435,90.0037048,True,
+630,2,"349, Taneja Ganj",,Vora-Sami,Gulbarga,Agra,Goa,India,586733,13.7101755,83.7476597,True,
+630,1,"H.No. 565, Khosla Chowk",Sector 1,"Lanka, Savant and Pau",Firozabad,Miryalaguda,Nagaland,India,605690,35.5434751,95.4126244,False,
+130,1,"90
+Deshpande Path",,"Atwal, Murthy and Bhandari",Munger,Malda,Meghalaya,India,365654,27.5659489,81.3142182,True,
+591,2,"66/052
+Mahajan Street",,"Bansal, Agarwal and Kamdar",Sasaram,Bhavnagar,Telangana,India,740233,9.8569056,92.3366142,True,
+211,1,"47/933
+Deep Street",,Lalla Inc,Motihari,Kakinada,Rajasthan,India,286955,25.3646169,76.7456263,True,
+499,1,"35/582, Pau Ganj",Near Toor and Sons,Sachar-Ghose,Kakinada,Motihari,Maharashtra,India,866858,19.6143928,70.6925901,True,
+422,3,"30, De Path",Sector 71,"Shan, Parmer and Parikh",Amravati,Amaravati,West Bengal,India,762528,35.4744844,85.7743316,True,
+421,1,"H.No. 571, Krish Zila",Block C,"Sarin, Choudhry and Chander",Mysore,Aizawl,Meghalaya,India,119453,21.1280676,79.3783244,True,
+54,1,"43/457, Gokhale Street",Near Dora-Sharaf,"Padmanabhan, Saha and Lad",Ahmednagar,Bathinda,Rajasthan,India,399574,22.4817333,70.6263777,True,
+408,3,"48
+Ranganathan Zila",Near Bhat-Sangha,Bakshi-Nori,Dhanbad,Amroha,Nagaland,India,680017,18.5818294,83.8004643,True,
+77,3,"07, Bassi Circle",Sector 92,Mukhopadhyay-Dalal,Ghaziabad,Tinsukia,Jharkhand,India,852363,18.3385827,72.9356143,True,
+990,1,"958, Koshy Street",Near Dara-Taneja,"Mahal, Apte and Sankaran",Hubli–Dharwad,Amroha,Telangana,India,316381,10.0169462,85.1864592,True,
+703,2,"H.No. 67
+Chanda Street",Sector 32,Keer-Rana,Baranagar,Dehradun,Karnataka,India,341009,24.7006845,83.5195989,True,
+703,1,"H.No. 17
+Iyengar Marg",Block A,Choudhury-Kara,Bellary,Mango,Goa,India,431339,24.3762714,89.9014248,False,
+998,1,"H.No. 915, Morar Marg",Sector 4,"Mittal, Pal and Walia",Farrukhabad,Bhavnagar,Rajasthan,India,671837,14.9626642,84.7897175,True,
+268,3,"95/385
+Chopra",Near Chhabra Inc,Mody-Rana,Allahabad,Ozhukarai,Bihar,India,016203,17.8197598,83.7778504,True,
+757,2,"836, Nagarajan Chowk",Block D,Tak Ltd,Phusro,Jaunpur,Arunachal Pradesh,India,695011,35.1522612,88.1677678,True,
+312,2,"19, Cherian Zila",Sector 72,Kannan Inc,Asansol,Warangal,Odisha,India,640493,16.1102402,77.7324522,True,
+124,3,"72/23, Dani Chowk",Near Saini-Guha,"Gulati, Agrawal and Vig",Thoothukudi,Raiganj,Jharkhand,India,690917,29.770738,82.3074124,True,
+307,3,"78
+Chad Road",,Chaudry Group,Satara,Indore,Tamil Nadu,India,904251,28.08373,92.6787271,True,
+500,1,"H.No. 945
+Kadakia Street",,Srinivas LLC,Ratlam,Vasai-Virar,Uttarakhand,India,666425,27.9466792,69.2646923,True,
+813,3,"76/63
+Dubey","Near Deep, Bail and Chander",Baral-Dora,Nagaon,Ahmedabad,Sikkim,India,666733,30.1776679,71.6796255,True,
+140,2,"H.No. 453
+Ravi",,Chaudhary PLC,Guwahati,Gurgaon,Manipur,India,822448,29.5177423,93.8281666,True,
+140,3,"37/12
+Mukherjee Ganj",Sector 1,Kapur PLC,Anand,Bahraich,Arunachal Pradesh,India,072903,15.0436147,89.4873831,False,
+614,3,"H.No. 085
+Aggarwal Street",Near Gera Inc,Chauhan Group,Ozhukarai,Kadapa,Assam,India,720412,8.7790114,73.0847207,True,
+316,3,"H.No. 941
+Chaudhuri",Sector 51,"Buch, Sundaram and Gokhale",Bhusawal,Indore,Bihar,India,291848,15.3724798,81.1219488,True,
+316,2,"68/04
+Narayan Chowk",Near Bora-Master,"Kaul, Upadhyay and Pau",Silchar,Solapur,Chhattisgarh,India,077791,16.4959424,75.3464781,False,
+976,1,"34
+Doshi Ganj",Near Deshmukh Group,Sule Group,Tumkur,Tirupati,Mizoram,India,222908,21.8238407,83.4902996,True,
+976,3,"55/650, De Nagar",,Kanda Group,Noida,Thoothukudi,Kerala,India,287390,19.1581418,72.3533095,False,
+295,3,"42
+Kaur Ganj",,Kari-Bassi,Ramgarh,Vijayawada,Haryana,India,852557,15.0640315,80.877876,True,
+539,1,"776
+Buch Road",Near Thakkar PLC,Prabhakar and Sons,Kharagpur,Navi Mumbai,Manipur,India,559523,24.391054,93.7545414,True,
+219,2,"H.No. 550, Tella Path",Block B,Gaba Ltd,Bidhannagar,Ludhiana,Gujarat,India,730366,17.3669919,94.0279501,True,
+319,1,"47/952, Mishra Road","Near Dugar, Mukhopadhyay and Devi","Sharma, Prabhakar and Chakrabarti",Jamnagar,Varanasi,Punjab,India,818348,35.6687912,87.1669343,True,
+607,3,"40/290
+Hari Ganj",Block C,Banik-Muni,Aizawl,Rewa,Madhya Pradesh,India,628017,13.2201288,90.3183718,True,
+184,3,"45/298
+Minhas Road",Near Sheth Ltd,"Shah, Varkey and Dada",Proddatur,Kharagpur,Tamil Nadu,India,645730,24.9217313,95.5891595,True,
+56,2,"14/98
+Chadha Circle",Block C,Pandey-Chowdhury,Dibrugarh,Junagadh,Jharkhand,India,112369,33.4614438,90.3382269,True,
+56,1,"05/53, Sankaran Marg",Near Munshi-Mukherjee,Khurana-Sant,Bhavnagar,Raipur,Madhya Pradesh,India,245147,30.7431333,87.7233947,False,
+604,2,"17/40, Subramanian Road",Sector 92,"Sharaf, Lala and Oak",Korba,Thoothukudi,Rajasthan,India,244106,12.9726582,73.8979531,True,
+29,1,"36, Som Chowk",Sector 43,Chatterjee-Butala,Bhalswa Jahangir Pur,Warangal,Assam,India,733828,34.0287882,83.1803969,True,
+125,1,"12/04, Date Zila",Near Bumb Group,"Pandit, Prakash and Narain",Bareilly,Rampur,Jharkhand,India,655104,31.8622769,76.2696082,True,
+105,3,"54/050
+Vasa Chowk",Block B,Murty and Sons,Rajpur Sonarpur,Warangal,Maharashtra,India,807198,12.2520227,84.7074576,True,
+680,3,"H.No. 924
+Babu Street",Sector 84,"Dhar, Sidhu and Parikh",Khammam,Moradabad,Sikkim,India,402635,36.9595855,75.4728173,True,
+680,1,"007
+Batta Zila",,Banerjee-Gola,Jalandhar,Ahmednagar,Mizoram,India,826935,26.7150058,83.2451762,False,
+362,3,"45
+Sarraf Marg","Near Lata, Ramachandran and Dash","Chopra, Gaba and Doctor",Anantapuram,Guna,Meghalaya,India,865062,30.8115459,88.0021488,True,
+557,1,"88/83
+Bajaj Path",Sector 81,Mutti-Lad,Kochi,South Dumdum,Manipur,India,380642,23.1158243,95.0100682,True,
+85,1,"66/899
+Dugal Street","Near Naidu, Sankar and Kala",Chowdhury-Narasimhan,Thiruvananthapuram,Bhalswa Jahangir Pur,Maharashtra,India,942949,20.6648509,71.8965581,True,
+85,3,"H.No. 036
+Sahota Path",,Palan-Nigam,Sambalpur,Machilipatnam,Chhattisgarh,India,924980,12.8557789,73.3421688,False,
+719,3,"316, Chakraborty Chowk",Near Borah Group,Kakar-Mohanty,Tiruchirappalli,Udupi,Arunachal Pradesh,India,132160,35.9551072,85.4495189,True,
+719,2,"40, Choudhry Street",Near Magar-Panchal,Srinivas Ltd,Nandyal,Tadipatri,Bihar,India,273318,16.4897454,90.6530642,False,
+508,2,"73/674, Solanki Street",Block C,Patel and Sons,Kavali,Jhansi,Rajasthan,India,985472,21.6527037,86.7681379,True,
+508,1,"48/476
+Wagle Ganj","Near Pillay, Sampath and Bail",Sidhu-Patla,Baranagar,Sonipat,Assam,India,966491,27.4512985,69.8751122,False,
+106,2,"H.No. 68, Bhattacharyya Street",,Ravel-Badami,Adoni,Nanded,Karnataka,India,021054,27.5684335,92.0692811,True,
+582,2,"477
+Gera Path",Sector 5,"Vohra, Sachar and Pandit",Mira-Bhayandar,Shivpuri,Madhya Pradesh,India,166170,26.7040545,80.6036604,True,
+929,2,"23, Amble Ganj",Block C,Jaggi LLC,Patiala,Ajmer,Jharkhand,India,640199,9.7015868,77.2535337,True,
+929,3,"19/35
+Misra",,Buch-Kannan,Tumkur,Bhavnagar,Rajasthan,India,944542,23.2614806,87.9089373,False,
+488,1,"H.No. 499, Minhas Street",Block A,Mahal Group,Panipat,Avadi,Telangana,India,497408,36.6945084,81.4601917,True,
+709,2,"671
+Dhawan Road",,"Mahajan, Shere and Banerjee",Ludhiana,Gwalior,Meghalaya,India,189460,19.6964364,81.8604377,True,
+709,1,"51/98, Ahluwalia Street",,Agarwal and Sons,Kirari Suleman Nagar,Srikakulam,Chhattisgarh,India,137130,14.4603174,74.8868777,False,
+677,2,"70, Thakur Road",Block C,Palla-Tiwari,Panchkula,Singrauli,Rajasthan,India,578417,32.2787953,70.6306775,True,
+320,2,"88/04, Rai Circle",,Kashyap and Sons,Ichalkaranji,Jhansi,Arunachal Pradesh,India,293427,22.1650112,77.3436611,True,
+554,3,"28/05, Savant Street",Sector 87,"Prasad, Sarna and Sen",Ludhiana,Gandhinagar,Sikkim,India,313964,12.1963099,81.9523783,True,
+900,2,"74/67
+Ahuja",Near Suresh and Sons,"Bhatia, Narasimhan and Dugar",Guntakal,Patna,Rajasthan,India,870900,8.4899171,85.2569829,True,
+702,1,"H.No. 260, Narasimhan Street","Near Ram, Hegde and Shukla",Sane Group,Nagpur,Firozabad,Bihar,India,171297,16.0308586,79.5134279,True,
+915,3,"H.No. 24, Goyal Marg",Sector 36,Misra Group,Tenali,Surendranagar Dudhrej,Uttar Pradesh,India,030905,29.3398053,86.2535756,True,
+79,3,"H.No. 751, Memon Street",Near Majumdar Inc,"Rastogi, Sethi and Desai",Ichalkaranji,Kalyan-Dombivli,Maharashtra,India,074732,13.5433826,77.4568168,True,
+433,1,"29/451
+Vig Chowk","Near Kakar, Dara and Deshpande","Bhatnagar, Taneja and Andra",Hapur,Bhiwandi,Arunachal Pradesh,India,465024,14.0956953,75.3922581,True,
+433,2,"H.No. 725
+Bassi Marg",Sector 49,Wable Ltd,Nanded,Aurangabad,Arunachal Pradesh,India,055354,25.7214314,69.4975758,False,
+400,3,"71, Sarna Circle",,Loyal PLC,Nashik,Bangalore,Tripura,India,664576,15.0144391,94.0395734,True,
+108,1,"23/31, Loyal Street",Sector 65,Tripathi Ltd,Ichalkaranji,Hosur,Jharkhand,India,794225,21.8608863,75.9997549,True,
+242,1,"27/851, Shenoy Path","Near Divan, Pillai and Gala",Manda-Dey,Haldia,Kirari Suleman Nagar,Himachal Pradesh,India,965307,22.4878377,89.6179333,True,
+242,2,"00
+Shanker Street",Block B,Verma LLC,Gorakhpur,Panvel,Manipur,India,608988,29.616288,89.6413463,False,
+165,3,"99, Nayar Road",Sector 90,Shroff-Raval,Mathura,Sambhal,Andhra Pradesh,India,418913,33.877038,79.8914377,True,
+165,2,"H.No. 80
+Khalsa Marg",,Nayak Inc,Bangalore,Ambarnath,Manipur,India,364052,33.5723132,85.5504415,False,
+491,1,"18/512, Choudhury Chowk","Near Seth, Butala and Mitra",Lad and Sons,Tadepalligudem,Patiala,Uttar Pradesh,India,476882,26.2316158,95.7998248,True,
+816,1,"74/40
+Sahni Zila",Sector 95,Narang-Mistry,Kumbakonam,Ghaziabad,Nagaland,India,197302,34.5948043,72.7747951,True,
+664,1,"H.No. 811
+Minhas Nagar",Block B,"Ravi, Varty and Gopal",Nagercoil,Ichalkaranji,Bihar,India,652889,16.2572708,79.1487516,True,
+664,2,"99/599, Sawhney Road",Block A,Narayanan PLC,Belgaum,Gandhinagar,Uttarakhand,India,902779,25.8390568,69.6100039,False,
+551,3,"83/598
+Mital Street",Near Anand Ltd,"Trivedi, Zacharia and Dutt",Nanded,Machilipatnam,Gujarat,India,215119,30.6443932,71.0254642,True,
+57,1,"83/436
+Ramesh Ganj",,Pathak LLC,Ratlam,Nagercoil,Tripura,India,237417,9.6324916,68.7838519,True,
+283,3,"95/05, Sen Nagar",Near Bakshi PLC,"Gole, Bala and Agrawal",Srikakulam,Salem,West Bengal,India,695483,27.7595888,96.9643153,True,
+555,3,"H.No. 101
+Thaman Marg",,"Parikh, Mody and Pingle",Srinagar,Cuttack,Haryana,India,501283,20.1290048,72.0975859,True,
+555,2,"71, Amble Nagar",Sector 57,"Bains, Nagi and Chaudhary",Bathinda,Malegaon,Arunachal Pradesh,India,122971,18.718983,93.6372036,False,
+770,3,"72/427, Bora Zila",Sector 45,Chada and Sons,Bettiah,Nagercoil,Maharashtra,India,228807,25.856334,73.9918839,True,
+538,1,"H.No. 00
+Rau Circle",Block B,Oza LLC,Bhilai,Tiruvottiyur,Andhra Pradesh,India,440467,20.8040928,74.1681377,True,
+876,2,"00/775
+Varkey Chowk",Near Kannan Ltd,Prashad Group,Sikar,Hazaribagh,Tripura,India,459299,15.8423307,80.9788279,True,
+653,1,"H.No. 43, Bandi Nagar",Sector 13,"Randhawa, Korpal and Salvi",Varanasi,Shahjahanpur,Kerala,India,656065,20.6004741,94.6799996,True,
+653,3,"82/86, Karnik Nagar",Block B,Kari-Sampath,Jalgaon,Sri Ganganagar,Tamil Nadu,India,714875,30.7154677,90.8328012,False,
+3,2,"66/78, Barad Zila",Block C,Andra Inc,Ghaziabad,Barasat,Tamil Nadu,India,056985,11.6659136,74.8520791,True,
+3,1,"89/380, Salvi Zila",,Pingle-Majumdar,Phagwara,Aurangabad,Sikkim,India,135396,22.1089223,91.5528818,False,
+419,1,"H.No. 28, Upadhyay Circle",Sector 10,Bahri Inc,Ghaziabad,Phusro,Nagaland,India,751490,35.6316891,93.2362939,True,
+711,3,"558, Roy Zila",Sector 5,Ganesh Ltd,Durg,Imphal,Karnataka,India,464186,26.5589236,84.3809014,True,
+594,3,"51/37, Konda Road",,Ben Ltd,Amritsar,Jabalpur,Arunachal Pradesh,India,906529,10.6679123,76.1142536,True,
+594,2,"966
+Prasad Street","Near Pant, Thakur and Agate","Bala, Chaudry and Sandal",Chandigarh,Munger,Karnataka,India,103647,12.6182054,78.7004552,False,
+224,2,"460, Shenoy Ganj",,Sachdeva PLC,Tinsukia,Bellary,Odisha,India,870885,27.9124046,87.9674138,True,
+321,2,"92/06, Badami Street",Sector 95,Bajwa LLC,Nagaon,Sangli-Miraj & Kupwad,Himachal Pradesh,India,436940,20.7372174,68.1926749,True,
+256,1,"23/87, Mittal Street",,Ravel-Baral,Coimbatore,Ahmedabad,Gujarat,India,002938,24.3494498,74.8250036,True,
+679,2,"562
+Peri Nagar",,Pillai-Warrior,Panihati,Vadodara,Meghalaya,India,659390,14.9330127,69.4812669,True,
+28,2,"74/07, Hayre Zila",Block D,Aurora-Dixit,New Delhi,Bally,Tripura,India,537130,18.6274398,74.5135541,True,
+775,1,"01/12, Pradhan Ganj",Near Chakraborty-Thakkar,Shanker-Ben,Ahmedabad,Raurkela Industrial Township,West Bengal,India,372996,10.590575,73.7931963,True,
+151,2,"H.No. 64
+Sandhu Marg",Sector 16,Natarajan-Kapadia,Jalgaon,Jalandhar,Himachal Pradesh,India,567220,30.1077085,86.7156302,True,
+214,2,"H.No. 76
+Bhasin Nagar",Sector 94,Sehgal-Swaminathan,Gudivada,Kanpur,Andhra Pradesh,India,111928,27.2108868,70.3522154,True,
+214,3,"41/04, Dhaliwal Circle",Block B,Dar-Soman,Aligarh,Kanpur,Tripura,India,180673,34.1762739,80.6228534,False,
+956,2,"439
+Narayan Street",Sector 72,Borde Ltd,Bhatpara,Guwahati,Andhra Pradesh,India,745115,9.9975299,74.6777309,True,
+956,1,"050
+Mohan Street",,"Comar, Saran and Acharya",Nandyal,Baranagar,Arunachal Pradesh,India,615144,13.673972,78.6323521,False,
+10,1,"793
+Prasad Chowk",Near Subramanian PLC,Issac-Kuruvilla,Patiala,Delhi,Telangana,India,462456,11.0749707,79.8818231,True,
+139,1,"H.No. 12, Shetty Marg",Block B,"Issac, Dixit and Sodhi",Dindigul,Gwalior,Rajasthan,India,650022,31.2947612,77.1660232,True,
+974,3,"H.No. 048
+Sampath Road",Block A,"Aggarwal, Khurana and Karnik",Haridwar,Cuttack,West Bengal,India,153682,12.1480558,77.738861,True,
+974,2,"13
+Soni Marg",Sector 19,Mohanty PLC,Buxar,Bhopal,Madhya Pradesh,India,807689,13.6334953,78.7125546,False,
+938,1,"14/062
+Mishra Road",Sector 14,Puri-Mandal,Bidhannagar,Saharanpur,Punjab,India,353463,25.7368368,75.4830795,True,
+986,3,"810
+Bhattacharyya Road","Near Sathe, Dutt and Saha",Kumar-Sheth,Srinagar,Rampur,Haryana,India,510793,33.3928738,90.5706344,True,
+972,1,"45/934, Wali",Sector 67,Naidu PLC,Tirupati,Maheshtala,Assam,India,329477,19.2951952,87.8323054,True,
+972,2,"H.No. 278
+Singhal",Sector 69,Issac and Sons,Warangal,Sambhal,Rajasthan,India,583647,23.5204796,72.785403,False,
+519,1,"H.No. 67, Bhavsar Chowk",Block B,"Mammen, Pillai and Biswas",Chinsurah,Chittoor,Kerala,India,735448,20.481544,77.6739787,True,
+200,2,"H.No. 569
+Kibe Road",Near Balay Ltd,Kale-Tara,Gwalior,Akola,Telangana,India,414997,19.9323405,78.0290093,True,
+200,1,"20/90, Shetty",,"Bahl, Chad and Seth",Nandyal,Vijayawada,Himachal Pradesh,India,647081,35.182825,87.9479754,False,
+963,3,"152
+Chandran Road","Near Walla, Ramanathan and Warrior",Prabhakar Ltd,Kolkata,South Dumdum,Tamil Nadu,India,815672,33.7221583,82.3388953,True,
+487,3,"25/030
+Tak Street",Block B,"Cheema, Ganesan and Vora",Baranagar,Ongole,Chhattisgarh,India,934850,25.9800854,95.1780622,True,
+699,3,"H.No. 81, Lata Marg",Block D,Dua LLC,Yamunanagar,Katni,Andhra Pradesh,India,445110,25.741904,92.8014577,True,
+699,1,"H.No. 556
+Master",Sector 67,Rai-Varkey,Dibrugarh,Siliguri,Odisha,India,228592,15.4309648,92.1432499,False,
+470,1,"72/74
+Dhingra Zila",Sector 10,Maharaj-Comar,Thanjavur,Ambattur,Arunachal Pradesh,India,267280,9.2070517,71.5800962,True,
+470,2,"H.No. 10, Talwar Zila",Sector 43,Lalla-Sami,Ichalkaranji,Asansol,Uttar Pradesh,India,400096,22.2097159,76.7271078,False,
+170,2,"841, Joshi Ganj","Near Natarajan, Kaul and Sarna","Bahri, Chand and Karan",Hyderabad,Jehanabad,Arunachal Pradesh,India,029171,27.870948,76.9595819,True,
+522,2,"477
+Yohannan Ganj",Block C,Kalita LLC,Sikar,Navi Mumbai,Himachal Pradesh,India,015330,28.7263932,82.1382408,True,
+565,3,"48/427, Nath Marg",Near Tiwari-Sachar,Kalla-Dalal,Singrauli,Shimoga,Goa,India,635178,35.9091763,70.0903832,True,
+565,1,"73, Agarwal",Near Babu-Vig,Nair Ltd,Bellary,Chandrapur,Gujarat,India,326707,28.8324945,72.9589392,False,
+13,2,"H.No. 64
+Pradhan Marg",Near Uppal Inc,"Andra, Ramanathan and Ramaswamy",Cuttack,Mysore,Tamil Nadu,India,478557,31.4039331,75.2421476,True,
+626,2,"660, Tiwari Road",Block D,"Nanda, Mani and Vohra",Katni,Ozhukarai,Himachal Pradesh,India,755560,9.2603953,75.3462007,True,
+227,2,"H.No. 840, Varghese Chowk",Sector 95,Shetty-Acharya,Mahbubnagar,Sultan Pur Majra,Chhattisgarh,India,243106,14.6522143,70.0354694,True,
+272,3,"345
+Loyal Zila",,Sama Inc,Anantapuram,Bhimavaram,Uttarakhand,India,986829,29.5708229,76.8139779,True,
+272,1,"77/527
+Walla Zila",Block D,Nadig-Mane,Nizamabad,Karawal Nagar,Chhattisgarh,India,203448,17.57867,92.1428743,False,
+134,3,"H.No. 906, Gopal Chowk","Near Agate, Kara and Nath",Sibal-Bhandari,Jamalpur,Narasaraopet,Andhra Pradesh,India,622875,22.9001927,95.6102338,True,
+134,1,"99/02, Singh Nagar",Block C,Shah Group,Motihari,Jehanabad,Punjab,India,571667,27.9084625,74.0066098,False,
+967,2,"61
+Kala Zila","Near Tailor, Pathak and Panchal",Behl Group,Panipat,Ballia,Bihar,India,862269,12.0068006,78.9047129,True,
+374,1,"H.No. 04
+Palla Chowk",Near Pandey Group,Mander-Pal,Sikar,Gwalior,Sikkim,India,666605,29.4798565,93.7598795,True,
+374,3,"H.No. 01, Sur Zila",,Babu Ltd,Tiruppur,Guntakal,Gujarat,India,516323,31.0046573,72.0873593,False,
+637,2,"H.No. 78
+Sawhney Ganj","Near Butala, Bhandari and Mittal",Bath Inc,Khandwa,Dehri,Uttar Pradesh,India,971413,13.9903502,79.5021566,True,
+637,3,"110
+Vohra Ganj",Sector 36,Din-Kalla,Nandyal,Hapur,Mizoram,India,046974,14.6948987,93.3631205,False,
+266,3,"H.No. 823
+Sant Zila",Sector 99,"Mallick, Kuruvilla and Walla",Kakinada,Chittoor,Chhattisgarh,India,624309,26.532094,81.5231746,True,
+897,3,"H.No. 65
+Ramakrishnan Chowk",Near Saraf LLC,Desai LLC,Erode,Patna,Uttarakhand,India,807043,18.6455505,80.38705,True,
+763,3,"18/54, Chacko Chowk","Near Tiwari, Bhandari and Seth","Kunda, Sharma and Dara",Madanapalle,Jhansi,Andhra Pradesh,India,558414,9.3370969,68.3517321,True,
+357,3,"92
+Soni Zila",Sector 62,Nadkarni-Khalsa,Jamalpur,Morena,Rajasthan,India,961422,22.2945291,76.0376655,True,
+334,2,"10/260, Zacharia Path",,Saxena-Deshmukh,Rajkot,Aligarh,Maharashtra,India,379466,35.0476653,71.5209832,True,
+438,1,"63
+Bhardwaj Ganj",Sector 74,Dixit-Venkatesh,Bhalswa Jahangir Pur,Nanded,Bihar,India,868883,21.5620538,83.3644377,True,
+952,2,"454, Brahmbhatt Road",Near Sule Inc,Khatri Group,Etawah,Mumbai,Tamil Nadu,India,083086,14.6805659,91.4541087,True,
+112,3,"957, Soman Street",Sector 44,Rai LLC,Bangalore,Purnia,Manipur,India,030770,30.9045982,70.6545574,True,
+112,1,"H.No. 265
+Das Ganj",Near Badal-Naik,Patla-Karan,Ulhasnagar,Munger,Punjab,India,263596,8.3418888,72.9154225,False,
+221,2,"466, Srivastava","Near Baral, Varughese and Wadhwa",Dass Inc,Rohtak,Gaya,Madhya Pradesh,India,830962,22.6082663,82.374338,True,
+442,1,"H.No. 86
+Korpal Marg",,Dua-Ganesan,Narasaraopet,Hosur,Madhya Pradesh,India,841019,27.8134224,89.1829309,True,
+423,1,"H.No. 166
+Devi Street",,Bobal-Borah,Bhilai,Secunderabad,Tripura,India,356677,22.8052828,75.3458643,True,
+982,2,"H.No. 02
+Sha Chowk",Near Nigam-Prabhu,Char LLC,Kavali,Rourkela,Arunachal Pradesh,India,522639,16.3665405,85.7157944,True,
+924,2,"951
+Dar Nagar",Block A,"Kadakia, Rajagopal and Tiwari",Katihar,Munger,Nagaland,India,632405,24.4126717,96.2898775,True,
+91,1,"108
+Dhar",Near Agrawal-Nair,Mutti Inc,Jamalpur,Bokaro,Uttar Pradesh,India,312395,24.099381,84.5104166,True,
+91,2,"81/539, Goyal Path",Sector 11,"Gopal, Raja and Dube",Bhiwani,Tadepalligudem,Chhattisgarh,India,872126,11.3348276,73.2979401,False,
+386,3,"H.No. 26, Balasubramanian Chowk",Near Badal Inc,Sarkar-Raghavan,Vadodara,Bulandshahr,Manipur,India,757582,33.7398036,72.6633163,True,
+403,2,"096
+Mangat Circle",,Sastry and Sons,Karimnagar,Mangalore,Madhya Pradesh,India,920345,12.7211213,72.8299864,True,
+101,3,"H.No. 860, Walla Street","Near Wagle, Kar and Dhillon","Chandra, Nadig and Deshpande",Tezpur,Raebareli,Andhra Pradesh,India,463348,19.5385509,82.9969467,True,
+208,1,"446
+Dara Circle",Near Choudhry-Sha,"Kala, Gulati and Din",Machilipatnam,Ludhiana,Chhattisgarh,India,912606,36.9259233,78.6009908,True,
+206,2,"19
+Srinivas Road","Near Mannan, Mutti and Subramanian","Seshadri, Verma and Mand",Jabalpur,Tiruppur,Nagaland,India,464722,28.8882305,81.7461745,True,
+231,1,"H.No. 79
+Dhaliwal Zila",Near Ganguly-Bhatti,Vasa-Manda,Gorakhpur,Morena,Arunachal Pradesh,India,989812,12.5384435,88.3546991,True,
+650,1,"H.No. 458
+Kala Street",,Dave Group,Tirunelveli,Howrah,Kerala,India,925653,19.4706118,90.9851215,True,
+100,1,"10/917, Ramesh Zila",Sector 21,Varughese LLC,Pondicherry,Uluberia,Karnataka,India,468872,8.8574353,69.201509,True,
+299,3,"205, Nayak Path",Block B,Bala-Karan,Yamunanagar,Mysore,Odisha,India,870341,8.5811079,74.0390831,True,
+786,3,"51, Bala Circle",Near Sura Group,"Tata, Swamy and Subramanian",Erode,Uluberia,Bihar,India,633509,35.0912078,80.5660646,True,
+461,3,"93, Modi",Near Mall Group,Jayaraman-Verma,Bathinda,Darbhanga,Bihar,India,292248,16.2189594,73.9718872,True,
+524,1,"649
+Chhabra Path",,Chaudhary-Kumar,Rajkot,Satara,Haryana,India,069691,8.2434616,90.0322372,True,
+524,2,"96/001, Grewal Nagar",,"Contractor, Andra and Bose",Nellore,Gulbarga,Assam,India,259672,26.6572841,73.6830003,False,
+174,1,"H.No. 14, Gole",Near Dora-Handa,"Gade, Thakkar and Bobal",Silchar,Bhopal,Rajasthan,India,766554,28.4952209,82.3449577,True,
+174,3,"H.No. 94
+Jaggi Ganj",Sector 74,Lall-Parikh,Bokaro,Gandhidham,Nagaland,India,258896,20.5244756,81.1843121,False,
+188,2,"H.No. 496, Hans Circle",,Wable Group,Bellary,Bidhannagar,Arunachal Pradesh,India,040774,20.8305229,92.6751025,True,
+811,1,"758, Mann Nagar",Block D,Gara-Seshadri,Kulti,Durg,Andhra Pradesh,India,339757,11.6475897,96.7907764,True,
+449,3,"73/847, Madan Nagar",Block C,"Sem, Borah and Ray",Miryalaguda,Sikar,Punjab,India,315360,18.5233856,90.657747,True,
+449,1,"63/05
+Ravi",,Majumdar LLC,Buxar,Ongole,Goa,India,656207,30.0746089,89.1720582,False,
+846,3,"H.No. 565, Bal Street",Near Jani LLC,Raj-Apte,Malegaon,Tinsukia,Maharashtra,India,194662,13.5626612,71.9235858,True,
+383,3,"248, Sen Ganj",,Goswami-Palla,Ahmednagar,Chandigarh,Tamil Nadu,India,045241,13.9180013,76.9613256,True,
+383,1,"H.No. 231
+Desai Chowk",,Nigam-Sengupta,Sambhal,Ballia,Jharkhand,India,358775,8.1099806,82.0687314,False,
+828,1,"H.No. 21
+Nadig Ganj","Near Sood, Puri and Pal",Kapoor Group,Kharagpur,Tenali,Andhra Pradesh,India,054893,18.8298396,73.6545696,True,
+828,2,"65, Nagy Nagar",,"Nair, Kibe and Khatri",Sambhal,Udaipur,Rajasthan,India,988619,33.9649796,86.5528669,False,
+497,1,"42, D’Alia",Near Mahal-Hari,Badal-Bora,Nagercoil,Tezpur,Kerala,India,046643,13.81449,90.86193,True,
+241,3,"09, Pingle Marg",Sector 20,"Devi, Sodhi and Chadha",Anantapuram,Agra,Madhya Pradesh,India,017405,15.7945727,79.3214519,True,
+116,2,"40/99, Wason Zila",Sector 32,"Borah, Rau and Nair",Latur,Rourkela,Sikkim,India,973566,8.6104372,74.1984477,True,
+116,1,"603
+Vig Circle",Near Acharya-Bhatti,"Sen, Mishra and Toor",Jabalpur,Etawah,Nagaland,India,630258,35.1880023,82.063106,False,
+578,3,"00
+Hari Marg",Block B,Madan and Sons,Gudivada,Bhusawal,Bihar,India,417374,22.6922061,77.1162498,True,
+473,2,"H.No. 36
+Maharaj Zila",,Dixit-Loyal,Eluru,Belgaum,Tripura,India,404766,8.9523756,90.6685519,True,
+473,3,"H.No. 007
+Arya Street",Sector 13,Dugar and Sons,Rampur,Dewas,Arunachal Pradesh,India,117193,15.0309063,92.3228887,False,
+547,1,"H.No. 579
+Bhavsar Nagar",Sector 6,Sur Ltd,Sambalpur,Bikaner,Assam,India,801438,16.5028039,76.2820392,True,
+667,1,"81/45
+Halder Circle",Sector 77,Mistry-Munshi,Avadi,Bhimavaram,Uttarakhand,India,911550,30.6715827,88.4509837,True,
+574,3,"H.No. 182, Naidu Zila",,Balasubramanian and Sons,Faridabad,Ratlam,Manipur,India,076048,20.7356749,74.2995726,True,
+574,2,"67
+Dhar Circle",Sector 33,Andra-Dara,Maheshtala,Rohtak,Manipur,India,000746,31.6923895,81.3316035,False,
+45,2,"90/520, Devan Circle",Near Kala-Arora,"Chandran, Raval and Soni",Bhavnagar,Ghaziabad,Madhya Pradesh,India,770164,31.4364373,96.1807641,True,
+690,3,"H.No. 963
+Chhabra Circle",Near Sinha LLC,Jhaveri and Sons,Tumkur,Vijayawada,Sikkim,India,216100,32.9053362,88.2305897,True,
+882,2,"53/077, Dugar Road",,Bora PLC,Hyderabad,Pondicherry,Haryana,India,077032,29.546251,84.3007869,True,
+671,1,"94/57, Thaman Path",Near Malhotra-Andra,Prashad-Bakshi,South Dumdum,Muzaffarpur,Manipur,India,604756,10.5343439,73.4805918,True,
+838,1,"H.No. 18, Nagar Street",,Ramakrishnan-Bhakta,Gandhidham,Katihar,Jharkhand,India,911303,27.8184956,96.0053655,True,
+598,1,"899, Bora Path",Block B,Pandya LLC,Ulhasnagar,Pudukkottai,Uttarakhand,India,460032,34.5870943,80.6404958,True,
+598,2,"00/28, Bajaj Path","Near Bir, Korpal and Guha",Krishnan PLC,Sultan Pur Majra,Motihari,Haryana,India,999857,28.1150752,70.7043171,False,
+829,1,"H.No. 911
+Sankar",,Bora Ltd,Solapur,Haridwar,Uttarakhand,India,210612,8.4882867,85.3268594,True,
+240,1,"H.No. 455
+Halder Path",Block D,Memon Inc,Kavali,Maheshtala,Tamil Nadu,India,289921,28.9498593,92.5466015,True,
+89,3,"909
+Bhalla Marg",Sector 24,Mani-Nagi,Guntakal,Thane,Jharkhand,India,520534,12.334833,86.8981918,True,
+710,1,"76/95
+Samra Chowk",Sector 95,Munshi-Raj,Kanpur,Raipur,Andhra Pradesh,India,524548,26.9145914,93.8849645,True,
+153,1,"42/14
+Sagar",Near Dhillon PLC,Brahmbhatt-Vala,Naihati,Amravati,Haryana,India,807155,30.349732,76.0123235,True,
+153,3,"19, Sarkar Ganj",Sector 85,Ganesh-Bose,Maheshtala,Mira-Bhayandar,Tripura,India,905937,35.9258765,91.0781987,False,
+875,2,"712
+Sur Zila",Sector 51,Panchal-Lal,Tirunelveli,Udaipur,Bihar,India,232465,23.4193088,93.8774579,True,
+441,1,"H.No. 236, Minhas Circle",Sector 38,Deep and Sons,Madurai,Orai,Sikkim,India,920512,34.9660292,85.3194142,True,
+714,1,"77/72, Raj Path",Block A,"Biswas, Yadav and Sachar",Jaipur,Hosur,Uttarakhand,India,249787,27.4512149,78.235453,True,
+995,3,"H.No. 521, Nigam",Block D,Subramanian-Chaudhari,Guna,Sasaram,Andhra Pradesh,India,512332,14.8130429,93.9750271,True,
+350,3,"72, Konda Chowk",Block C,Tank-Prabhu,Parbhani,Nanded,Sikkim,India,680661,31.4594848,73.0051939,True,
+777,2,"67/60
+Bora Marg",Block B,Zachariah Inc,New Delhi,Bharatpur,West Bengal,India,254815,12.2261335,96.9716737,True,
+777,1,"627
+Korpal Zila",Sector 75,"Kaur, Lalla and Wagle",Sagar,Pune,Goa,India,531132,9.0111642,75.6422467,False,
+117,3,"H.No. 09, Shukla Street",,Hayre PLC,Darbhanga,Cuttack,Mizoram,India,593009,25.5059218,74.5169617,True,
+866,2,"11
+Tripathi Marg",,Bhalla-Panchal,Bikaner,Rewa,Mizoram,India,259601,32.03587,86.278095,True,
+126,3,"015
+Doctor Marg",Block D,Dhar-Singh,South Dumdum,Nanded,Kerala,India,180770,32.552424,81.7552173,True,
+943,1,"269
+Yohannan Chowk",Block A,Madan-Sane,Sambalpur,Avadi,Uttarakhand,India,214057,9.8852749,83.3251238,True,
+536,3,"H.No. 33
+Koshy Ganj",,"Pandey, Dhawan and Sachdeva",Kollam,Kulti,Gujarat,India,797594,11.5354523,94.8487839,True,
+536,2,"H.No. 60, Sathe Circle",Sector 27,"Bath, Om and Dua",Ichalkaranji,Shimoga,Manipur,India,912091,9.4158982,74.2815264,False,
+417,2,"39/554, Shankar Zila",,Ghose PLC,Ichalkaranji,Anantapur,Punjab,India,944004,31.7334978,73.9223289,True,
+696,1,"H.No. 98
+Mahal Marg",,Mallick-Gill,South Dumdum,Bhilai,Jharkhand,India,376181,34.4387856,76.5967505,True,
+696,3,"65/750
+Sehgal Zila","Near Bandi, Choudhary and Pant","More, Grover and Atwal",Navi Mumbai,Pali,Uttarakhand,India,390567,35.7786839,95.755969,False,
+146,3,"865
+Sastry Path",,Uppal Group,Ajmer,Bhind,Telangana,India,982128,33.7499485,94.3440198,True,
+666,1,"H.No. 79, Trivedi Circle",,Chaudhary LLC,Pimpri-Chinchwad,Aurangabad,Uttarakhand,India,085707,10.1494955,71.2786169,True,
+115,2,"H.No. 96, Narayan Ganj",,Chaudhari Inc,Kollam,Gopalpur,Jharkhand,India,027571,14.8951954,84.2133858,True,
+115,1,"97/00, Vaidya Circle",,Kara-Kata,Mumbai,Eluru,Tamil Nadu,India,978597,35.0703845,73.6258494,False,
+70,2,"H.No. 944, Hari Marg",,"Deo, Goel and Ray",Bangalore,Ahmedabad,Nagaland,India,042766,17.882278,74.8048684,True,
+506,3,"26/803, Sankar Zila",Sector 7,Singh Inc,Parbhani,Tirunelveli,Uttar Pradesh,India,201895,32.8063512,82.859102,True,
+857,1,"44
+Borde Ganj",Sector 75,Ahuja Group,Jorhat,Belgaum,West Bengal,India,027057,20.2841254,84.9282109,True,
+289,2,"08/63, Reddy Street",Near Patil Group,"Puri, Roy and Dixit",Aizawl,Ratlam,Tamil Nadu,India,006504,26.8203863,75.6956876,True,
+576,3,"H.No. 78
+Soman Circle",Block B,Dara LLC,Kadapa,Shahjahanpur,Odisha,India,288008,12.5809882,86.6708329,True,
+576,1,"H.No. 297, Chowdhury Path",,Wason and Sons,Ludhiana,Kharagpur,Maharashtra,India,374999,31.1455824,83.8361689,False,
+474,2,"07
+Subramaniam Chowk",Near Bains LLC,"Bhattacharyya, Konda and Dubey",Amroha,Mumbai,Maharashtra,India,208190,19.826784,84.413648,True,
+142,2,"17/091, Mallick Circle",Sector 97,Ahuja-Dhar,Bhilwara,Kamarhati,Karnataka,India,770877,31.6148984,87.8782997,True,
+160,2,"86/11, Nazareth",,Peri Ltd,Aizawl,Bally,Madhya Pradesh,India,943574,28.0411838,83.9425982,True,
+158,3,"H.No. 17, Nagi Chowk",,Chakraborty Inc,Kochi,Bidhannagar,Sikkim,India,495188,32.7680721,91.6236809,True,
+589,2,"H.No. 077
+Kara Street",Block B,Ganguly Ltd,Giridih,Khammam,Chhattisgarh,India,749161,27.0855048,73.2497875,True,
+589,3,"31/37, Sarraf Ganj",Block D,Bala Inc,Nagpur,Bharatpur,Tamil Nadu,India,412036,9.0207846,89.7885429,False,
+957,2,"04/977, Master Marg",Sector 19,Tailor-Dass,Kalyan-Dombivli,Pimpri-Chinchwad,Uttar Pradesh,India,375670,24.6867451,93.7508296,True,
+169,2,"H.No. 397, Dhar",Sector 88,Das and Sons,Hapur,Bhusawal,Chhattisgarh,India,994129,25.0973145,72.4422424,True,
+169,1,"83/957, Bains",,Bir LLC,Anand,Srikakulam,Nagaland,India,667105,35.1145787,69.9207677,False,
+380,3,"02/49, Khurana",Sector 85,"Loke, Bhandari and Dutt",Moradabad,Pune,Haryana,India,426924,30.7548558,88.4333574,True,
+537,2,"48, Rao Street",Sector 39,Chana-Sarin,Bhagalpur,Kochi,Tripura,India,903964,24.5402851,70.9409109,True,
+617,1,"039, Ahuja Nagar",Sector 27,"Mohan, Tripathi and Behl",Solapur,Pondicherry,Odisha,India,001482,26.0579954,71.6258775,True,
+342,2,"490
+Sami Chowk",Block A,Gandhi-Ratti,Gurgaon,Sonipat,Sikkim,India,278104,33.6436952,82.8881356,True,
+824,1,"59/48
+Borah Road",Sector 69,Ganesan-Narula,Vijayanagaram,Nizamabad,Kerala,India,992783,31.4654894,93.2016608,True,
+297,2,"H.No. 77, Acharya Zila",Block C,"Mishra, Gara and Nath",Raipur,Tiruppur,Assam,India,222429,30.6351195,84.8884791,True,
+867,3,"H.No. 42
+Shan Ganj",Near Koshy Inc,Sama Group,Bhavnagar,Indore,Chhattisgarh,India,015539,18.5948652,70.1774359,True,
+285,3,"469
+Sandhu Street",Sector 68,Dua LLC,Aurangabad,Imphal,Punjab,India,254427,22.7003736,85.2983733,True,
+285,1,"H.No. 186
+Murty Marg",,Chadha-Kanda,Kozhikode,Dehri,Haryana,India,824842,10.4785969,78.6875182,False,
+133,1,"H.No. 111
+Prabhakar Ganj",Near Bala Inc,Pillai-Mahajan,Latur,Bhalswa Jahangir Pur,Madhya Pradesh,India,641134,15.3034402,92.0534236,True,
+133,2,"H.No. 908, Dube Circle",Block D,"Karpe, Pillay and Pal",Tumkur,Karnal,Rajasthan,India,851015,21.2962616,88.7526918,False,
+269,2,"76
+Bhatti Chowk",,Date-Modi,Bhatpara,Jaunpur,Karnataka,India,835051,35.3326146,78.302736,True,
+258,1,"37/50, Arora Street","Near Yohannan, Jaggi and Dhillon","Magar, Vora and Saxena",Bijapur,Sonipat,Himachal Pradesh,India,537802,28.7478948,68.7131578,True,
+111,3,"H.No. 05, Kothari Zila",Block A,Kuruvilla-Khanna,Katihar,Yamunanagar,Maharashtra,India,680802,20.5649582,74.959538,True,
+351,3,"84/22, Mand Marg","Near Rai, Saxena and Sant","Sinha, Ganguly and Behl",Alwar,Singrauli,West Bengal,India,323326,29.0827934,88.5574715,True,
+602,1,"44/59
+Agate Circle",Near Desai Group,Bhat Ltd,Tadipatri,Hyderabad,Jharkhand,India,826979,18.939078,85.4590954,True,
+304,3,"H.No. 948, Malhotra Path",Near Dixit-Bajwa,"Mahal, Arya and Bahl",Vijayanagaram,Dewas,Karnataka,India,980583,12.5651488,84.2859077,True,
+322,3,"H.No. 72, Vora Ganj","Near Iyengar, Swaminathan and Madan","Goswami, Vyas and Doctor",Dibrugarh,Jalgaon,Arunachal Pradesh,India,022060,35.1750255,71.85884,True,
+234,2,"94/59
+Parmar Path",Sector 85,Varughese and Sons,Deoghar,Sirsa,Haryana,India,689351,36.0023192,86.6755165,True,
+744,1,"65/329, Vasa Zila",Sector 21,"Bala, Mahal and Narasimhan",Indore,Madanapalle,Haryana,India,423977,16.8180923,94.5316787,True,
+35,3,"45/59, Sathe Road",Block C,"Dugar, Sodhi and Chaudhuri",Gorakhpur,Mahbubnagar,Andhra Pradesh,India,187851,14.6596515,85.5519215,True,
+186,1,"66/240, Srinivasan Zila",,Sheth-Bhagat,Salem,Nagpur,Kerala,India,965214,21.6575149,80.0897929,True,
+74,3,"88/63
+Shroff Road",,Mani LLC,Junagadh,Sri Ganganagar,Uttarakhand,India,128627,33.5414396,76.2538684,True,
+738,1,"54/66
+Doctor Street",,Barad-Sagar,Begusarai,New Delhi,Rajasthan,India,675112,34.1679514,84.3947021,True,
+584,3,"H.No. 73
+Pandit Chowk",Near Taneja Inc,"Dhawan, Sane and Barad",Hubli–Dharwad,Unnao,Himachal Pradesh,India,964478,22.5531801,96.6627481,True,
+954,1,"11/27
+Bir Street","Near Deshmukh, Vyas and Tank","Sachdev, Narayan and Kanda",Panihati,Kulti,Andhra Pradesh,India,912360,33.4497236,77.1602777,True,
+425,1,"37/60
+Borah Zila",Sector 98,"Pandit, Pandit and Oommen",Gwalior,Motihari,Jharkhand,India,069350,31.7544203,69.601805,True,
+790,3,"20
+Rama Ganj",Sector 72,Walla Group,Durgapur,Bongaigaon,Bihar,India,364781,30.4299987,96.7563243,True,
+790,1,"H.No. 766
+Mander Road",,Prakash-Dhingra,Berhampur,Siliguri,Uttar Pradesh,India,040555,17.7251664,89.1335118,False,
+345,2,"01
+Shere",,Pillay Inc,Gurgaon,Burhanpur,Jharkhand,India,184282,35.8716441,78.5441492,True,
+345,1,"953
+Jaggi Path",Block C,Suresh-Patil,Bihar Sharif,Udaipur,Karnataka,India,140483,34.8791623,93.8012499,False,
+300,1,"67/592
+Chand Circle",Near Dar LLC,Tak Inc,Bijapur,Thrissur,Haryana,India,242242,18.6992306,80.6910683,True,
+120,3,"04, Date",Near Halder Group,"Kapur, Dixit and Arya",Hyderabad,Phagwara,Meghalaya,India,478828,36.6819506,70.8115706,True,
+606,2,"H.No. 515, Shukla Path",Near Dani Inc,Bumb-Khalsa,Pune,Thane,Uttar Pradesh,India,572107,33.364341,88.5224878,True,
+402,1,"H.No. 37
+Reddy Road",Block B,Barman Group,Gopalpur,Miryalaguda,Rajasthan,India,625937,12.2710101,89.91434,True,
+889,3,"H.No. 41
+Khosla Road",Sector 62,"Korpal, Sagar and Muni",Saharsa,Raiganj,West Bengal,India,408335,27.1615773,74.4450247,True,
+889,1,"77/411
+Doshi Circle",Near Sami-Tata,"Narain, D’Alia and Purohit",Vijayawada,Tiruvottiyur,Tripura,India,082383,31.2581108,83.5918452,False,
+333,2,"H.No. 05, Kumar Road",Block A,"Prakash, Thakkar and Ratta",Solapur,Bhalswa Jahangir Pur,Goa,India,974146,21.7634476,87.5117831,True,
+22,2,"90/797
+Batra Marg",Near Bassi PLC,"Randhawa, Ranganathan and Sarna",Ajmer,Panchkula,Uttarakhand,India,587492,36.8864099,77.3865565,True,
+902,1,"H.No. 00, Banerjee Street",Block D,"Jha, Shere and D’Alia",Haldia,Surendranagar Dudhrej,Andhra Pradesh,India,241131,21.7747529,89.5501044,True,
+453,2,"16, Panchal Nagar",Sector 21,"Bawa, Nagi and Sami",Burhanpur,Amritsar,Manipur,India,449860,33.2919105,72.8930321,True,
+468,1,"816
+Dhillon",Block D,Basak PLC,Bharatpur,Erode,Goa,India,546750,21.7570698,74.3732541,True,
+463,3,"01/893, Chad Ganj",Block A,Walia Ltd,Chinsurah,Rewa,Maharashtra,India,255735,22.5739221,86.8560974,True,
+586,1,"642, Sahota Road",,Nagar PLC,Begusarai,Ahmedabad,Odisha,India,191994,22.3542703,78.3502101,True,
+586,3,"835
+Jayaraman Path",Sector 2,Biswas Group,Vijayanagaram,Hindupur,Jharkhand,India,934207,10.7705745,95.5290032,False,
+859,1,"H.No. 330
+Venkatesh Path","Near Natt, Dube and Ganesh","Korpal, Ramesh and Kade",Bhilwara,Faridabad,Telangana,India,526521,23.2422311,88.2599425,True,
+939,3,"27/44
+Lata Street",Sector 44,Murthy-Shanker,Delhi,Hapur,Sikkim,India,173310,27.2624215,68.8730174,True,
+704,1,"21
+Mand Ganj",Near Bal-Sura,Bala PLC,Katni,Tiruvottiyur,Tripura,India,670116,15.9265664,96.7225128,True,
+704,3,"354, Raju Ganj",Sector 37,"Ahluwalia, Peri and Palla",Anantapur,Belgaum,Assam,India,164666,13.4837909,71.3018958,False,
+103,1,"H.No. 237
+Kurian Chowk",Near Kar-Srinivasan,Parsa Group,Berhampur,Eluru,Tamil Nadu,India,388364,25.0984082,75.6281019,True,
+223,2,"108, Bajaj Path",Near Bahl Group,"Loke, Vohra and Pillai",Ahmedabad,Chennai,Tripura,India,698715,15.4305572,73.511772,True,
+558,1,"H.No. 115, Rout Zila",Near Contractor-Gandhi,Krish-Jain,Jaunpur,Nangloi Jat,Punjab,India,159215,24.3653321,82.9795512,True,
+558,2,"H.No. 433
+Mall Circle",Block B,Ganesan-Koshy,Nizamabad,Nadiad,Jharkhand,India,505328,12.1434284,76.7564892,False,
+182,1,"H.No. 20
+Chana Marg",Sector 59,Zacharia Group,Karaikudi,Dewas,Madhya Pradesh,India,261252,16.0374105,95.7382382,True,
+445,2,"08, Cherian Ganj",Sector 97,Ramakrishnan and Sons,Malda,Tiruchirappalli,Bihar,India,289847,21.8699392,78.6372187,True,
+821,1,"611, Lalla",,Narula-Bawa,Bhind,Panihati,Assam,India,615234,27.1988906,68.4394071,True,
+821,3,"31
+Nair Street",,Rastogi and Sons,Machilipatnam,Kollam,Punjab,India,601122,23.9888733,68.661431,False,
+98,2,"79, Sengupta",Block A,Wason-Soni,Secunderabad,Gandhidham,Chhattisgarh,India,511831,28.5850126,81.6688887,True,
+638,3,"H.No. 616, Tiwari Path",,"Dubey, Lad and Wable",Aurangabad,Sambalpur,Gujarat,India,994910,22.5968614,77.3136753,True,
+310,2,"06, Rout Street",,"Lanka, Chhabra and Mohan",Naihati,Kochi,Tripura,India,191185,13.4376133,89.4301426,True,
+819,2,"H.No. 80
+Deol Marg",Block B,"Raman, Tripathi and Kant",Satara,Davanagere,Karnataka,India,548702,26.7270406,75.3388055,True,
+412,3,"07, Jani",,"Deshpande, Narayanan and Wason",Bareilly,Latur,Nagaland,India,856710,10.3237123,88.2653302,True,
+412,2,"H.No. 58
+Khatri Zila",Sector 54,Guha Group,Katihar,Amravati,Tripura,India,248625,34.4312286,72.5611336,False,
+415,1,"26
+Malhotra Street",Sector 20,Anand Inc,Danapur,Sasaram,Maharashtra,India,861568,17.8037145,92.0059166,True,
+839,1,"37
+D’Alia Nagar",Sector 15,Shanker PLC,Faridabad,Yamunanagar,Chhattisgarh,India,687196,35.0868253,77.198963,True,
+812,3,"048
+Butala Chowk",Near Chand-Rout,Pai LLC,Phagwara,Naihati,Maharashtra,India,098232,27.1351581,88.1919556,True,
+862,2,"H.No. 177, Murty Nagar",Block A,Kaul PLC,Jamalpur,Vellore,Uttarakhand,India,218413,8.4562801,73.2631855,True,
+973,1,"H.No. 798
+Kuruvilla Zila",,"Deep, Nadig and Gulati",Tadepalligudem,Pallavaram,Telangana,India,088917,25.7542812,82.2166497,True,
+973,2,"02, Chandra Nagar",Block A,Kanda Group,Ramagundam,Burhanpur,Sikkim,India,265530,14.9773978,68.2275019,False,
+553,3,"H.No. 621
+Borah Chowk",Block C,Kalla-Kara,Ichalkaranji,Jabalpur,Odisha,India,886890,8.7813688,96.2570197,True,
+528,3,"90
+Chatterjee",Near Raval LLC,Walia Ltd,Unnao,Karaikudi,Uttarakhand,India,302408,36.2937299,74.5651645,True,
+528,2,"40, Chanda Chowk",,Jani LLC,Nagercoil,Baranagar,Arunachal Pradesh,India,578189,22.6431155,82.4022387,False,
+239,3,"56
+Dhingra",Block C,Chand Inc,Ramgarh,Kolkata,Assam,India,001020,35.8508251,69.6108228,True,
+588,1,"H.No. 585
+Dar Zila",Block D,"Naidu, Barad and Chahal",Alappuzha,Hajipur,Arunachal Pradesh,India,212805,20.7594225,88.232202,True,
+1000,1,"H.No. 212
+Chad Marg",Block A,"Nayak, Amble and Kamdar",Tiruppur,Junagadh,Punjab,India,431975,8.5988586,92.9240773,True,
+152,3,"25
+Andra Ganj",Block C,Rajagopal LLC,Chandigarh,Latur,Sikkim,India,606105,33.4847952,91.0218881,True,
+807,3,"726, Tata Zila",Sector 65,Korpal Group,Begusarai,Mirzapur,Himachal Pradesh,India,501855,21.1488778,71.1117242,True,
+518,1,"H.No. 72
+Khosla Zila",Sector 86,"Kashyap, Raj and Lall",Kollam,Kalyan-Dombivli,Madhya Pradesh,India,465536,8.5708201,82.5958819,True,
+628,2,"205, Nair Circle",Sector 22,Ramesh-Om,Ahmedabad,Begusarai,Mizoram,India,582644,16.8484895,84.1330969,True,
+514,3,"39/07, Shere",Sector 88,Raval Ltd,Bhavnagar,Katihar,Jharkhand,India,589998,33.4234553,83.6337833,True,
+907,2,"436
+Ramanathan Nagar",Block A,Kurian-Kadakia,Ichalkaranji,Nandyal,Mizoram,India,380735,19.1541662,84.0395457,True,
+378,1,"55
+Warrior Circle",Block A,Suri-Wable,Bettiah,Tezpur,Tamil Nadu,India,984324,22.0194449,76.5863164,True,
+378,2,"40/25
+Karan Road",Block D,Dubey-Jaggi,Tadepalligudem,Hubli–Dharwad,Meghalaya,India,776058,12.203324,90.1388047,False,
+590,3,"77/48
+Sridhar Chowk","Near Randhawa, Lalla and Pal",Bail Ltd,Imphal,Akola,Sikkim,India,588392,10.3182723,70.9696105,True,
+215,3,"86, Nadig Zila",,"Devan, Tripathi and Devan",Gopalpur,Kollam,Tripura,India,852854,10.2741368,89.4801417,True,
+863,3,"H.No. 30, Saha Zila",Block B,Gala Group,North Dumdum,Pondicherry,Maharashtra,India,506105,9.2205878,93.8474197,True,
+282,2,"20
+Patla Nagar",Sector 28,"Sani, Tella and Salvi",Jalgaon,Dhanbad,Tripura,India,689375,24.8241648,89.8945184,True,
+58,2,"761, Chatterjee Nagar",Near Iyengar-Ravel,Chakraborty LLC,Akola,Udupi,Goa,India,596268,24.0557224,79.3687245,True,
+992,3,"99/857, Cheema Road",Block B,Zachariah-Aggarwal,Jamalpur,Bathinda,Tripura,India,156259,33.6553149,74.6639341,True,
+913,1,"39/75
+Kunda Road",Sector 87,Pandey-Soman,Vasai-Virar,Kolkata,Meghalaya,India,015704,13.4838623,84.7859754,True,
+619,3,"H.No. 03, Pillay Circle",Block A,"Raghavan, Ganguly and Samra",North Dumdum,Tezpur,Kerala,India,729449,24.672353,70.2241036,True,
+749,1,"H.No. 57, Bora Ganj",Sector 10,Prasad PLC,Jehanabad,Morena,Tamil Nadu,India,020241,31.0551038,88.3621167,True,
+75,1,"H.No. 291
+Bhagat Chowk",Near Bhatnagar PLC,"Bala, Sant and Som",Siwan,Anantapur,Manipur,India,467665,34.022756,87.1988842,True,
+75,2,"195, Naik Nagar",Near Bajwa-Dayal,Sule LLC,Sonipat,Etawah,Punjab,India,566864,14.3972865,92.1122803,False,
+181,1,"12/64, Bose Zila",,"Singh, Kibe and Khanna",Haldia,Avadi,Bihar,India,365064,19.3834129,75.7475846,True,
+181,2,"098, Prabhu",,"Kannan, Kothari and Pandey",Tiruppur,Srikakulam,Tamil Nadu,India,900726,30.5366762,86.9917173,False,
+154,2,"04
+Barman Ganj",Near Mitra-Jayaraman,"Karpe, Kapadia and Ghose",Singrauli,Visakhapatnam,Odisha,India,024525,24.488661,91.1510687,True,
+78,1,"401, Aurora Circle",Sector 95,Sarma-Savant,Dindigul,Arrah,Punjab,India,815384,10.127972,77.0460907,True,
+381,2,"H.No. 951
+More",,Viswanathan Inc,Kochi,Amravati,Haryana,India,156190,27.9966123,69.4650274,True,
+503,2,"065
+Pau Path","Near Boase, Magar and Maharaj","Anand, Walla and Wason",Madhyamgram,Ajmer,Odisha,India,023153,23.7935618,75.789421,True,
+503,1,"86, Bajaj Circle",Near Rau-Anand,Sheth-De,Karnal,Jabalpur,Uttarakhand,India,771591,21.93594,78.8789102,False,
+448,3,"58/55, Deol Road",Sector 33,Saraf PLC,Gandhinagar,Tirunelveli,Madhya Pradesh,India,770788,9.6484733,74.6754137,True,
+23,1,"403
+Bava Marg",Block C,Doctor PLC,Buxar,Thanjavur,Sikkim,India,224377,16.1559068,75.1026856,True,
+23,2,"H.No. 795
+Barad Ganj",,Sawhney PLC,Agra,Dewas,Himachal Pradesh,India,622940,14.6667021,72.672508,False,
+430,2,"23/82, Brahmbhatt Circle",Sector 98,"Thakur, Singh and Khare",New Delhi,Ichalkaranji,Manipur,India,235619,27.3890617,96.6550035,True,
+185,2,"H.No. 247, Bobal Path",Block D,"Ahuja, Chowdhury and Chada",Deoghar,Jamalpur,Meghalaya,India,059688,30.9312122,89.3152398,True,
+306,3,"87/316
+Thaman Chowk","Near Suresh, Murthy and Srivastava",Mitter LLC,Ramagundam,Bangalore,West Bengal,India,497345,14.2386385,80.2482951,True,
+46,1,"H.No. 830, Borde Nagar",Near Ranganathan-Rattan,Bath Ltd,Ulhasnagar,Sambhal,Goa,India,564317,10.9116503,80.637774,True,
+672,2,"44/70
+Patil Street",Near Baria-Som,Bedi-Chada,Hosur,Indore,Jharkhand,India,432111,18.5495312,95.2485486,True,
+150,3,"H.No. 62
+Raghavan Path",,"Sankar, Saran and Bora",Pondicherry,Sikar,Bihar,India,636926,33.1328845,83.8319305,True,
+263,2,"895
+Bhatnagar Nagar",,"Dani, Raj and Aggarwal",Ujjain,Jalandhar,Odisha,India,060092,32.1171145,81.2832314,True,
+728,2,"69, Bhandari Ganj",Near Kumar PLC,Master-Khalsa,Hazaribagh,Vasai-Virar,Punjab,India,227436,16.2114721,86.1872551,True,
+83,1,"H.No. 04, Pau",Near Dhar-Toor,Tak PLC,Sirsa,Hapur,Maharashtra,India,956740,35.4598065,96.3792015,True,
+610,2,"51/78, Rao Ganj",Block B,Salvi Inc,Dhanbad,Sonipat,Kerala,India,381356,11.2942338,83.0683392,True,
+6,3,"32
+Kala Ganj",Near Khatri Ltd,"Divan, Mann and Prashad",Guntakal,Anantapur,Jharkhand,India,317114,14.4616777,91.559278,True,
+613,3,"46
+Swaminathan Road",,Sane-Arya,Patna,Bijapur,Madhya Pradesh,India,531377,16.0907626,80.3512092,True,
+81,1,"H.No. 566
+Pradhan",Sector 40,Dasgupta-Kata,Gwalior,Karimnagar,West Bengal,India,944832,33.1728007,68.8428595,True,
+394,3,"761, Mahal Street",,"Gala, Raghavan and Chaudhari",Bharatpur,Kishanganj,Nagaland,India,418167,21.2432324,74.0011058,True,
+394,1,"21, Dora Circle",Block B,Lata-Sane,Bellary,Purnia,Goa,India,169997,22.4772921,75.6243118,False,
+845,2,"H.No. 63, Naidu Ganj","Near Ganguly, Choudhury and Bhattacharyya",Misra-Samra,Kanpur,Tirunelveli,Sikkim,India,448027,24.5675582,85.0889082,True,
+845,3,"90/911, Batta Road",Sector 91,"Mander, Ahuja and Thaker",Ajmer,Katihar,Sikkim,India,092987,21.2411551,85.843059,False,
+43,1,"49/00
+Bhardwaj Street","Near Biswas, Krishna and Kannan",Hans-Bajaj,Pali,Hapur,Goa,India,201369,35.9851096,69.123236,True,
+371,1,"03/999
+Brar Marg",Near Mallick-Suri,Padmanabhan Inc,Morbi,Bihar Sharif,Andhra Pradesh,India,304055,27.5929765,85.0783709,True,
+162,3,"92/808, Kuruvilla Ganj","Near Dyal, Mangat and Goswami","Vaidya, Salvi and Nadig",Bhatpara,Thane,Mizoram,India,765314,12.8055427,88.4810362,True,
+983,2,"28/553, Mukhopadhyay Marg",Block C,Jain and Sons,Asansol,Kavali,Rajasthan,India,599373,35.9361702,71.9535151,True,
+410,1,"H.No. 50, Randhawa Road",,"Om, Dyal and Barad",Katihar,Siwan,Madhya Pradesh,India,935554,23.801369,93.2303298,True,
+410,3,"216
+Kalita Road",Near Grewal-Vyas,Om-Raghavan,Hyderabad,Surat,Bihar,India,800093,28.1242421,68.0735268,False,
+920,1,"58, Shankar Ganj","Near Majumdar, Sabharwal and Bandi",Vasa LLC,Dibrugarh,Siliguri,Kerala,India,466262,32.5663051,77.8471883,True,
+920,2,"30/86, Gala Nagar",,Goel and Sons,Chandrapur,Mahbubnagar,Maharashtra,India,650837,11.7424489,86.5885296,False,
+850,2,"H.No. 884, Shah",Block B,Wali Ltd,Saharsa,Katihar,Tripura,India,826318,33.7322687,86.4195463,True,
+960,3,"H.No. 03
+Dhar Chowk",Sector 97,Toor Inc,Pallavaram,Tadipatri,Arunachal Pradesh,India,047019,29.2804951,74.5445654,True,
+63,2,"98
+Mander Chowk",,"Karpe, Joshi and Nori",Adoni,Jabalpur,Maharashtra,India,151587,21.013641,95.9663567,True,
+926,3,"05
+Kale Road",Block B,Zacharia Group,Kadapa,Gudivada,Karnataka,India,949972,22.382566,88.7846142,True,
+926,2,"H.No. 87, Bath Chowk",Near Madan LLC,"Kannan, Gopal and Bhasin",Arrah,Jamnagar,Himachal Pradesh,India,294090,18.8186126,96.9985862,False,
+475,2,"H.No. 606, Thakkar Chowk",,"Maharaj, Balasubramanian and Swaminathan",Jammu,Gandhidham,Uttarakhand,India,272610,22.6324697,81.5746413,True,
+475,1,"274
+Raju",Sector 14,Sachdeva-Wali,Sikar,Srinagar,Andhra Pradesh,India,890957,15.4704773,72.1854522,False,
+865,1,"H.No. 545
+Kalita Street",Sector 6,"Edwin, Wagle and Kaur",Tadipatri,Mahbubnagar,Andhra Pradesh,India,930822,29.3637049,76.8854505,True,
+564,1,"59/52, Ramaswamy Zila",Sector 84,Bail Ltd,Bangalore,Kakinada,Nagaland,India,901209,27.8303309,77.532198,True,
+398,3,"873, Patel Chowk",Block A,Chaudhuri Ltd,Ahmedabad,Asansol,Jharkhand,India,086899,27.6777309,81.7963103,True,
+341,2,"27, Saran Ganj",Block C,"Mand, Contractor and Kulkarni",Ajmer,Mehsana,West Bengal,India,153160,24.6164388,73.2323046,True,
+562,1,"64/218, Yohannan Ganj",Sector 45,Nadig Inc,Khammam,Sultan Pur Majra,Rajasthan,India,976408,12.9677553,89.1981196,True,
+708,2,"797, Sarma Marg","Near Dora, Sura and Ahuja",Nagar Ltd,Bhalswa Jahangir Pur,Bellary,Maharashtra,India,160850,14.7211839,76.6847757,True,
+176,3,"20/413, Bawa Ganj",Block B,"Behl, Gola and Bhat",Belgaum,Dhule,Odisha,India,273343,20.9930475,81.8355587,True,
+682,2,"360, Krishnan Street",Block A,"Madan, Hans and Ramaswamy",Alwar,Rajahmundry,Chhattisgarh,India,505401,33.1706667,92.8334147,True,
+534,2,"38/661, Sekhon Circle",,Devan Ltd,Loni,Kavali,Kerala,India,736164,28.8061605,81.0612235,True,
+569,3,"H.No. 036
+Dubey Circle",Near Kunda-Lalla,"Narasimhan, Borah and Nadig",Kottayam,Tiruppur,Bihar,India,397791,24.4044502,84.7345892,True,
+654,3,"45, Bath Path",Sector 99,"Virk, Nanda and Vala",Nashik,Dindigul,Haryana,India,680265,24.7119539,78.4171324,True,
+804,3,"H.No. 79
+Salvi",Near Bera-Natarajan,Patel-Iyengar,Arrah,Surendranagar Dudhrej,Tamil Nadu,India,654038,33.7179138,89.175339,True,
+467,2,"H.No. 67, Biswas Ganj",Sector 20,Shan Group,Kota,Bhatpara,Tripura,India,254498,30.4856208,71.0367202,True,
+232,1,"128
+Sawhney Path",Block A,Tiwari Inc,Proddatur,Jehanabad,Goa,India,783322,12.778727,79.0639245,True,
+896,2,"H.No. 09, Lal Nagar",Block D,Deshpande-Chatterjee,Raiganj,Tiruchirappalli,Sikkim,India,690269,36.2948233,92.7029238,True,
+896,1,"H.No. 360
+Goyal",Block C,Datta and Sons,Pallavaram,Rourkela,Bihar,India,891950,8.0912058,95.8889681,False,
+692,3,"439
+Bala",,"Tata, Ramachandran and Rattan",Kadapa,Bettiah,Kerala,India,845444,35.3820793,80.8098711,True,
+692,2,"H.No. 862
+Bal Zila",Block C,Maharaj-Wali,Morbi,Madhyamgram,Punjab,India,683640,13.2660795,93.0116543,False,
+515,3,"59/27, Dora Chowk",,Balakrishnan-Mitter,Thanjavur,Bhiwandi,Maharashtra,India,122220,8.3716477,78.91536,True,
+635,3,"48, Dugar Road","Near Chandran, Lal and Nagar",Banik-Chandra,Anantapuram,Raipur,Nagaland,India,301742,21.2630334,91.0554475,True,
+464,1,"38/08
+Chahal Path",Block D,"Srinivas, Nagi and Jayaraman",Vijayanagaram,Katihar,Rajasthan,India,843476,12.0879974,80.7857075,True,
+968,2,"14, Gulati Marg",Block A,Dugar and Sons,Bardhaman,Nagaon,Manipur,India,612788,14.0865558,83.7098789,True,
+271,1,"73/92, Thakur Marg",,Mann-Sundaram,Kamarhati,Jamnagar,Assam,India,498938,28.2101259,96.5323801,True,
+271,3,"H.No. 72
+Chandra Marg",,Dubey Ltd,Ranchi,Mau,West Bengal,India,770057,16.8117972,76.5097237,False,
+14,1,"H.No. 44
+Karnik Chowk",Near Mishra-Biswas,Ghose-Ganesan,Tiruvottiyur,Bathinda,Arunachal Pradesh,India,643091,31.9699633,89.0285723,True,
+14,2,"54, Dalal Path",Sector 77,Atwal LLC,Bhalswa Jahangir Pur,Bokaro,Maharashtra,India,557048,19.4698812,75.527706,False,
+379,1,"16
+Badami Street",,"Saran, Sama and Yogi",Rewa,Uluberia,Karnataka,India,031635,34.2055789,86.5046443,True,
+360,3,"H.No. 533, Menon Road",,Chatterjee and Sons,Ratlam,Ozhukarai,Kerala,India,093378,17.3128433,82.3668984,True,
+597,2,"H.No. 705, Tella Circle",Near Barad-Mishra,Bhatti-Sarna,Thoothukudi,Secunderabad,West Bengal,India,522448,36.3012807,90.1570395,True,
+597,1,"97/75, Bansal Path",Sector 58,Dass-Shankar,Aligarh,Hajipur,Tamil Nadu,India,485104,31.8541825,77.9234872,False,
+910,1,"H.No. 55, Raghavan Path","Near Patil, Dutt and Dua",Sheth PLC,Nellore,New Delhi,Himachal Pradesh,India,726642,28.7426723,76.4592999,True,
+141,1,"75/79, Kannan Marg","Near Choudhary, Edwin and Bobal",Iyer Group,Jehanabad,Fatehpur,Goa,India,151613,34.867931,85.1030603,True,
+141,3,"60/82
+Gandhi Nagar",Sector 3,Chopra PLC,Gaya,Pimpri-Chinchwad,Tamil Nadu,India,066747,10.1398298,75.3243987,False,
+393,1,"H.No. 872
+Doshi Road",Near Biswas PLC,Dugar Group,Ujjain,Anantapur,Uttar Pradesh,India,422346,18.7382409,72.578984,True,
+148,1,"484, Chakraborty Chowk",Block A,"Menon, Bhatt and Sastry",Panipat,Dibrugarh,Uttarakhand,India,383836,14.8989809,90.6511363,True,
+964,1,"18/033, Issac",Block C,"Shanker, Sabharwal and Wadhwa",Ongole,Bhopal,Tripura,India,718662,21.3281436,75.2984935,True,
+771,1,"H.No. 79
+Dave Marg","Near Suresh, Saxena and Solanki",Kaur Inc,Panvel,Jabalpur,Tripura,India,072664,33.5365715,69.091357,True,
+732,2,"10, Barad Street",,Verma-Dara,Aurangabad,Sambalpur,Jharkhand,India,196644,27.8648768,74.4228188,True,
+732,3,"693, Hari Path",,"Saran, Nigam and Gokhale",Chittoor,Kottayam,Odisha,India,985443,12.4057674,92.2029617,False,
+228,1,"H.No. 458, Joshi Street",Block C,Dewan PLC,Meerut,Ongole,Chhattisgarh,India,015816,28.4348995,78.3097194,True,
+781,3,"H.No. 105
+Kumer Ganj",Near Bajaj-Kumer,Yogi-Ghose,Bahraich,Kollam,Jharkhand,India,984696,16.638924,87.1516692,True,
+261,2,"41, Sachdeva Chowk",Near Sarna-Rajan,Raman-Jhaveri,Coimbatore,Jamnagar,Meghalaya,India,909603,23.1785763,80.6810922,True,
+243,2,"86
+Lanka Chowk",Sector 2,"Nair, Bhasin and Trivedi",Silchar,Dindigul,Nagaland,India,239143,29.1014918,71.8907558,True,
+128,1,"933, Chopra Road",Block B,Hora LLC,Rampur,Morbi,Punjab,India,563314,20.091772,75.8930505,True,
+25,1,"796, Shankar Circle",Block C,"Sachdeva, Varkey and Madan",Guna,Ambattur,Karnataka,India,047189,14.7810539,93.8825011,True,
+52,2,"47/64
+Mangat Marg",Block B,Sami LLC,Bhatpara,Shivpuri,Telangana,India,377560,27.1204291,95.8390079,True,
+173,1,"H.No. 659
+Vig Marg",Block C,Sachdeva-Manda,Baranagar,Belgaum,Uttarakhand,India,181423,32.021152,92.2840287,True,
+458,1,"19/073, Char Road",Block D,Dara-Johal,Surendranagar Dudhrej,Chandrapur,Odisha,India,516673,13.914765,71.8579206,True,
+950,3,"H.No. 978
+Radhakrishnan Chowk",Near Wali PLC,"Bora, Suresh and Chauhan",Guwahati,Giridih,Chhattisgarh,India,686973,31.056241,92.1887713,True,
+830,2,"H.No. 37
+Patla Street",Sector 58,"Pai, Bawa and Agate",Thane,Bathinda,Madhya Pradesh,India,353852,16.6350555,76.7617422,True,
+830,1,"H.No. 01
+Kala Road",,Dewan LLC,Siliguri,Jodhpur,Uttarakhand,India,320080,31.1610441,92.4032786,False,
+548,1,"H.No. 412, Deo Ganj",,"Kala, Bhardwaj and Dutta",Gorakhpur,Ahmednagar,Tripura,India,636211,21.8326858,81.9964882,True,
+655,2,"358, Vala Zila",,Sanghvi-Nanda,Dhanbad,Rampur,Chhattisgarh,India,142946,12.5216162,70.9761802,True,
+705,2,"H.No. 22, Madan Circle",Near Vasa-Mani,"Grewal, Toor and Kapadia",Amravati,Giridih,Karnataka,India,061368,14.6987236,85.327248,True,
+657,2,"H.No. 213
+Sarma Nagar",Block A,Baria Group,Anantapuram,Haridwar,Uttar Pradesh,India,609055,13.406689,88.0973394,True,
+625,3,"41/22
+Mittal Street",Sector 18,Saini Ltd,Davanagere,Bidar,Assam,India,437270,33.6641038,74.0781102,True,
+721,2,"35, Bal Nagar",Near Sura Group,Kaur-Oak,Thoothukudi,Ongole,Madhya Pradesh,India,204232,14.2734363,94.7263679,True,
+890,1,"60
+Ray Nagar",Block A,"Thakur, Badal and Kata",Gandhinagar,Purnia,Tripura,India,422025,19.0339335,79.793528,True,
+971,3,"98
+Nagar Zila",Near Grover and Sons,"Nagi, Korpal and Gala",Gopalpur,Kozhikode,Andhra Pradesh,India,450207,23.5762001,89.5246515,True,
+259,3,"H.No. 267
+Ganesan Circle","Near Peri, Balay and Bawa",Sarin LLC,Shimla,Jhansi,Punjab,India,164218,11.8689716,83.6655608,True,
+817,2,"40
+Yogi Path",Sector 25,"Shankar, Ganesan and Bhatt",Howrah,Sonipat,Andhra Pradesh,India,974852,10.780672,71.3876764,True,
+238,1,"162
+Sachdeva Circle",Block B,Chokshi Ltd,Vellore,Bally,Uttarakhand,India,314572,25.4537785,68.3918251,True,
+238,3,"H.No. 05, Agrawal",,Chokshi-Balasubramanian,New Delhi,Khammam,West Bengal,India,977027,32.7536012,95.6231346,False,
+455,2,"H.No. 58, Badami Chowk",,Pant-Sastry,Madurai,Bhiwani,Tripura,India,702386,27.778977,72.3080179,True,
+885,1,"74/277
+Goswami Nagar",Near Khare-Ratti,Mohanty Ltd,Jaipur,Haldia,Arunachal Pradesh,India,699646,34.8306971,90.8113861,True,
+356,2,"98, Prabhu Path",Block C,"Chada, Cheema and Rastogi",Dehri,Bidar,Meghalaya,India,710614,25.935821,68.7291733,True,
+356,1,"29
+Suresh Chowk",,"Patla, Kothari and Bhatt",Machilipatnam,Ghaziabad,Manipur,India,966815,22.5237513,74.8493437,False,
+820,1,"H.No. 55
+Pai Street",,Golla Ltd,Belgaum,Ambarnath,Jharkhand,India,185299,23.342682,75.6905265,True,
+820,3,"075, Chakraborty Road","Near Nagi, Walia and Dugal",Raju-Mutti,Buxar,Dharmavaram,Uttar Pradesh,India,790576,20.1159346,69.0951496,False,
+951,3,"17/33, Basu Ganj",Block B,Kakar-Kannan,Buxar,Orai,Mizoram,India,833875,23.161461,95.0716576,True,
+951,1,"H.No. 197, Sani Street",,"Ratta, Sunder and Bora",Tadipatri,Khandwa,Sikkim,India,256394,8.6760824,77.8670547,False,
+887,2,"63, Bava Chowk",Near Sane Group,"Kohli, Patla and Ramaswamy",Gopalpur,Jalandhar,Jharkhand,India,732827,8.7681655,72.4326127,True,
+935,1,"H.No. 31, Chopra",Near Grewal-Nagy,Kapadia-Khosla,Vijayanagaram,Guna,Tripura,India,090908,29.7575029,72.0632854,True,
+935,2,"64/39
+Lata Road",,Dasgupta Inc,Chapra,Serampore,Madhya Pradesh,India,704312,22.313582,77.0022628,False,
+434,1,"H.No. 24
+Sarna Road",Sector 55,Kata Group,Agartala,Unnao,Telangana,India,348949,26.4597645,96.6884497,True,
+346,2,"19
+Chawla",,Lalla-Goda,Jorhat,Kumbakonam,Madhya Pradesh,India,855105,26.522595,79.8240899,True,
+346,1,"H.No. 07, Rama Zila",Block D,Chaudhari Ltd,Bhiwani,Nizamabad,Tripura,India,515067,20.2611415,72.576914,False,
+601,3,"66/953
+Karpe Ganj",,Dani-Agrawal,Bidar,Korba,Sikkim,India,239013,10.7732057,79.5697286,True,
+979,1,"H.No. 132, Raja Zila",Sector 62,Wadhwa LLC,Lucknow,Bally,Madhya Pradesh,India,463422,16.3786927,70.0241424,True,
+737,1,"61/18, Dua Ganj","Near Bhalla, Tara and Barad","Gupta, Srivastava and Munshi",Serampore,Meerut,Maharashtra,India,442951,20.6338087,95.6645814,True,
+737,3,"H.No. 45
+Shroff Circle",Near Dube-Gera,"Ravel, Subramaniam and Kibe",Udupi,Kozhikode,Manipur,India,813171,10.4781629,71.6505392,False,
+908,1,"67/24, Sarkar Circle",Block C,"Ramanathan, Kurian and Lad",Noida,Kulti,Haryana,India,789919,25.6572571,79.1000994,True,
+930,3,"H.No. 899
+Puri Marg",Block D,"Kata, Vyas and Gulati",Sasaram,Bhimavaram,Manipur,India,776876,16.6736245,82.8286483,True,
+694,2,"H.No. 97
+Cheema Road",Sector 63,Goyal-Chaudry,Kozhikode,Kishanganj,Assam,India,856923,31.4147253,91.439822,True,
+727,1,"604, Vig Zila","Near Sarna, Nadig and Chander",Agrawal-Saha,Bhilwara,Maheshtala,Himachal Pradesh,India,250773,14.101904,77.1368909,True,
+72,2,"14, Sharma",Near Devi and Sons,Khatri Inc,Fatehpur,Nellore,Kerala,India,249566,14.2872017,89.801456,True,
+207,1,"H.No. 42
+Borah Circle",Block A,"Ramesh, Bhargava and Sarkar",Ahmedabad,Rewa,Assam,India,049253,31.1258995,86.2621589,True,
+762,1,"81/263, Sandhu Marg",Block B,Bains PLC,Machilipatnam,Panihati,Mizoram,India,624349,36.7552107,74.0819371,True,
+632,1,"H.No. 146, Agrawal Chowk",Sector 38,Ravel-Chanda,Sikar,Imphal,Madhya Pradesh,India,101889,36.3193599,90.9039575,True,
+42,3,"H.No. 96
+Dara",Sector 99,Som and Sons,Jamshedpur,Dehradun,Punjab,India,992814,23.9557248,81.2804428,True,
+765,3,"H.No. 22, Pathak Zila",,Sawhney-Singh,Dindigul,Bhimavaram,Karnataka,India,591281,8.4542141,72.0906891,True,
+861,3,"82/104, Bobal Zila",Block C,Mitter PLC,Pondicherry,Durgapur,Meghalaya,India,173083,33.8904464,81.7097364,True,
+806,2,"89/497
+Pradhan Marg",Sector 16,"Banik, Balakrishnan and Sundaram",Bhalswa Jahangir Pur,Moradabad,Haryana,India,711641,28.1818281,83.7671715,True,
+806,3,"45/180
+Taneja Nagar",Near Suresh-Kumar,Nadig-Shan,Amroha,Pimpri-Chinchwad,West Bengal,India,355655,32.1709021,73.8913209,False,
+213,2,"693
+Bhattacharyya Zila",Block A,Mistry Ltd,Giridih,Chinsurah,Sikkim,India,566444,35.76509,95.097037,True,
+313,1,"28
+Mukhopadhyay Nagar",Near Kohli Ltd,Walia Inc,Yamunanagar,Raebareli,Uttarakhand,India,366105,33.3436527,78.848386,True,
+764,3,"H.No. 51, Vaidya Marg","Near Bhatti, Dhillon and Gokhale","Setty, Yohannan and Narula",Madhyamgram,Bokaro,Assam,India,911544,23.9990469,92.1090211,True,
+872,2,"H.No. 576, Kari Path","Near Arya, Mistry and Borra",Golla-Upadhyay,Nagercoil,Bhagalpur,Telangana,India,587718,25.7975153,91.1403995,True,
+237,3,"108
+Nagy Chowk",,Doshi-Kashyap,Kulti,Guna,Jharkhand,India,125219,30.5392336,90.5531119,True,
+466,1,"H.No. 283, Sharma Nagar",Block B,"Chandra, Basu and Char",Nashik,Bahraich,Punjab,India,770033,11.3534575,85.0968334,True,
+899,2,"004, Vala",,"Naidu, Aurora and Subramaniam",Medininagar,Pali,Nagaland,India,188452,14.7237682,71.2971605,True,
+802,3,"965
+Pai",,Kuruvilla and Sons,Solapur,Sri Ganganagar,Meghalaya,India,525037,11.53878,73.970243,True,
+550,1,"89/275
+Bali Ganj",,Krishnan-Shukla,Pondicherry,Guna,Gujarat,India,527654,15.2959948,87.3734838,True,
+550,2,"H.No. 32, Bawa Circle",Sector 78,"Manne, Mahajan and Kar",Raichur,Surendranagar Dudhrej,Maharashtra,India,761974,23.4424911,92.7436682,False,
+88,2,"89
+Kanda Ganj",Sector 75,Mangat-Bawa,Muzaffarnagar,Bhiwandi,Arunachal Pradesh,India,144450,29.9578814,92.5257773,True,
+457,3,"557, Nadig Nagar",Block C,"Rout, Hayer and Sundaram",Bokaro,Sikar,Andhra Pradesh,India,826577,10.9689903,96.6797812,True,
+248,3,"80/24, Bajaj Circle",Sector 51,Vora and Sons,Junagadh,Khammam,Bihar,India,939038,25.1222404,68.5105849,True,
+646,3,"51, Seth Nagar",Sector 57,Choudhury Ltd,Katihar,Bellary,Tripura,India,631234,11.4253769,72.3393621,True,
+646,1,"42/03
+Goswami",Near Sharaf-Hora,"Borde, Sawhney and Ganguly",Sasaram,Kolkata,Karnataka,India,984277,24.1729445,92.8347005,False,
+761,1,"H.No. 040
+Mall Circle",Sector 76,Jaggi Ltd,Nagaon,Jammu,Meghalaya,India,913684,33.4457489,95.4184081,True,
+761,3,"57/113
+Nagy Nagar",Block D,Padmanabhan LLC,Uluberia,Bijapur,Chhattisgarh,India,819018,20.7910466,89.4993764,False,
+701,1,"941
+Sur Ganj",Near Dua and Sons,"Tata, Borra and Chandra",Ramagundam,Morena,Uttarakhand,India,046965,29.1170618,94.6437085,True,
+579,3,"H.No. 35, Ravi Street",Block D,Jaggi Inc,Asansol,Etawah,Uttarakhand,India,261155,28.2255964,80.3596935,True,
+808,1,"28/75, Rai Circle",,Sundaram-Kalita,Panvel,Vasai-Virar,Kerala,India,463210,29.8318798,83.750565,True,
+94,1,"69, Agarwal Road","Near Krishna, Dhar and Shukla",Shanker LLC,Rajkot,Bhiwandi,Himachal Pradesh,India,647322,19.8494242,79.2760593,True,
+198,1,"94/05, Oza Nagar",,Pingle-Jhaveri,Kalyan-Dombivli,Bongaigaon,West Bengal,India,508752,16.8006429,86.8268493,True,
+198,3,"48
+Tailor",,Wable and Sons,Bettiah,Malda,Kerala,India,205606,21.6161808,83.6725072,False,
+772,2,"11
+Sangha Marg",,Bhatt PLC,Rewa,Amroha,Madhya Pradesh,India,153342,17.5302369,70.0327642,True,
+462,1,"89/150
+Hayre",Sector 29,Jani-Mane,Chinsurah,Ahmednagar,Assam,India,090462,28.9489627,75.7957408,True,
+495,2,"264, Basak",Block A,Handa and Sons,Thane,Jaipur,Haryana,India,142182,13.7329238,71.9384059,True,
+494,2,"31/91
+Kale Ganj",Sector 84,"Srinivasan, Zacharia and Wadhwa",Rajpur Sonarpur,Amravati,Jharkhand,India,453845,20.0696968,77.325864,True,
+844,2,"72/00, Lad Nagar","Near Nori, Chandran and Pandit",Pillay-Dyal,Srikakulam,Ambattur,Tamil Nadu,India,295881,16.7391003,80.5000902,True,
+799,3,"83/99, Dora Chowk",Near Bajwa Inc,Hora and Sons,Ghaziabad,Bhavnagar,Gujarat,India,695780,10.1374156,82.2955009,True,
+575,3,"80/72, Basak Nagar",,"Walia, Bhardwaj and Bassi",Allahabad,Bettiah,Arunachal Pradesh,India,527970,31.5721993,74.8207316,True,
+575,1,"43/96
+Sha",Near Ravel-Korpal,"Krishnamurthy, Behl and Aurora",Malegaon,Phagwara,Haryana,India,050005,29.6164827,93.5918604,False,
+250,1,"19
+Hayre Nagar",Block A,"Chatterjee, Tella and Balay",Gaya,Gopalpur,Assam,India,989808,25.3415955,71.3337119,True,
+492,3,"H.No. 63, Agarwal","Near Pall, Patla and Pandey","Zachariah, Sane and Dube",Siwan,Kottayam,Mizoram,India,624094,32.049697,74.7146131,True,
+994,3,"33/80
+Bhargava Marg",Block A,Swamy-Prasad,Karnal,Avadi,Mizoram,India,675506,23.6827808,68.6421331,True,
+994,2,"10
+Sen Marg",Sector 72,Balay-Muni,Jorhat,Uluberia,Gujarat,India,827484,16.0976064,86.7251164,False,
+409,2,"H.No. 87, Kapadia",Sector 48,Chowdhury-Goel,Sagar,Ozhukarai,Odisha,India,576514,9.74733,70.1810136,True,
+409,1,"26
+Dora Ganj",Block C,"Nori, Shere and Naik",Jamshedpur,Raebareli,Madhya Pradesh,India,540655,33.9426348,85.9511214,False,
+662,3,"98
+Shroff Street",,Palla LLC,Gangtok,Kadapa,Maharashtra,India,211172,28.9875219,81.3039823,True,
+662,2,"356, Wable Marg",,Parsa Ltd,Kadapa,Orai,Jharkhand,India,740159,29.3109379,92.362655,False,
+156,1,"H.No. 785, Singhal Ganj",,"Ranganathan, Ganesan and Minhas",Allahabad,Madurai,Telangana,India,504312,11.3700388,68.2687503,True,
+156,2,"H.No. 72
+Cherian Ganj",Block A,Kar PLC,Nanded,Vasai-Virar,Rajasthan,India,129139,31.0506587,95.902989,False,
+774,3,"31, Hari Circle",Sector 3,Borde-Master,Rampur,Jamalpur,Mizoram,India,263565,32.4327924,78.3250447,True,
+235,2,"H.No. 519
+Peri Circle",Block A,Datta-Sridhar,Nadiad,Gurgaon,Kerala,India,971194,17.3954019,78.5483955,True,
+235,3,"H.No. 34
+Vasa Street",,"Chada, Banerjee and Jain",Bhalswa Jahangir Pur,Bardhaman,Rajasthan,India,060982,36.6654864,94.6821599,False,
+873,2,"397
+Modi Circle",Near Jaggi-Goyal,Devi and Sons,Sangli-Miraj & Kupwad,Jamshedpur,Uttarakhand,India,829493,8.2567709,80.4830159,True,
+27,1,"07/502
+Savant Road",Near Das-Kari,Trivedi LLC,Cuttack,Belgaum,Haryana,India,208513,28.1017687,72.3460103,True,
+784,3,"413
+Ganesan",Near Soni Inc,Nazareth Inc,Begusarai,Thiruvananthapuram,Uttarakhand,India,202039,32.3957193,82.1357861,True,
+965,1,"73/84
+Banerjee Zila",,Tata-Sharma,Muzaffarnagar,Guna,Nagaland,India,179668,36.7793896,93.6779447,True,
+1,2,"H.No. 53, Chand Street",Near Bhavsar Group,"Comar, Jaggi and Randhawa",Bhavnagar,Kottayam,Karnataka,India,213462,20.9506262,90.3332836,True,
+1,3,"H.No. 64, Wali Chowk",Sector 77,"Mani, Manne and Date",Hubli–Dharwad,Tiruchirappalli,Arunachal Pradesh,India,336407,24.7652628,73.4764171,False,
+33,1,"98/475
+Borah Marg",,Dalal-Karnik,Naihati,Ludhiana,Tripura,India,755531,8.422349,74.3472183,True,
+768,3,"H.No. 440
+Thakkar Path","Near Khosla, Singh and Grewal",Tiwari Group,Amritsar,Eluru,Andhra Pradesh,India,614655,32.8334344,76.8553968,True,
+179,2,"H.No. 98
+Varkey Path",Block B,Jain-Kade,Visakhapatnam,Udupi,Telangana,India,718926,16.7084148,82.3814549,True,
+179,3,"H.No. 73, Chowdhury Zila","Near Dyal, Nayak and Tank",Vyas-Karan,Solapur,Ramagundam,Goa,India,735382,33.8538535,82.8456566,False,
+274,1,"15/86
+Sur Street",,"Sengupta, Yohannan and Raj",New Delhi,Imphal,Gujarat,India,257002,33.6069737,78.1813785,True,
+465,2,"H.No. 78, Oak Road",Block D,Varma PLC,Kulti,Asansol,Manipur,India,410775,9.9414906,75.2904298,True,
+465,1,"49/20, Bhardwaj Ganj",Sector 62,Mukherjee LLC,Ambala,Sasaram,Gujarat,India,279724,24.095018,88.8580886,False,
+361,3,"24/154
+Mitter Street",Sector 15,"Kara, Chhabra and Barad",Sirsa,Begusarai,Jharkhand,India,685743,19.6198299,89.3868451,True,
+533,1,"184, Deep",Block C,Varghese Ltd,Imphal,Narasaraopet,Punjab,India,493205,8.7243496,81.931869,True,
+533,3,"02/317
+Shah Street",Block B,Koshy Group,Katihar,Gandhidham,Manipur,India,193129,35.7059466,70.6491929,False,
+834,3,"H.No. 585, Dixit Circle",Block A,"Loke, Bhatti and Agarwal",Pondicherry,Dhule,Sikkim,India,689128,15.1766242,82.4931356,True,
+826,1,"385, Brar Nagar",Sector 73,Sami Inc,Bihar Sharif,Mangalore,West Bengal,India,335179,33.0565123,91.1744673,True,
+616,3,"40/45, Biswas Ganj",Near Vaidya-Barman,Sarraf Ltd,Vijayawada,Guntur,Meghalaya,India,368149,20.2253188,91.9188529,True,
+199,3,"698, Bassi Marg",,"Dhar, Pandya and Nagar",Jaunpur,Bongaigaon,Rajasthan,India,304480,22.167169,72.9283329,True,
+603,3,"68
+Deshmukh Nagar",Sector 18,Ramesh PLC,Rajahmundry,Kirari Suleman Nagar,Andhra Pradesh,India,279250,11.5132058,76.0818477,True,
+603,2,"250, Kakar Zila",Sector 51,Barman Ltd,Madhyamgram,Sangli-Miraj & Kupwad,Rajasthan,India,615024,23.5063604,71.303614,False,
+901,3,"H.No. 297, Balakrishnan Street",,"Doshi, Chatterjee and Dugal",Nagaon,Kumbakonam,Telangana,India,981745,10.5487138,84.4380535,True,
+901,1,"23/073
+Kadakia Ganj",Sector 9,"Choudhary, Dhar and Warrior",Bidar,Pondicherry,Meghalaya,India,788633,29.786504,87.7580441,False,
+420,3,"787
+Oommen Chowk",Block C,"Kaul, Karnik and Choudhary",Bhopal,Guna,Rajasthan,India,630748,9.9613768,89.631658,True,
+420,2,"H.No. 22, Chandran Ganj",Sector 71,Gour PLC,Guntakal,Mathura,Telangana,India,009787,15.7716274,71.9334513,False,
+552,2,"38/46
+Khalsa",,Andra and Sons,Uluberia,Barasat,Mizoram,India,156322,18.7945725,70.07707,True,
+552,1,"57/89, Sathe Zila",Near Tripathi-Tank,Master Group,Anantapuram,Shivpuri,Meghalaya,India,708370,21.2001733,96.7498712,False,
+946,2,"96/378, Garg Path",Near Mander Ltd,Kara-Dave,Gorakhpur,Kochi,Tripura,India,505386,22.1351669,92.7053429,True,
+946,1,"H.No. 81, Ahluwalia Marg",Block D,Bajaj PLC,Gangtok,Kota,Arunachal Pradesh,India,632862,17.8704077,80.1611208,False,
+997,1,"H.No. 95
+Sen",,Kant PLC,Patna,Faridabad,West Bengal,India,752537,29.6810409,75.4638535,True,
+904,2,"823, Kade Marg",Sector 46,"Lata, Sama and Gopal",Udupi,Tenali,Telangana,India,286915,24.8380595,90.9816842,True,
+904,3,"H.No. 670
+Dyal Street",Block A,Badal Ltd,Guntur,Aurangabad,Goa,India,891355,35.4208174,82.7620328,False,
+754,3,"54/92
+Basak Nagar",Near Shere Inc,"Bera, Khalsa and Mane",Ulhasnagar,Ranchi,Manipur,India,614011,24.7154378,94.6959555,True,
+155,2,"H.No. 60, Bora Ganj",Block C,Chada-Kalita,Guna,Adoni,Goa,India,388395,20.2504763,74.7835682,True,
+296,3,"H.No. 18, Narula","Near Maharaj, Narasimhan and Chowdhury","Behl, Sampath and Konda",Satara,Phagwara,Odisha,India,394258,10.7007842,92.1091034,True,
+296,2,"50/121
+Maharaj Marg",Block B,Nagar PLC,Dewas,Maheshtala,Chhattisgarh,India,255944,28.54556,79.5581111,False,
+944,3,"47/328, Balay Ganj",Block C,"Buch, Minhas and Rama",Karaikudi,Hajipur,Tamil Nadu,India,839485,27.95246,72.3641037,True,
+944,2,"974, Natarajan Ganj",Sector 73,Deep-Warrior,Unnao,Warangal,Kerala,India,402954,10.6799179,78.6555336,False,
+291,3,"81/617
+Murty Nagar",Sector 53,"Banerjee, Keer and Kapadia",Kolhapur,Chapra,Uttar Pradesh,India,531436,28.9209614,83.026726,True,
+294,3,"60/55
+Ahuja",Sector 78,"Palla, Kapoor and Bandi",Jaipur,Karawal Nagar,Himachal Pradesh,India,826620,11.6733494,70.476607,True,
+698,3,"13/93
+Menon Road",Block B,Bal-Mitter,Ramgarh,Begusarai,Maharashtra,India,795752,25.2208421,86.2797308,True,
+363,1,"69
+Khalsa Road",Block B,Sharaf LLC,Durg,Nadiad,Madhya Pradesh,India,144678,19.1881699,93.1230564,True,
+745,1,"37
+Sangha Path",Near Ghosh-Sant,Date-Jhaveri,Berhampur,Munger,Mizoram,India,426876,10.9224916,81.6791148,True,
+745,3,"337
+Nayak Path",Block A,Bava-Ray,Panchkula,Ulhasnagar,Haryana,India,620635,32.7043682,90.1260001,False,
+439,2,"H.No. 94
+Bumb Chowk",Block C,"Gala, Dua and Nazareth",Srikakulam,Avadi,Mizoram,India,894275,32.4590736,81.8414078,True,
+439,3,"821
+De Chowk",,"Devi, Hayre and Walla",Kottayam,Shahjahanpur,Uttarakhand,India,502274,15.5063978,87.1777733,False,
+172,3,"70/35
+Sibal Street",Block D,Goyal-Dube,Nashik,Patiala,Meghalaya,India,877540,28.9290843,83.5567482,True,
+903,3,"H.No. 65
+Kakar Path",Sector 93,Murthy-Tak,Chandrapur,New Delhi,Sikkim,India,286863,9.5751588,75.1051458,True,
+559,3,"935, Dutta Chowk",Sector 35,Muni-Dua,Kishanganj,Amaravati,Gujarat,India,415989,24.2862027,79.9829247,True,
+735,3,"167, Rajagopalan",Block C,"Virk, Ganguly and Singhal",Thrissur,Tumkur,Himachal Pradesh,India,939047,8.4484825,92.4865606,True,
+731,3,"949, Goel Ganj","Near Tiwari, Doshi and Tripathi",Varkey-Garde,Silchar,Jehanabad,Manipur,India,060004,16.833837,79.8217317,True,
+731,1,"19, Palan",Near Behl-Krishnamurthy,Nazareth LLC,Ambattur,Aurangabad,Kerala,India,304045,20.5296886,80.979304,False,
+97,3,"71/28, Kapadia Path",,Arya-Purohit,Bijapur,Jorhat,Assam,India,232603,15.8413606,88.2254708,True,
+413,3,"33/53, Krishnamurthy Circle",,Kapoor-Naik,Malegaon,Bhimavaram,Gujarat,India,861473,33.4710602,88.3615299,True,
+384,1,"512, Brar",Block B,Bora PLC,Bhiwandi,Jalna,Tripura,India,959520,30.7169503,95.8550989,True,
+384,2,"86/270
+Butala Road",Block A,"Solanki, Gara and Ghosh",Sangli-Miraj & Kupwad,Bongaigaon,Uttarakhand,India,014259,12.7372522,74.6417971,False,
+385,3,"01, Chopra",Sector 45,"Gade, Devan and Loke",Bally,Karawal Nagar,Uttar Pradesh,India,320441,19.4096618,96.3835704,True,
+480,3,"218
+Uppal Zila",Block B,"Krishnan, Kala and Agate",Ghaziabad,Madanapalle,Gujarat,India,662050,23.7128209,73.4018404,True,
+886,1,"H.No. 23
+Khatri Ganj",Block A,Rajagopalan-Deshmukh,Nellore,Firozabad,Arunachal Pradesh,India,300376,19.3783969,86.0057031,True,
+740,3,"79/49
+Bhandari Chowk",Block D,"Dubey, Sastry and Ratta",Sasaram,Muzaffarpur,Chhattisgarh,India,512264,10.9908431,88.220309,True,
+391,3,"26/953, Joshi",Block B,Lad-Sane,Ujjain,Pudukkottai,Tripura,India,910266,29.2890994,79.5808408,True,
+290,3,"H.No. 904, Chauhan Ganj",,Wable Ltd,Darbhanga,Solapur,Madhya Pradesh,India,936376,13.7473029,85.1700551,True,
+290,1,"237
+Rattan Nagar",,"Soman, Master and Contractor",Panihati,Srikakulam,Uttar Pradesh,India,456934,8.2895693,96.3033437,False,
+566,3,"92/442
+Randhawa Ganj",Sector 60,"Bajwa, Jayaraman and Soman",Mirzapur,Rajpur Sonarpur,Tripura,India,865171,26.1217097,68.0700481,True,
+566,2,"H.No. 863
+Badami","Near Dugar, Chandra and Palla",Kari-Mukherjee,Dhule,Jalna,Mizoram,India,567945,25.2623997,75.4388781,False,
+822,2,"28, Prasad Road",Sector 32,Misra-Gade,Tadepalligudem,Jhansi,Chhattisgarh,India,550515,20.3576381,69.1150259,True,
+135,2,"49/19, Pandya Street",,Sabharwal Group,Aurangabad,Guwahati,Haryana,India,639620,14.6087641,87.4874228,True,
+472,2,"05
+Tata Ganj",Block A,Mishra Group,Berhampur,Nagercoil,Uttarakhand,India,282793,31.6008443,73.9867051,True,
+195,1,"H.No. 358
+Garde Path","Near Arora, Pau and Tandon",Bala and Sons,Korba,Guntur,Rajasthan,India,745686,29.2873387,84.635987,True,
+195,2,"65/46
+Modi Zila",Sector 91,Dutt-Bir,Thane,Meerut,Tamil Nadu,India,379568,30.4760957,85.5741489,False,
+776,1,"71
+Shroff Chowk",,Agarwal LLC,Kadapa,Avadi,Assam,India,303634,23.1040114,85.9974435,True,
+776,2,"H.No. 46, Jayaraman Nagar",Block D,"Yohannan, Bose and Dixit",Sangli-Miraj & Kupwad,Sasaram,Uttarakhand,India,330709,32.3429659,79.5345865,False,
+95,2,"750, Parekh Nagar",Block B,Dixit-Kurian,Nadiad,Anantapur,Sikkim,India,949705,27.6471552,94.4678191,True,
+349,3,"H.No. 155
+Barad",Block B,Lanka PLC,Tezpur,Suryapet,Nagaland,India,567562,22.3581781,92.2728424,True,
+647,2,"615, Shenoy Marg",Near Toor PLC,Shenoy-Rajagopal,Bhind,Saharanpur,Jharkhand,India,206168,26.8024972,70.0464789,True,
+856,2,"35/039, Kale Nagar",Near Buch PLC,"Bera, Dugal and Desai",Tenali,Saharsa,Chhattisgarh,India,759136,21.1408723,82.7927378,True,
+856,3,"H.No. 710
+Balay Zila",Block B,Sharaf Inc,Gulbarga,Fatehpur,Tripura,India,232926,36.8225153,70.6666847,False,
+520,3,"27
+Contractor Street",Sector 80,Nagar-Patil,Aurangabad,Hapur,Uttar Pradesh,India,581121,26.1151112,95.2676617,True,
+520,2,"677, Shanker Path",Sector 30,Srinivas Group,Pune,Tezpur,Arunachal Pradesh,India,128095,36.2419633,71.7671879,False,
+145,1,"H.No. 703
+Gera Road",Block A,"Jaggi, Palla and Panchal",Raipur,Raiganj,Maharashtra,India,196932,18.1453951,87.9687703,True,
+959,2,"H.No. 31, Sami Path",Near Kaul-Rama,"Amble, Wagle and Din",Kadapa,Agra,Nagaland,India,760566,8.0127228,87.9629772,True,
+686,2,"H.No. 43
+Buch Street",,Chopra Ltd,Kozhikode,Dharmavaram,Meghalaya,India,679148,29.6444675,94.6751251,True,
+686,3,"H.No. 91, Parikh Nagar",Sector 77,"Shere, Bobal and Kata",Adoni,Raipur,Chhattisgarh,India,736058,35.5536003,88.6961355,False,
+490,2,"09
+Gaba",Block D,"Mangat, Rai and Madan",Bhilwara,Belgaum,Manipur,India,084596,10.3439896,80.0808679,True,
+340,2,"44/730
+Baria Path",Near Ravi-Chakraborty,Mody PLC,Kadapa,Giridih,Goa,India,235352,22.2388892,79.4221797,True,
+700,2,"H.No. 23, Sekhon",Block B,"Krish, Nath and Chander",Mysore,Ballia,Goa,India,683178,30.1506885,81.6391641,True,
+966,3,"435, Mukherjee",,Lala-Nayar,Kanpur,Shivpuri,Himachal Pradesh,India,063925,14.3455279,94.0466391,True,
+645,3,"153, Varkey",Block A,"Ganesh, Lala and Oza",Pune,Panvel,Sikkim,India,264030,10.149801,69.4257269,True,
+645,1,"91/609, Roy Path",Sector 47,Mann-Sabharwal,Delhi,Mau,Himachal Pradesh,India,674749,11.1934265,81.7446597,False,
+144,1,"80/702
+Zachariah",Block B,"Taneja, Mallick and Keer",Allahabad,Jalna,Goa,India,465050,25.2351336,85.3098065,True,
+917,1,"671, Sathe Circle",Block A,Parsa Inc,Miryalaguda,Chittoor,Haryana,India,371535,22.160673,75.5682094,True,
+50,3,"H.No. 114
+Ghose Ganj",,Mahajan-Rajan,Danapur,Kadapa,Rajasthan,India,257371,32.8347133,94.0375489,True,
+746,2,"H.No. 80, Dugar Chowk",Near Salvi-Badami,Saraf LLC,Ludhiana,Phagwara,Madhya Pradesh,India,716304,12.0239005,88.3623021,True,
+24,2,"H.No. 74, Shenoy Marg",,Sharaf-Bhat,Surat,Asansol,Madhya Pradesh,India,227887,34.1601707,83.8924989,True,
+24,3,"H.No. 638
+Chowdhury Chowk",,Om LLC,Panihati,Loni,Chhattisgarh,India,103022,27.6906028,88.3023586,False,
+563,2,"H.No. 402
+Sachdeva Ganj",Block C,Thakur LLC,Kirari Suleman Nagar,Hospet,Punjab,India,424558,30.2707532,96.3656689,True,
+563,1,"H.No. 873, Pillai Ganj",,Saxena Ltd,Bikaner,Vellore,Odisha,India,902773,36.7886726,96.9206881,False,
+236,2,"H.No. 586
+Grewal Zila",,"Narasimhan, Kalita and Sant",Pimpri-Chinchwad,Jodhpur,Meghalaya,India,539451,8.3729682,87.722284,True,
+643,2,"288
+Nanda Marg",Sector 8,Golla Ltd,Dehri,Ramagundam,Chhattisgarh,India,939070,8.8832379,95.9894859,True,
+643,3,"H.No. 266, Dhingra Street",Near Maharaj-Venkatesh,Kapoor-Vig,Kalyan-Dombivli,Mehsana,Sikkim,India,231118,17.9532169,94.7545542,False,
+314,3,"82/38
+Chatterjee Nagar",,"Pall, Sathe and Dhillon",Hubli–Dharwad,Pallavaram,Tripura,India,413335,8.2462782,88.5710176,True,
+779,3,"H.No. 309, Misra",Near Dugar Group,Sabharwal Inc,Kanpur,Panchkula,Uttar Pradesh,India,549554,35.350936,85.2713448,True,
+189,1,"00/041, Goyal Zila",Sector 99,Saraf Group,Nashik,Dibrugarh,West Bengal,India,125312,26.7959164,82.9233943,True,
+923,1,"74
+Dewan Street",,Raja Ltd,Raipur,Karimnagar,Kerala,India,730940,8.3758883,90.4502688,True,
+416,1,"65/588, Pillay Nagar","Near Bajaj, Chad and Savant",Toor-Rastogi,Farrukhabad,Howrah,Rajasthan,India,114035,19.8694167,69.1840988,True,
+823,2,"H.No. 853, Brahmbhatt Circle",Sector 40,Nath-Gokhale,Mathura,Faridabad,Odisha,India,567853,34.2963984,91.8432503,True,
+823,1,"85/57
+Pall Ganj",Sector 52,Dave PLC,Raurkela Industrial Township,Chittoor,Arunachal Pradesh,India,881355,28.1714819,75.7196495,False,
+92,3,"77/220
+Bahri Nagar","Near Dhawan, Pillai and Kannan",Jayaraman Ltd,Unnao,Sirsa,Uttarakhand,India,633622,9.390778,94.0831285,True,
+525,2,"56/07, Devi Chowk",Block D,"Palla, Bava and Lad",Narasaraopet,Coimbatore,Tamil Nadu,India,987084,35.3261636,85.3963058,True,
+837,2,"935
+Das Circle",Block A,"Ravi, Chatterjee and Mann",Aurangabad,Bidar,Karnataka,India,559419,32.6570577,78.3049744,True,
+264,1,"H.No. 15
+Patla Path",,"Oza, Murthy and Sampath",Kharagpur,Tadepalligudem,Andhra Pradesh,India,941660,26.3867355,71.0034687,True,
+264,2,"422
+Chaudhari Nagar",Block C,Som-Sodhi,South Dumdum,Bellary,Uttarakhand,India,540363,35.3758628,87.7647807,False,
+800,3,"28/90
+Toor Circle",Block C,Mander-Dhillon,Rewa,Amritsar,Uttar Pradesh,India,839012,8.2134919,89.4113258,True,
+906,1,"427, Kumar Nagar",,Khalsa-Salvi,Burhanpur,Khandwa,Madhya Pradesh,India,784127,33.0141871,94.0998056,True,
+906,2,"H.No. 457
+Kumar",Block D,Rama-Nath,Jehanabad,Kishanganj,Goa,India,231699,19.0119606,82.7030174,False,
+437,1,"50/78, Nair",,Pai-Narula,Rajpur Sonarpur,Ghaziabad,Telangana,India,946779,36.1218838,90.8925789,True,
+517,3,"H.No. 602
+Bath Circle",Block D,Sane Inc,Kolhapur,Pondicherry,Meghalaya,India,735665,17.4829471,87.4830686,True,
+395,1,"83/74
+Vora Street",Near Chowdhury Group,Singh Group,Kamarhati,Bally,Himachal Pradesh,India,298352,24.5558559,94.4654179,True,
+568,1,"04/961, Acharya Street",Near Shenoy LLC,Baral Group,Dibrugarh,Siliguri,Telangana,India,230422,16.9988228,71.9959955,True,
+84,2,"65/221, Padmanabhan Chowk","Near Prabhu, Prakash and Sengupta",Tara-Viswanathan,Raurkela Industrial Township,Etawah,Madhya Pradesh,India,804095,29.6060632,77.4055445,True,
+940,1,"391, Minhas Street",Sector 78,Taneja-Thaker,Rajkot,Bhagalpur,Manipur,India,832609,12.9121358,84.674698,True,
+119,2,"60/11, Ramesh Marg",Sector 63,Randhawa PLC,Mangalore,Gopalpur,Arunachal Pradesh,India,779026,28.035057,72.9714727,True,
+30,3,"H.No. 087
+Konda Road",,"Chowdhury, Rajagopalan and Naidu",Jamnagar,Bhavnagar,West Bengal,India,004349,33.0971963,71.5411536,True,
+546,1,"04
+Sathe Nagar",,"Bumb, Pillai and Mittal",Sangli-Miraj & Kupwad,Ahmednagar,Nagaland,India,570968,34.2216761,90.862301,True,
+996,2,"39/941, Chanda Nagar",,"Sunder, Chowdhury and Rajan",Karawal Nagar,Udaipur,Mizoram,India,477750,28.7074149,92.7612018,True,
+996,3,"05, Seth",Near Saini-Badami,Kaur-Comar,Sikar,Katihar,Goa,India,844565,24.6486364,73.218168,False,
+373,2,"56, Iyengar Path","Near Bajwa, Randhawa and Bhatti",Joshi-Goswami,Khammam,Sambalpur,Gujarat,India,350768,18.0919655,91.340974,True,
+49,2,"55, Korpal",Sector 13,Sankaran-Soman,Bhalswa Jahangir Pur,Ozhukarai,Mizoram,India,546545,26.4947226,74.9739938,True,
+49,1,"63/883, Anand Road",Sector 42,"Loke, Char and Sengupta",Thrissur,Srinagar,Himachal Pradesh,India,333446,21.8497119,76.0818382,False,
+324,2,"H.No. 44
+Gandhi Chowk",Block C,Doctor-Dalal,South Dumdum,Aizawl,Meghalaya,India,325316,23.2515991,74.4878779,True,
+335,2,"61/37, Chahal Chowk",Near Krishnan and Sons,Ramaswamy PLC,Unnao,Indore,Arunachal Pradesh,India,695356,9.1027408,96.8362149,True,
+451,3,"50
+Hayre Street","Near Bobal, Shenoy and Garg",Roy-Raju,Panvel,Sirsa,Maharashtra,India,841948,18.9968218,91.8980361,True,
+905,2,"17, Arya Path",Block B,Tata LLC,Nashik,Sangli-Miraj & Kupwad,Maharashtra,India,232731,19.9843693,92.7601037,True,
+60,1,"741, Narasimhan","Near Ratti, Mall and Suri","Ramaswamy, Dutta and Minhas",Pudukkottai,Loni,Punjab,India,815097,9.1971054,92.406367,True,
+122,2,"079, Arora Path",Near Kapur Inc,"Upadhyay, Goel and Baria",Amaravati,Siwan,Haryana,India,744621,11.3909949,72.1082716,True,
+118,1,"H.No. 469
+Lad",Sector 93,"Roy, Walla and Dua",Ongole,Navi Mumbai,Arunachal Pradesh,India,020414,23.8672687,71.7956318,True,
+118,3,"H.No. 045, Reddy Path",Near Sekhon-Dhingra,Chand and Sons,Kota,Dindigul,Kerala,India,702277,29.7763599,79.3401071,False,
+388,1,"H.No. 98
+Keer",Sector 35,"Karpe, Savant and Rama",Kottayam,Bhalswa Jahangir Pur,Madhya Pradesh,India,316815,33.0841734,82.3281219,True,
+583,3,"16/59
+Rao Marg",Sector 36,Prabhakar-Varkey,Eluru,Mahbubnagar,Odisha,India,070280,18.4701611,92.9241683,True,
+440,1,"677
+Banik Marg",Block B,Tripathi-Sarma,Nagercoil,Khandwa,Goa,India,375352,23.4108971,86.7544484,True,
+879,1,"46/20
+Boase",,Walia PLC,Panipat,Chapra,Tripura,India,281812,15.481222,80.2624355,True,
+191,1,"76/06
+Sharma Street",,Bhasin-Raman,Bhiwani,Jehanabad,Uttar Pradesh,India,019959,27.5315131,81.034363,True,
+61,1,"H.No. 84, Lata Zila","Near Sandal, Dasgupta and Prabhu","Patla, Venkatesh and Mohanty",Patna,Secunderabad,Tamil Nadu,India,415980,25.8010851,82.1572939,True,
+659,1,"236, Mittal Circle",,Gola-Bahri,Gaya,Berhampur,Uttar Pradesh,India,307836,24.2473204,89.9673216,True,
+718,1,"88/63
+Lad Nagar",,Morar-Ramachandran,Farrukhabad,Surat,Goa,India,844635,32.5621843,73.1284429,True,
+718,2,"34
+Toor Zila",Block D,"Sharaf, Uppal and Sha",Bhiwani,Jhansi,Bihar,India,460157,30.2711423,96.0191665,False,
+428,1,"549
+Bhatia Marg",Block D,Bassi-Shah,Jaipur,Khammam,Gujarat,India,155706,12.584922,87.495743,True,
+476,2,"70/53
+Pal Chowk","Near Varty, Choudhry and Radhakrishnan","Bhalla, Borah and Bumb",Mathura,Sangli-Miraj & Kupwad,Manipur,India,237034,18.3721116,96.4552794,True,
+476,3,"H.No. 089, Raman",,Bains LLC,Patna,Khammam,Haryana,India,783370,35.6734218,87.3883929,False,
+368,3,"99/28, Dugal Path","Near Agarwal, Anand and Master","Nair, Mukherjee and Bains",Suryapet,Madhyamgram,Karnataka,India,326357,30.2498661,87.4116138,True,
+26,3,"53, Sastry Path","Near Pant, Hans and Naidu","Ratti, Sheth and Memon",Thoothukudi,Gandhinagar,Manipur,India,582916,16.7242637,88.1070722,True,
+689,3,"357, Koshy Nagar",Near Verma-Krishnamurthy,"Peri, Lall and Srinivasan",Narasaraopet,Aurangabad,Maharashtra,India,432594,31.0291799,90.3348203,True,
+531,3,"52/909, Narula Path",,Karnik-Bhandari,Dibrugarh,Jamalpur,Assam,India,725150,23.9827176,72.7879894,True,
+531,1,"51/94, Mishra Street",,Pau Group,Kota,Durgapur,Uttar Pradesh,India,722946,28.3898051,79.3726933,False,
+286,1,"H.No. 137, Wali Nagar",,Aggarwal and Sons,Shivpuri,Bhusawal,Kerala,India,051881,33.8776637,94.230243,True,
+286,2,"71
+Soni Chowk",Sector 50,Bala-Rajagopalan,Ratlam,Haldia,Uttarakhand,India,795442,31.1268772,70.9134091,False,
+641,1,"509
+Seth Marg",Near Yohannan-Viswanathan,Narula-Wali,Indore,Salem,Arunachal Pradesh,India,516078,21.49059,81.0149021,True,
+759,2,"417, Krishnan Street",Sector 27,Dugar-Mani,Meerut,Panipat,Maharashtra,India,237283,36.4623835,85.4730596,True,
+759,3,"H.No. 479
+Wagle Ganj",,Panchal Inc,Gandhidham,Nagpur,Chhattisgarh,India,816754,11.8982385,76.8999868,False,
+62,3,"528, Rama Road",Near Kannan PLC,Sarin Inc,Varanasi,Ludhiana,Andhra Pradesh,India,457456,14.0595846,69.3869951,True,
+62,2,"69/945
+Ratta Circle",Sector 56,Mallick-Patil,Bulandshahr,Junagadh,Punjab,India,100333,16.315011,95.627974,False,
+758,3,"20/925, Ranganathan Ganj",,Golla-Sule,Bhiwani,Bidhannagar,Punjab,India,225301,25.4998308,74.0287936,True,
+758,2,"38, Kar Marg",,Bobal Group,Thoothukudi,Bareilly,Mizoram,India,803028,27.9234717,93.1659497,False,
+354,3,"46
+Srivastava Street",,Nori-Soni,Kozhikode,Kakinada,Chhattisgarh,India,376913,22.0928084,96.6376253,True,
+961,1,"29/029
+Lala Path",Sector 31,Tripathi-Uppal,Giridih,Gandhinagar,Bihar,India,996178,35.1707558,74.7996329,True,
+961,3,"H.No. 77
+Raj Circle",Sector 31,"Tella, Ratti and Ramakrishnan",Ghaziabad,Amaravati,Uttar Pradesh,India,167421,29.9512846,77.1898699,False,
+104,2,"03, Arora Ganj",Sector 68,"Gara, Dalal and Aurora",Ramagundam,Uluberia,Uttarakhand,India,133241,18.8669961,88.7992561,True,
+104,1,"59/877, Bala Road",Near Wagle-Rana,Lal Group,Jalandhar,Mira-Bhayandar,Kerala,India,097078,31.4464381,78.739848,False,
+836,2,"H.No. 64, Bera Road",Block B,Pingle-Bhatnagar,Shahjahanpur,Thrissur,Arunachal Pradesh,India,046337,30.2453277,75.5341864,True,
+651,2,"48
+Khosla Path",Block A,"Barad, Nagarajan and Mangal",Pali,Panipat,Goa,India,927819,10.9499853,90.1569167,True,
+278,1,"78, Gokhale Chowk",Sector 74,Bassi-Dugal,Faridabad,Darbhanga,Bihar,India,896292,36.1412238,91.1633408,True,
+132,2,"58/503
+Uppal Chowk",Near Devan Inc,Anand-Mittal,Raipur,Phagwara,West Bengal,India,747323,35.692669,86.5392267,True,
+132,3,"H.No. 576
+Vala Zila",Near Datta-Prakash,Brahmbhatt and Sons,Ongole,Guntakal,Haryana,India,029417,35.0175022,73.2362859,False,
+748,3,"H.No. 83, Basu Ganj",Block B,"Ramesh, Bail and Sarna",Tiruvottiyur,Bhalswa Jahangir Pur,Andhra Pradesh,India,428354,28.7911834,87.9274503,True,
+292,3,"43/73, Kaur Street",Sector 77,Parmer Ltd,Pimpri-Chinchwad,Sultan Pur Majra,Bihar,India,467676,27.518887,83.7675804,True,
+502,2,"31/644
+Vig Street",Sector 67,Dar Group,Nellore,Karnal,Andhra Pradesh,India,898587,28.4299641,76.8659933,True,
+317,2,"42/285
+Singh Path","Near Pingle, Kohli and Bhatia",Trivedi-Sathe,Hospet,Cuttack,Rajasthan,India,366736,20.8450131,75.3034707,True,
+567,2,"H.No. 318
+Sagar Chowk","Near Bera, Ramaswamy and Wali",Tailor-Munshi,Pimpri-Chinchwad,Durg,Gujarat,India,730760,33.7292609,84.2019167,True,
+931,3,"H.No. 91, Bath Street",Sector 67,"Patel, Andra and Bhatti",Karaikudi,Ichalkaranji,Tamil Nadu,India,505978,31.1039709,86.8616147,True,
+931,1,"11/11, Rana Zila",Near Naidu LLC,"Dixit, Bahri and Mody",Rajahmundry,Phusro,Kerala,India,320447,10.2922372,73.0972746,False,
+572,3,"42/20, Ganesan Road","Near Kadakia, Srinivasan and Wason","Ghose, Upadhyay and Chokshi",Pondicherry,Sasaram,Tripura,India,041548,12.3039755,91.7906609,True,
+713,2,"96/89
+Venkatesh Marg",Sector 74,"Mohanty, Sarma and Kalita",Avadi,Mathura,Punjab,India,665962,11.3029954,83.7945802,True,
+36,2,"35/135
+Gaba Marg",Sector 4,Gandhi-Ahluwalia,Hospet,Thanjavur,Punjab,India,681059,12.7719733,80.269547,True,
+279,3,"30/19, Agarwal Nagar",Block D,Wali-Grewal,Nagercoil,Bhatpara,Meghalaya,India,868217,20.8872127,89.7173545,True,
+622,2,"04/995, Mann Path",Block D,Bandi Ltd,Anantapur,Bhubaneswar,Telangana,India,184255,32.7821871,78.8460307,True,
+683,3,"92/14
+Basak Street",Block C,Ranganathan Group,Shahjahanpur,Kavali,Nagaland,India,034642,19.8473842,88.030533,True,
+66,2,"77/275
+Mand Path","Near Naik, Jhaveri and Raman","Sachdeva, Khosla and Babu",Fatehpur,Dharmavaram,Nagaland,India,649262,8.2189614,91.7548819,True,
+988,3,"H.No. 899
+Gade Circle","Near Chaudhuri, Nair and Raval",Sehgal-Vala,Adoni,Kulti,Assam,India,198462,8.4741941,74.8534974,True,
+843,1,"63/161, Dar Marg",Block B,Kakar-Pant,Vellore,Mysore,Meghalaya,India,975426,9.5926116,79.1894996,True,
+722,1,"H.No. 31
+Luthra Zila",,Nath-Kibe,Haldia,Tirupati,Gujarat,India,893264,11.2014732,84.4983911,True,
+190,1,"H.No. 35, Raghavan Marg",,Magar and Sons,Bhalswa Jahangir Pur,Davanagere,Nagaland,India,961816,20.4138477,79.8634754,True,
+338,1,"168
+Lanka Chowk",,"Tank, Rajan and Kalla",Bhiwandi,Hajipur,Tripura,India,452569,21.711377,75.4016635,True,
+338,2,"997
+Deol Circle","Near Gola, Wadhwa and Varkey","Parikh, Mand and Wali",Etawah,New Delhi,Odisha,India,970602,23.5356438,76.8328293,False,
+109,3,"82/587, Jhaveri",Near Khare-Mittal,"Chowdhury, Kala and Wadhwa",Motihari,Pimpri-Chinchwad,Haryana,India,703315,14.3210536,94.9808335,True,
+985,1,"115, Balasubramanian Ganj",,Joshi-Choudhry,Bathinda,Tinsukia,Bihar,India,838680,13.8484327,87.7552643,True,
+280,3,"H.No. 55, Sibal Marg",Sector 41,Goel-Rai,Barasat,Srinagar,West Bengal,India,414726,33.4933944,95.4977315,True,
+751,2,"49, Butala Ganj",,"Maharaj, Pai and Basak",Anand,Aurangabad,Karnataka,India,646015,13.8978613,73.9606356,True,
+217,3,"58/510
+Biswas Circle",,Mishra Group,Mehsana,Ratlam,Maharashtra,India,185976,21.5626749,82.227006,True,
+180,2,"65, Sharma Ganj",,Kant PLC,Morena,Kumbakonam,Telangana,India,471676,8.2481266,74.2191167,True,
+149,2,"37/14
+Patla Street",Block B,"Das, Konda and Sachdeva",Haldia,Gudivada,Andhra Pradesh,India,177575,23.511064,89.85986,True,
+489,2,"H.No. 24
+Ganesan",Sector 37,Saraf-Walia,Ulhasnagar,Kavali,Mizoram,India,718571,15.4538763,88.779047,True,
+21,1,"48
+Ramakrishnan Path",Block A,Raju-Aurora,Belgaum,Udupi,Karnataka,India,457835,32.3053968,83.9269509,True,
+21,3,"H.No. 713
+Sachar Nagar",Near Bhat Ltd,"Sant, Mani and Lad",Guntakal,Anantapur,Rajasthan,India,093408,32.0047606,89.8293093,False,
+977,3,"78/83
+Raju Circle","Near Comar, Ben and Lala",Bose-Lall,Fatehpur,Ambala,Uttar Pradesh,India,292545,10.4781944,88.7340489,True,
+427,3,"16/34
+Bora Chowk",Block C,Hora Inc,Sonipat,Panchkula,Tripura,India,471673,24.7657099,69.5684383,True,
+427,1,"57, Samra Nagar",,"Kari, Chadha and Mander",Howrah,Cuttack,Mizoram,India,417990,31.7908758,69.5294104,False,
+658,2,"33, Chaudhuri Zila",Block B,Karpe LLC,Dewas,Belgaum,Kerala,India,040298,36.9459273,93.7807025,True,
+658,1,"71
+Batra Circle",,Baria-Swaminathan,Sasaram,Sambalpur,Gujarat,India,321079,16.8863184,72.080643,False,
+64,3,"H.No. 316
+Nayar Ganj",,Parekh Ltd,Cuttack,Jalandhar,Assam,India,550623,25.8162272,88.8232935,True,
+353,2,"38/623
+Sant Street",Block C,"Shenoy, Bansal and Narasimhan",Bikaner,Salem,Assam,India,587545,13.9941224,76.122417,True,
+38,2,"H.No. 08, Wadhwa Road",,"Narain, Sundaram and Bhagat",Solapur,Nagercoil,Uttarakhand,India,771380,14.5382041,85.1421198,True,
+161,1,"H.No. 601
+Bawa Road",,"Morar, Atwal and Balan",Morbi,Phagwara,Tripura,India,372173,32.9915006,93.5855283,True,
+161,2,"20/94
+Bakshi Circle",,"Goswami, Kade and Mittal",Raebareli,Miryalaguda,Karnataka,India,318391,8.2010497,92.7490913,False,
+958,1,"H.No. 68
+Rao Nagar",Block A,Sathe-Mittal,Mathura,Malegaon,Chhattisgarh,India,147889,10.446498,82.6838042,True,
+660,2,"03/784, Tailor Chowk",,Oza-Merchant,Gurgaon,Deoghar,Sikkim,India,334987,36.0227696,93.5622976,True,
+660,3,"69/85
+Handa",Near Krishnan-Pall,Bora-Chahal,Guntur,Suryapet,Andhra Pradesh,India,783249,17.7591246,78.2866858,False,
+676,3,"02, Kothari Path","Near Misra, Rana and Nanda",Grewal and Sons,Ambattur,Sambalpur,Andhra Pradesh,India,570552,22.4965718,79.9373063,True,
+993,2,"51/820, Krishna Street",,"Aurora, Ramanathan and Dhillon",Kota,Tumkur,Mizoram,India,273348,14.8208339,84.0999567,True,
+993,3,"93/921
+Raju Chowk",Sector 56,Hari-De,Eluru,Jamalpur,Uttarakhand,India,937360,12.445593,93.3369377,False,
+631,1,"430, Subramaniam Ganj",Near Dua and Sons,Kalita-Mander,Ambattur,Loni,Maharashtra,India,875846,8.9295727,77.0827256,True,
+405,3,"H.No. 215
+Pal Marg","Near Yohannan, Upadhyay and Nair",Khanna Ltd,Dhanbad,Jaipur,Chhattisgarh,India,830268,25.4015695,76.2452857,True,
+405,1,"69/69, Oak Nagar",,Nagy and Sons,Bhusawal,Chandrapur,Chhattisgarh,India,780405,31.3476964,81.0311461,False,
+443,2,"66/481
+Kale Road","Near Thaman, Rai and Rajan","Swaminathan, Walla and Mandal",Giridih,Surat,Arunachal Pradesh,India,068369,20.6276876,79.71479,True,
+975,3,"H.No. 26, Gala Path",Sector 28,"Yogi, Deol and Nadig",Jhansi,Siliguri,Gujarat,India,820617,27.3392646,93.5189636,True,
+305,1,"56/01, Ganesan Street",Near Kibe LLC,"Randhawa, Prakash and Varghese",Bareilly,Bellary,Bihar,India,260251,13.0427931,95.1479108,True,
+663,1,"93/34
+Sha Road",Block B,Oak-Dayal,Kottayam,Nandyal,Arunachal Pradesh,India,349748,29.2430002,80.7208255,True,
+596,3,"78, Subramanian Zila",,Grewal Inc,Guna,New Delhi,Sikkim,India,169362,13.7909118,71.9660053,True,
+596,1,"994, Saha Ganj",,Bal-Merchant,Mira-Bhayandar,Karawal Nagar,Gujarat,India,600559,12.7721064,95.2706628,False,
+347,2,"H.No. 556
+Kumar Circle",Sector 18,"Kata, Samra and Aggarwal",Adoni,Kolhapur,Uttar Pradesh,India,378312,31.9736128,93.1851318,True,
+347,3,"10/72
+Yadav Marg",Near Char-Prashad,Narain PLC,Bidar,Tenali,Himachal Pradesh,India,157933,29.2901901,95.7129316,False,
+673,3,"28/41
+Chaudry Zila",,"Balakrishnan, Bahri and Chopra",Phusro,Sambhal,Karnataka,India,728941,18.8027542,84.5430109,True,
+878,1,"468, Sangha Marg",,"Chokshi, Zacharia and Bhalla",Hosur,Gorakhpur,Himachal Pradesh,India,237665,21.1633704,68.6684514,True,
+878,2,"30/317, Sangha Chowk",Sector 14,Mannan and Sons,Tirupati,Gurgaon,Rajasthan,India,054426,9.3222092,93.7787817,False,
+318,1,"02/751, Baria Circle",,"Mall, Desai and Krishna",Jaunpur,Berhampore,Goa,India,927848,20.9375754,70.6935011,True,
+809,1,"H.No. 380
+Tripathi Marg",Block C,"Bains, Kanda and Balay",Rampur,Gandhidham,Uttar Pradesh,India,448411,12.6509965,85.1451488,True,
+138,3,"27/360
+Pillay Marg","Near Majumdar, Krishnan and Parekh",Rattan Ltd,Bijapur,Bikaner,Tamil Nadu,India,828103,35.5785749,87.7175707,True,
+216,1,"H.No. 09, Dhingra Ganj",Block C,"Yadav, Mangal and Char",Thrissur,Loni,Uttarakhand,India,549731,16.8572142,79.2502546,True,
+301,2,"H.No. 075
+Chawla Circle",,Edwin Inc,Pudukkottai,Thiruvananthapuram,Karnataka,India,093901,12.724984,95.8765265,True,
+178,1,"H.No. 96, Mammen Chowk",Sector 2,Nagar and Sons,Howrah,Sambalpur,Meghalaya,India,486814,31.1433823,73.0846098,True,
+178,3,"20/609
+Ranganathan Circle",Block D,"Varty, Saxena and Viswanathan",Kochi,Hyderabad,Manipur,India,931174,34.1946866,86.5228703,False,
+493,2,"00/16
+Vig Nagar",Block A,Bhargava-Prabhakar,Siliguri,Bhiwani,Manipur,India,376006,23.2065564,75.9185939,True,
+644,2,"302
+Sankaran Zila",,Sagar-Lalla,Pondicherry,Kishanganj,Chhattisgarh,India,975747,35.7009742,74.4176607,True,
+739,1,"H.No. 543, Naidu Nagar",Near Kamdar Group,Munshi Inc,Munger,Pali,Bihar,India,320684,18.4415318,81.6161518,True,
+739,3,"H.No. 97
+Balasubramanian Path","Near Loyal, Murthy and Ravi",Bhardwaj-Mammen,Thoothukudi,Mathura,Kerala,India,289213,16.9808047,68.1626783,False,
+894,1,"H.No. 812
+Pal Chowk",,"Anne, Chakrabarti and Luthra",Dharmavaram,Fatehpur,Rajasthan,India,315596,24.9599685,81.0849917,True,
+894,2,"H.No. 31, Pathak",Sector 82,Mall PLC,Jammu,Kochi,Arunachal Pradesh,India,059192,27.5292183,82.8811865,False,
+260,2,"34/207
+Sharma Zila",Sector 81,"More, Das and Kannan",Malda,Durg,Gujarat,India,922769,9.3116413,78.333211,True,
+753,3,"123, Brar Zila",Sector 28,"Taneja, Pandey and Basu",Jorhat,Siliguri,Tripura,India,148498,29.4073072,78.6415174,True,
+753,2,"85/923, Palla Road",,"Dara, Ahuja and Ganguly",Sagar,Bhilwara,Manipur,India,029127,13.3508782,92.4751114,False,
+949,3,"H.No. 087
+Jha Path",,Vaidya-Kaul,Panipat,Tenali,Uttarakhand,India,982988,16.4682899,88.7642855,True,
+949,2,"25/91
+Sarin Zila",Block C,"Korpal, Nayak and Chaudry",Amritsar,Bulandshahr,Manipur,India,181098,29.8127094,76.9526786,False,
+741,3,"41/159, Kakar Path",Near Parmer-Chowdhury,Cheema LLC,Salem,Bulandshahr,Rajasthan,India,440415,18.0322412,70.152385,True,
+798,1,"02
+Prabhu Path",,"Bal, Seth and Bains",Narasaraopet,Navi Mumbai,Chhattisgarh,India,650963,33.1217609,79.1382223,True,
+498,3,"90/083
+Sen",Block C,Tandon PLC,Thane,Firozabad,Haryana,India,289554,26.3408196,94.407166,True,
+498,1,"H.No. 77
+Vohra Nagar",Block D,Ranganathan-Joshi,Suryapet,Chinsurah,Arunachal Pradesh,India,203075,11.1285352,78.6733288,False,
+797,2,"347, Chhabra Path",Sector 85,Goda Inc,Ballia,Guntur,Meghalaya,India,055230,14.4016336,77.5009994,True,
+456,3,"75, Mangal Marg",Near Chaudhuri and Sons,Parmar-Biswas,Hyderabad,Bhubaneswar,Manipur,India,906764,34.02034,72.0016731,True,
+624,1,"H.No. 58
+Issac Zila",,Nayar Ltd,Bikaner,Durgapur,Nagaland,India,768652,30.0837827,88.7405673,True,
+624,2,"28/575, Narula Chowk",Near Mitter-Srivastava,Cherian-Natarajan,Noida,Bihar Sharif,Tripura,India,417382,34.0652685,71.6843017,False,
+202,2,"H.No. 43, Pal Path","Near Mitter, Sha and Cherian",Sachdeva-Chahal,Alappuzha,Panihati,Manipur,India,181811,24.1212528,76.330912,True,
+387,3,"627
+Savant Circle",,"Palan, Pall and Arora",Ramgarh,Guntakal,Andhra Pradesh,India,281275,8.0168597,96.0435561,True,
+925,2,"H.No. 01
+Mahajan Road","Near Edwin, Ghose and Jani",Bawa Ltd,Ghaziabad,Raiganj,Bihar,India,839076,27.5413764,89.7417228,True,
+925,1,"H.No. 60
+Rana Road","Near Patla, Issac and Devi",Memon Group,Nanded,Aizawl,West Bengal,India,756045,11.6969957,94.6086916,False,
+840,3,"28
+Krish Path",Block B,Basu Inc,Siwan,Amritsar,Mizoram,India,971958,12.2292613,69.191223,True,
+593,3,"H.No. 811, Sanghvi Path",Block B,"Chana, Pant and Vohra",Ahmednagar,Nagercoil,Odisha,India,821858,24.0725964,93.4765378,True,
+871,2,"70, Jayaraman Ganj",Block A,"Prasad, Sami and Brahmbhatt",Ongole,Deoghar,Arunachal Pradesh,India,826066,28.0255504,83.0662006,True,
+210,2,"20/33, Varty Street",Sector 28,Luthra PLC,Bikaner,Jodhpur,Goa,India,600491,9.0368039,78.5540723,True,
+927,2,"H.No. 223
+Dixit Path",Sector 89,"Vaidya, Kothari and Dass",Chinsurah,Ramgarh,Haryana,India,892159,12.4022577,95.0613261,True,
+927,1,"402
+Sarin Street",Block A,"Sastry, Vala and Ramanathan",Udaipur,Tezpur,Rajasthan,India,478405,23.0524273,73.7009937,False,
+230,2,"976, Lanka Street",Sector 87,"Sahni, Ganguly and Krishna",Vellore,Bidhannagar,Uttarakhand,India,484983,16.4931001,88.2156857,True,
+47,1,"46/34
+Sridhar",,"Baral, Prakash and Vyas",Hapur,Bettiah,Mizoram,India,104825,30.380281,70.6058787,True,
+521,3,"15
+Garg Zila",Sector 28,Bala-Kapur,Mahbubnagar,Thanjavur,Odisha,India,457360,16.790288,68.769274,True,
+507,2,"66, Kakar Road",Block A,"Tata, Bandi and Iyengar",Arrah,Karimnagar,Haryana,India,299943,24.0919025,92.411618,True,
+505,2,"765
+Pillai Road",Sector 14,Raval-Chander,Pudukkottai,Jehanabad,Haryana,India,970310,14.0498465,75.132454,True,
+330,2,"71/62
+Gola Zila",,"Keer, Bawa and Anne",Kulti,Tumkur,Haryana,India,666346,28.5987944,70.4554634,True,
+302,3,"H.No. 39, Baria Street",Sector 30,Kulkarni-Tailor,Jodhpur,Akola,West Bengal,India,748128,10.6061532,94.1530828,True,
+127,2,"895, Salvi Circle",Block C,Ramakrishnan-Talwar,Unnao,Karawal Nagar,West Bengal,India,253781,33.5169315,78.4459811,True,
+127,1,"601, Sandal Zila","Near Khare, Jayaraman and Gulati",Mane-Vohra,Nadiad,Sangli-Miraj & Kupwad,Madhya Pradesh,India,688210,19.2869765,79.7545565,False,
+411,2,"224
+Yohannan Nagar",,Mani Ltd,Cuttack,Ambattur,Nagaland,India,514584,21.8572173,89.069006,True,
+941,1,"92/60
+Vohra Nagar","Near Kadakia, Chokshi and Narayan",Ravel-Pradhan,Nanded,Saharanpur,Assam,India,637300,22.9927869,70.7673505,True,
+355,3,"78
+Karan Road",Sector 14,Khatri Group,Bhavnagar,Jorhat,Jharkhand,India,220597,28.6886649,91.0945435,True,
+355,2,"72/07
+Shetty Path",,Grewal-Mohan,Unnao,Thrissur,Mizoram,India,507091,29.8541832,80.8987942,False,
+80,1,"H.No. 909, Luthra Marg",,Sama-Sama,Anantapuram,Ghaziabad,Gujarat,India,854856,26.8819924,75.5899652,True,
+621,3,"27/279
+Arora Marg",Block B,"Gala, Halder and Thakur",Sasaram,Amritsar,Odisha,India,433821,32.5867744,85.7249471,True,
+621,2,"H.No. 88, Chokshi Nagar",,"Desai, Chandra and Chadha",Patna,Lucknow,Maharashtra,India,087090,17.980948,96.4465844,False,
+815,2,"64, Sunder Zila",Block B,Varghese Group,Bahraich,Dehri,Chhattisgarh,India,434902,24.9869463,85.2878754,True,
+648,2,"36/22, Joshi Chowk",Block C,"Sastry, Chada and Randhawa",Yamunanagar,Kanpur,Manipur,India,494884,18.4398881,72.7523161,True,
+788,3,"03/97, Ghosh Path",Block D,"Bala, Patla and Sani",Bulandshahr,Siliguri,Telangana,India,120803,22.2339407,87.6579022,True,
+733,3,"H.No. 58, Mangal Zila",Block B,Sharma-Deep,Anantapur,Rajahmundry,Tamil Nadu,India,599785,19.0568063,77.1988165,True,
+911,3,"765
+Krishna Street","Near Rajagopalan, Borde and Sachar",Varma-Agrawal,Thiruvananthapuram,Kamarhati,Nagaland,India,883121,8.4600536,75.1686757,True,
+716,3,"36
+Chaudhuri Nagar",Near Kata Inc,"Sarna, Jain and Mani",Hajipur,Surat,Kerala,India,025766,15.7654637,72.9973786,True,
+600,1,"013, Bhasin Nagar",Block A,"Chandra, Parsa and Tandon",Patna,Chinsurah,Haryana,India,648495,36.4872705,69.5814365,True,
+18,3,"006, Mukherjee Road",Block C,Suresh-Kadakia,Bangalore,Bahraich,Haryana,India,487928,24.4823094,71.583046,True,
+852,2,"42
+Basu Marg","Near Rama, Dutta and Palla",Banik-Narang,Bhusawal,Gangtok,West Bengal,India,053238,35.2342041,81.4920217,True,
+991,2,"26/48
+Sangha Ganj",Sector 62,Pingle-Palan,Alappuzha,Chennai,Bihar,India,985139,9.2807903,81.5266224,True,
+991,3,"69
+Devan Path",Sector 39,Kade-Mangal,Dharmavaram,Proddatur,Haryana,India,967566,35.3926227,76.0910201,False,
+529,1,"295, Ray Ganj",Block C,Narang Group,Sultan Pur Majra,Aligarh,Manipur,India,926797,31.8460467,96.1587868,True,
+723,3,"10/084
+Nadkarni Street",Block A,Barad-Saraf,Hubli–Dharwad,Bathinda,Sikkim,India,093870,26.0026384,92.2187629,True,
+723,1,"H.No. 27
+Bhavsar Ganj","Near Chakrabarti, Rattan and Badami",Devi Inc,New Delhi,Chandigarh,Arunachal Pradesh,India,778280,28.1358283,71.6381636,False,
+577,3,"49/69, Ramaswamy Circle","Near Singh, Om and Wason",Sarma PLC,Amritsar,Durg,Odisha,India,137953,30.6923495,70.3172913,True,
+281,3,"89, Bajwa Marg",Sector 33,Edwin and Sons,Sambalpur,Mathura,Jharkhand,India,089806,10.9462189,71.385132,True,
+810,2,"08/347, Banerjee Zila",Block B,Parikh-Cheema,Thane,Dehri,Bihar,India,502163,25.7131933,91.2505109,True,
+639,1,"178
+Ray Road",Sector 47,Bir Inc,Khora ,Tumkur,Gujarat,India,223340,15.9435364,86.9817958,True,
+446,1,"83/149, Nadkarni Ganj",Near Wagle-Andra,Sarin Group,Bidhannagar,Dindigul,Punjab,India,577028,22.1122651,90.9126212,True,
+406,3,"H.No. 84
+Sinha Road","Near Kota, Baria and Dasgupta",Chanda-Manne,Bathinda,Shimla,Bihar,India,101254,33.6407824,76.1988703,True,
+406,1,"862, Parmer Nagar",Sector 11,Pathak and Sons,Rourkela,Vellore,Sikkim,India,665611,23.0318683,83.0872259,False,
+136,1,"35/267
+Mishra Nagar",,"Behl, Acharya and Agate",Bathinda,Meerut,Himachal Pradesh,India,111688,19.8132726,83.348757,True,
+136,3,"59
+Chandran Chowk",Sector 30,Malhotra Ltd,Ongole,Avadi,Odisha,India,505323,34.1358873,85.840934,False,
+512,3,"H.No. 90
+Ram Nagar",Block C,Walia-Johal,Vellore,Allahabad,Meghalaya,India,455174,23.0372382,96.4013244,True,
+276,2,"51
+Sane Path",Sector 95,"De, Ram and Mukherjee",Erode,Warangal,Sikkim,India,205488,17.8017558,81.9772766,True,
+276,3,"H.No. 07, Tata Chowk",Sector 55,Choudhury-Taneja,Jamalpur,Bellary,Mizoram,India,311094,10.5024116,75.861332,False,
+523,1,"077
+Venkatesh Nagar",Sector 22,Deshmukh-Dalal,Muzaffarnagar,Patiala,Arunachal Pradesh,India,276397,11.0390756,88.166722,True,
+827,1,"43/035, Thakur Path",Near Warrior-Bera,Bhattacharyya-Sem,Mira-Bhayandar,Faridabad,Chhattisgarh,India,811089,29.4264152,92.6267769,True,
+478,2,"69
+Badami Marg",Block A,Dass and Sons,Coimbatore,Solapur,Tripura,India,586704,19.7213665,85.2794071,True,
+478,1,"940, Prabhakar Road",Block B,Konda and Sons,Nizamabad,Bihar Sharif,Uttarakhand,India,121997,24.5490759,89.51472,False,
+389,1,"H.No. 888
+Kaur Path",,Khare Inc,Mirzapur,Bhiwandi,Chhattisgarh,India,460471,29.9316685,87.0290161,True,
+611,3,"81
+Wali Zila",Near Desai Inc,Bahri and Sons,Imphal,Haridwar,Himachal Pradesh,India,096402,36.4450952,75.3060687,True,
+370,3,"H.No. 442
+Srinivasan Nagar",Block D,Bhatia Group,Aurangabad,Anantapur,Andhra Pradesh,India,032859,33.1911452,85.2401708,True,
+51,3,"245
+Narula",,Kashyap-Nair,Vadodara,Nangloi Jat,Himachal Pradesh,India,042769,11.2270245,74.2212407,True,
+674,2,"989
+Gola Street",,Jha Inc,Jehanabad,Dhanbad,Mizoram,India,688025,23.6916319,93.7721241,True,
+916,2,"H.No. 811, Kaul Zila","Near Kala, Dave and Konda","Gaba, Krishnamurthy and Kari",Dindigul,Kulti,Assam,India,540147,29.5502503,72.7874251,True,
+796,3,"62/359, Swamy Street",Near Dey-Goyal,Dubey and Sons,Bhopal,Sonipat,Uttar Pradesh,India,264398,15.4412956,86.2220663,True,
+678,3,"H.No. 10
+Chandra",Block C,Varma-Lad,Salem,Tinsukia,Tripura,India,988545,33.8720402,83.6839532,True,
+309,2,"H.No. 525, Kar",,Pall Group,Kulti,Mysore,Gujarat,India,119535,34.7104575,86.8371657,True,
+309,1,"03/990, Chauhan Ganj",Block D,"Manne, Konda and Hayre",Kharagpur,Machilipatnam,Uttarakhand,India,214240,15.9360972,76.266941,False,
+814,3,"91/88
+Choudhury Ganj",Near Mann-Shukla,Bhatt-Khalsa,Bidar,Anantapuram,Himachal Pradesh,India,458727,12.8218362,86.0171155,True,
+504,1,"H.No. 930
+Mann Nagar",Near Nath PLC,Chander Inc,Vijayanagaram,Mirzapur,West Bengal,India,471771,12.7964642,94.5996947,True,
+789,3,"25/21
+Rege Zila",Sector 11,"Prasad, Mall and Mahajan",Cuttack,Ajmer,Goa,India,031706,13.0390114,85.3024812,True,
+34,3,"H.No. 367, Chaudhari Zila",Block A,"Dash, Bhagat and Mahal",Medininagar,Thoothukudi,Maharashtra,India,361683,31.4535269,82.2392381,True,
+369,1,"H.No. 771, Bobal","Near Sampath, Ravi and Kari",Borra-Vyas,Anantapur,Begusarai,Uttarakhand,India,271820,11.4456064,94.9602902,True,
+251,3,"35, Bail Chowk",Block B,Chada-Deol,Phusro,Thiruvananthapuram,Maharashtra,India,707892,24.458396,90.4882819,True,
+193,2,"H.No. 81
+Saxena Street",Near Deo-Verma,Dar-Sankar,Satara,Kulti,West Bengal,India,751570,33.7677432,72.9112804,True,
+375,2,"77
+Varghese Chowk",Near Aggarwal and Sons,"Bassi, Dhingra and Bhagat",Nellore,Kottayam,Jharkhand,India,716258,36.1905518,76.04297,True,
+375,3,"27
+Dixit Ganj",,Thakkar-Raj,Sambhal,Thiruvananthapuram,Rajasthan,India,835506,12.3040173,87.8787783,False,
+747,3,"09/743
+Deol Path",,Bajaj-Srinivasan,Malegaon,Chennai,Bihar,India,064070,26.023357,77.7124083,True,
+530,1,"H.No. 65, Deep Marg",Block C,Ramakrishnan-Bora,Phagwara,Karawal Nagar,West Bengal,India,993902,26.435085,96.0551511,True,
+293,3,"H.No. 961
+Sandal Zila",Sector 54,"Basak, Khanna and Kade",Eluru,Morbi,Odisha,India,178233,16.5441073,79.603088,True,
+730,1,"858, Sibal Chowk",,"Sur, Chana and Peri",Mira-Bhayandar,Akola,Rajasthan,India,906482,19.5805927,90.9937459,True,
+706,1,"07
+Lata",,"Luthra, Krishnan and Comar",Rajkot,Guna,Assam,India,896553,17.422731,88.9912139,True,
+570,2,"06, Bhatt Nagar",Sector 48,Sharaf Inc,Indore,Jalandhar,Himachal Pradesh,India,674131,19.5907155,68.0084804,True,
+851,2,"H.No. 13
+Peri Street",Sector 43,"Mangat, Contractor and Vohra",North Dumdum,Anantapur,West Bengal,India,199715,29.0492037,74.3630022,True,
+183,1,"16, Krishna Path",Sector 22,Raval Ltd,Saharanpur,Gaya,Manipur,India,323288,23.8315014,81.4360845,True,
+544,2,"H.No. 38
+Verma",Block D,"Shankar, Jaggi and Saha",Miryalaguda,New Delhi,Punjab,India,070024,20.4393515,68.8733201,True,
+766,1,"20
+Chanda Path",,Kamdar-Mukherjee,Tiruvottiyur,Alappuzha,Himachal Pradesh,India,833472,36.8860844,91.7476834,True,
+275,3,"159
+Mani Chowk",Near Palan Group,Munshi-Raja,Bhilwara,Patna,Telangana,India,806230,34.0033793,84.057566,True,
+516,2,"30/03, Hayer Chowk",Sector 68,"Kala, Shroff and Kumer",Latur,Jalna,Uttar Pradesh,India,697225,24.5069239,90.8305713,True,
+516,1,"84/811
+Kota Marg",,"Chadha, Dube and Yohannan",Navi Mumbai,Jhansi,Manipur,India,137206,12.5643034,80.7391082,False,
+587,3,"H.No. 068
+Balasubramanian Marg",,Subramaniam PLC,Gurgaon,Belgaum,Jharkhand,India,647235,9.816756,93.1493902,True,
+842,3,"25/36
+Soman Circle",Near Gill and Sons,"Viswanathan, Khanna and Shere",Naihati,Agra,Chhattisgarh,India,869464,35.0288542,88.8226517,True,
+842,2,"25/064
+Contractor Ganj",Near Mani and Sons,Suresh Ltd,Sasaram,Ghaziabad,Gujarat,India,801490,22.815034,70.3839215,False,
+249,1,"H.No. 41, Kanda",Block A,Khatri-Halder,Katihar,Pondicherry,Mizoram,India,487514,34.3554549,69.1018835,True,
+877,1,"14/762
+Nair Road",Block C,"Chaudry, Sastry and Chanda",Amritsar,Indore,Mizoram,India,946752,12.5603048,96.2611766,True,
+67,2,"70/496, Varghese Nagar",Block B,Hans Inc,Siliguri,Motihari,Maharashtra,India,398896,36.2666663,82.8766592,True,
+752,2,"H.No. 04, Johal",Sector 73,Kata and Sons,Alappuzha,Jorhat,Telangana,India,624674,14.9372728,76.4214437,True,
+752,3,"H.No. 87
+Ravi Marg",Block D,"Kade, Nagarajan and Raj",Durgapur,Bhagalpur,Rajasthan,India,672861,12.2416124,90.3359991,False,
+928,1,"372, Kota Road",Block D,"Chand, Rajagopalan and Dasgupta",Munger,Varanasi,Chhattisgarh,India,381972,17.5332576,77.8219619,True,
+999,3,"H.No. 079, Mukherjee Chowk",,Wali LLC,Dehradun,Morena,Uttarakhand,India,172952,14.871982,70.6618976,True,
+17,1,"H.No. 37
+Iyengar Marg",Block A,"Raman, Sarma and Wable",Bidar,Dindigul,Goa,India,353519,30.1981697,78.9557282,True,
+424,1,"H.No. 419
+Varma Path",Near Ravel-Saraf,Viswanathan-Oommen,Hyderabad,Sasaram,Rajasthan,India,000538,15.9475521,75.2558165,True,
+19,1,"07/292
+Prasad Road",Sector 8,"Kara, Baral and Mishra",Guna,Jaipur,Andhra Pradesh,India,675508,36.8137989,79.7536646,True,
+19,2,"32, Parikh Road",,"Shankar, Gala and Raval",Dharmavaram,Mysore,Uttar Pradesh,India,961045,20.1689569,92.4405519,False,
+599,2,"35
+Bhattacharyya Marg",Near Nayak-Goswami,"Sankaran, Nath and Sule",Shahjahanpur,Anantapuram,Assam,India,475789,24.6580793,86.8159041,True,
+599,1,"55/96, Nagi Zila",Sector 25,Tailor-Rama,Gurgaon,Pudukkottai,Maharashtra,India,273799,25.6978304,93.5974247,False,
+787,3,"H.No. 79
+Kata Nagar",Sector 27,Shankar LLC,Mirzapur,Sangli-Miraj & Kupwad,Mizoram,India,182433,15.9909151,84.4402433,True,
+308,2,"669, Nanda Street",Near Sampath Group,Khurana LLC,Haldia,Allahabad,Jharkhand,India,330509,20.5686291,74.1819346,True,
+782,3,"07, Viswanathan Path",,"Khatri, Dubey and Kala",Bardhaman,Nagaon,Goa,India,013282,22.6849372,90.7299948,True,
+831,1,"12
+Nanda Circle",Block A,Lall-Natarajan,Ramagundam,Raichur,Andhra Pradesh,India,899120,34.5105127,91.4722477,True,
+945,1,"283
+Dubey Street",,"Chand, Kohli and Rana",Ghaziabad,Panchkula,Meghalaya,India,612923,8.2303152,93.0796027,True,
+262,1,"00
+Bhatt Road",Block B,Singhal Group,Rajkot,Bangalore,Assam,India,197474,19.0493164,95.9452738,True,
+511,2,"27/829
+Pandya Path",Sector 72,Sahni-Yogi,Ludhiana,Malda,Uttar Pradesh,India,769696,21.3131001,95.0391394,True,
+535,1,"H.No. 84, Butala","Near Zacharia, Kala and Minhas",Khatri and Sons,Gorakhpur,Rampur,Mizoram,India,281046,36.9714719,71.0174164,True,
+535,3,"57/161
+Mohan Chowk",Near Chaudhari Ltd,Contractor Inc,Hazaribagh,Gangtok,Kerala,India,636077,15.2053294,90.5264716,False,
+736,1,"H.No. 365, Chander Path",Sector 63,Koshy PLC,Singrauli,Chittoor,Meghalaya,India,901595,32.5899387,76.4963305,True,
+471,3,"27/25, Kuruvilla",,Morar and Sons,Shimoga,Jalna,Tripura,India,434484,20.1427684,96.0418804,True,
+471,1,"10, Natt Ganj",Sector 86,Bahri PLC,Hospet,Hazaribagh,Arunachal Pradesh,India,992606,22.5813669,71.7416518,False,
+205,1,"H.No. 14
+Saran Chowk",Near Kant and Sons,Sridhar-Saraf,Singrauli,Mehsana,Bihar,India,659080,12.1376984,72.9071067,True,
+849,3,"H.No. 722, Bajaj",,"Wable, Choudhury and Narasimhan",Bhiwandi,Gandhinagar,West Bengal,India,428475,10.2245181,76.0181665,True,
+159,3,"071, Rau",Sector 13,Devi-Mannan,Nangloi Jat,Davanagere,Maharashtra,India,881772,27.9537479,95.8422762,True,
+707,3,"H.No. 985, Parekh Marg",Block C,"Chahal, Gill and Dasgupta",Sambhal,Gandhidham,Telangana,India,567933,11.8439174,74.9939433,True,
+707,2,"19, Rattan Path",,Kalla-Patil,Unnao,Deoghar,Tamil Nadu,India,686464,26.4266141,96.0793817,False,
+418,1,"62/60
+Raj Nagar",,Shere-Bumb,Miryalaguda,Gandhinagar,Sikkim,India,405773,10.7876383,76.8316789,True,
+418,2,"124, Bhalla Chowk",Near Gopal LLC,Aurora Ltd,Dibrugarh,Mango,Tamil Nadu,India,889981,33.9506423,90.777975,False,
+642,3,"50/510, Sha Ganj",Near Agrawal PLC,"Khosla, Bawa and Chadha",Panvel,Amritsar,Kerala,India,863430,11.1589258,77.2066231,True,
+656,3,"73, Vasa",Near Rege-Talwar,Balasubramanian LLC,Bhatpara,Jorhat,Telangana,India,134100,20.539271,77.6757345,True,
+615,2,"47, Bansal Path",,Mand-Khalsa,Muzaffarnagar,Kottayam,Uttarakhand,India,828650,14.8573734,75.7425274,True,
+893,2,"H.No. 41
+Doshi Path",Near Kuruvilla-Tak,Munshi PLC,Nagpur,Raebareli,Tripura,India,619599,30.3405727,68.5037058,True,
+893,3,"03
+Raja Street",,Hayre LLC,Gandhinagar,Siliguri,Goa,India,299494,11.2676858,79.5226492,False,
+323,3,"64/188
+Thaman Zila",Block D,Doctor LLC,Aurangabad,Bilaspur,Jharkhand,India,766126,8.15807,77.5776261,True,
+785,1,"72, Bobal Ganj",Near Dass-Lad,Mitter PLC,Mumbai,Shahjahanpur,Karnataka,India,484910,32.5925478,82.6391943,True,
+143,3,"H.No. 56
+Mane Marg",Block C,"Narain, Dugal and Rout",Suryapet,Proddatur,Chhattisgarh,India,788548,18.1949865,73.0151676,True,
+143,1,"055, Bhattacharyya Circle",,"More, Kant and Ranganathan",Bidar,South Dumdum,Gujarat,India,084054,21.3684353,85.9809377,False,
+367,1,"21/544, Suresh Marg",Block A,"Morar, Chadha and Deshmukh",Jalandhar,Tezpur,Chhattisgarh,India,265766,23.3472759,94.1446484,True,
+364,2,"36/231, Bora Path","Near Sinha, Ray and Swamy",Bal LLC,Bhagalpur,Ludhiana,Sikkim,India,569238,23.2827387,70.5298038,True,
+970,2,"H.No. 84
+Ravi Nagar",Sector 24,Narayanan-Natarajan,Giridih,Ichalkaranji,Telangana,India,072087,34.982365,86.6273978,True,
+717,3,"10/61, Sachdev","Near Walla, Arora and Chokshi",Sarma and Sons,Hosur,Moradabad,West Bengal,India,744287,24.820621,70.7687873,True,
+717,1,"H.No. 534, Ganguly Path",Sector 78,Solanki and Sons,Dindigul,Ghaziabad,Nagaland,India,391759,32.6164842,91.0687586,False,
+665,2,"H.No. 938, Oza Zila",Block B,"Wable, Sem and Banik",Ozhukarai,Bahraich,Manipur,India,230111,36.5187698,77.9616077,True,
+246,2,"35/980
+Bali Marg",Block D,Atwal LLC,Fatehpur,Sasaram,Tamil Nadu,India,567476,13.6775487,74.6247403,True,
+246,3,"42/08
+Lala Nagar",,"Rana, Shankar and Patel",Guntur,Nadiad,Kerala,India,018201,30.899464,76.8884349,False,
+432,1,"98, Barad Zila",Near Dutta-Mohan,Dugar-Sha,Bally,Bharatpur,Bihar,India,069711,33.2407421,69.3621763,True,
+399,2,"684
+Pai Chowk",Sector 66,Pandey LLC,Nashik,Kolkata,Goa,India,857492,23.8229077,96.6048028,True,
+254,3,"75, Misra Circle",Sector 41,"Gole, Mishra and Bhatnagar",Bhilwara,Ambattur,Uttarakhand,India,675446,32.4639112,74.4352004,True,
+948,3,"H.No. 126
+Barad Ganj",,Ahuja Group,Bettiah,Sri Ganganagar,Himachal Pradesh,India,905431,23.1569563,71.0101125,True,
+691,2,"71, Mani Chowk",,Boase-Ravel,Katihar,Ghaziabad,Nagaland,India,532732,19.1473534,84.6790486,True,
+284,1,"69/55
+Dora",Block C,"Ranganathan, Varughese and Wali",Shivpuri,Shivpuri,Andhra Pradesh,India,033534,11.9925162,72.7778536,True,
+284,2,"H.No. 599
+Khosla Zila",Sector 74,"Virk, Singh and Bera",Firozabad,Hindupur,Punjab,India,313068,11.8137705,75.0713033,False,
+545,2,"04
+Agarwal Circle",,"Mander, Barman and Desai",Saharanpur,Sultan Pur Majra,Punjab,India,407398,19.8794905,71.5877875,True,
+636,1,"H.No. 73, Nigam Street",,Koshy Group,Alappuzha,Mehsana,Mizoram,India,844913,14.4165157,93.0421622,True,
+102,1,"H.No. 439
+Viswanathan Circle",Sector 53,Ahuja Inc,Guntur,Kumbakonam,Karnataka,India,938587,29.6181465,83.4006263,True,
+201,2,"H.No. 74, Zachariah Circle",Sector 34,"Tiwari, Babu and Bir",Bhavnagar,Kurnool,Maharashtra,India,453236,29.5262643,84.6380696,True,
+581,1,"H.No. 63, Ghosh",Near Bedi-Minhas,Sant-Sibal,Mangalore,Gandhidham,Madhya Pradesh,India,559625,31.5638981,69.5952191,True,
+581,2,"H.No. 072
+Talwar Chowk",,Puri Group,Bilaspur,Unnao,Arunachal Pradesh,India,824915,10.2699068,71.8335833,False,
+760,3,"H.No. 20, Chandra Marg",Block C,"Bhagat, Bhandari and Narang",Yamunanagar,Chittoor,Meghalaya,India,015599,17.2941626,78.0348729,True,
+123,3,"763
+Bhatnagar Zila",,"Bahri, Basu and Butala",Khora ,Surat,Bihar,India,836932,28.1362624,96.2298044,True,
+257,1,"31
+Dhaliwal",Sector 85,Hayre LLC,Bally,Guna,Punjab,India,854222,16.3079246,77.8511938,True,
+257,2,"93/932
+Barman Street",Sector 10,Morar Ltd,Khandwa,Bihar Sharif,Arunachal Pradesh,India,955374,9.9439576,74.7305122,False,
+860,2,"32/602
+Mangat Marg",,"Padmanabhan, Oommen and Gulati",Bally,Buxar,Uttarakhand,India,068514,26.5695903,72.5596616,True,
+277,2,"H.No. 64, Loke Circle",Block D,Lall LLC,Raebareli,Pimpri-Chinchwad,Punjab,India,990758,24.1731955,75.5619205,True,
+390,2,"H.No. 635, Nayak Marg",,"Ramakrishnan, Bhandari and Basak",Darbhanga,Miryalaguda,Uttar Pradesh,India,576768,20.0073796,89.2271553,True,
+390,1,"49
+Goswami Ganj",Near Chokshi-Buch,Edwin Inc,Secunderabad,Thane,West Bengal,India,412636,16.7568836,75.9873005,False,
+853,3,"867
+Chandran",Sector 61,"Deep, Lala and Khalsa",Ludhiana,Katihar,Manipur,India,734757,27.2042991,83.03004,True,
+452,3,"H.No. 48, Bora Ganj",Sector 19,Hans Group,Hapur,Nizamabad,Uttar Pradesh,India,224806,19.3646783,78.4171528,True,
+726,2,"H.No. 11, Iyer Road",Block C,"Srinivas, Roy and Madan",Bardhaman,Ambala,Punjab,India,952719,12.9084803,79.8773912,True,
+267,1,"518, Nagarajan Marg",Block B,"Gupta, Lal and Pai",Faridabad,Tirunelveli,Kerala,India,385476,25.4805424,79.0254776,True,
+11,2,"45/58, Suri Road",,Karnik Group,Kanpur,Srinagar,Jharkhand,India,026613,21.7579863,95.9688317,True,
+848,3,"21, Kulkarni Ganj",Near Lalla Ltd,Rau Ltd,Kalyan-Dombivli,Pune,Tamil Nadu,India,423060,22.7053003,79.5982177,True,
+848,1,"79, Bora Street",,"Arora, Loyal and Nigam",Ambarnath,Agartala,Telangana,India,560492,30.8035312,95.9447946,False,
+756,1,"H.No. 70, Krishna Road",,Bose-Mahal,Bathinda,Ichalkaranji,Uttar Pradesh,India,365082,10.8154076,69.0199983,True,
+756,3,"92/555, Upadhyay Path",Block C,"Garg, Chokshi and Chana",Kadapa,Morena,Uttar Pradesh,India,447552,17.0391261,78.9186375,False,
+311,1,"10/093
+Bhakta Street",Near Rattan and Sons,"Murthy, Ramachandran and Kala",Phusro,Karimnagar,Chhattisgarh,India,613796,23.0964343,69.2489365,True,
+509,2,"87, Goel Zila",,Merchant-Kara,Haldia,Ichalkaranji,Goa,India,571811,9.4798934,71.094299,True,
+509,3,"H.No. 36
+Minhas Marg",,"Badami, Barad and Sanghvi",Aizawl,Bathinda,Kerala,India,563751,17.7712639,76.7803734,False,
+479,2,"H.No. 24, Sangha Path",Block B,Goswami-Venkataraman,Panipat,Faridabad,Manipur,India,603018,28.1083247,72.2747247,True,
+725,1,"H.No. 22
+Saxena Marg",Block C,Batta LLC,Kottayam,Bhavnagar,Assam,India,041190,13.5984906,71.5871645,True,
+791,2,"13/74, Om Marg",Near Ram and Sons,"Baria, Kar and Deo",Ujjain,Fatehpur,Gujarat,India,655347,16.0192221,90.5701707,True,
+640,1,"03/094, Majumdar Road",Block D,Kulkarni-Dhillon,Haldia,Jalgaon,Tamil Nadu,India,094403,21.1991228,77.913532,True,
+247,3,"413
+Chokshi Zila",Near Khosla-Mammen,Venkataraman LLC,Haldia,Kanpur,Himachal Pradesh,India,343761,19.8089245,84.7779896,True,
+247,1,"81/09, Kapoor Path",Block C,"Chacko, Palla and Bir",Gulbarga,Bathinda,Maharashtra,India,315506,35.9777888,86.4274372,False,
+244,3,"H.No. 942, Dhawan Street",Sector 71,Chakraborty-Prabhakar,Rampur,Thane,Rajasthan,India,201726,26.1963533,92.1651657,True,
+244,2,"68/309, Mukherjee Chowk",Sector 40,Vora Ltd,Patiala,Bihar Sharif,Kerala,India,024355,18.7242809,91.9450206,False,
+527,3,"211
+Aggarwal Marg",Near Bhatti-Raghavan,Barman and Sons,Mira-Bhayandar,Latur,Bihar,India,316192,27.8003011,87.9774428,True,
+325,1,"813, Bhattacharyya Street",Block C,Kurian Inc,Naihati,Bhalswa Jahangir Pur,Haryana,India,802599,13.7276167,89.3982395,True,
+483,2,"31, Srinivas Chowk",,Choudhary-Agrawal,Kulti,Bhusawal,Telangana,India,295341,32.3460944,80.814007,True,
+898,1,"H.No. 62
+Chaudhary Circle","Near Mani, Ahluwalia and Chaudhry","Natarajan, Mishra and Oza",Kozhikode,Orai,Odisha,India,515676,12.9805509,75.6471997,True,
+197,3,"46/376, Karpe Street",Sector 11,Pandya Ltd,Warangal,Mahbubnagar,Maharashtra,India,197257,36.5487057,85.3902178,True,
+197,2,"90, Manda Path",Block D,Vig LLC,Madhyamgram,Jorhat,Kerala,India,028562,9.2086396,68.1865115,False,
+543,1,"39/72
+Parmar Nagar",,Venkataraman-Kulkarni,Kanpur,Thoothukudi,Mizoram,India,082866,13.6246644,69.8587105,True,
+543,2,"56/020
+Sawhney",Sector 72,"Sidhu, Yadav and Gokhale",Malegaon,Anantapur,Goa,India,394218,11.8262581,71.2811701,False,
+720,3,"21/42
+Dar Path",Block B,"Naik, Dalal and Saran",Raurkela Industrial Township,Gulbarga,Haryana,India,100482,17.2918051,76.9869742,True,
+918,2,"59/26
+Subramanian Path",Sector 13,"Bahl, Sarraf and Mody",Barasat,Tumkur,Manipur,India,553907,27.2966301,91.8964492,True,
+366,3,"05/907, Lad Path",,Lanka-Nayar,Suryapet,Mahbubnagar,Haryana,India,224829,12.7458696,85.2290034,True,
+359,2,"504, Tara Ganj",Sector 29,"Bora, D’Alia and Khalsa",Tadipatri,Guna,Mizoram,India,061899,17.5105356,96.5675064,True,
+359,1,"31/34
+More Nagar",,"Thakur, Shere and Rajagopal",Katni,Guntur,Meghalaya,India,510190,27.8074648,93.1927511,False,
+252,1,"667
+Nori Zila",Block C,Keer-Zachariah,Asansol,Pune,Haryana,India,446330,24.9320886,82.9485618,True,
+252,3,"646
+Vora Chowk",Near Lanka-Kulkarni,Sahota-Varma,Ambala,Bardhaman,Karnataka,India,415979,19.0491086,87.076402,False,
+847,2,"22/60, Toor Circle",,Reddy PLC,Baranagar,Udaipur,Himachal Pradesh,India,167381,12.5776948,85.6897199,True,
+225,3,"H.No. 31, Mall Street",Block C,Batta LLC,Panchkula,Kumbakonam,Manipur,India,331280,35.2593451,91.4940225,True,
+803,3,"03/217, Naidu Zila",Block C,"Sarraf, Barman and Sunder",Raiganj,Rewa,Manipur,India,041904,21.6998077,77.653834,True,
+15,2,"60/958, Chawla Path",,Dewan PLC,Firozabad,Uluberia,Himachal Pradesh,India,565741,18.0619797,75.5947248,True,
+482,3,"54, Saraf Path",Block B,"Shan, Kibe and Sankar",Madhyamgram,Meerut,Rajasthan,India,448111,17.5866707,68.3263172,True,
+482,2,"08, Sodhi Marg",Sector 65,"Sabharwal, Dewan and Acharya",Narasaraopet,Eluru,Mizoram,India,514179,26.7982963,69.5022589,False,
+869,1,"H.No. 64, Ray Zila",,"Mahal, Natt and Subramanian",Raurkela Industrial Township,Surendranagar Dudhrej,West Bengal,India,900728,24.8792198,69.6152786,True,
+329,2,"H.No. 208, Bhakta Path",Sector 5,Pai Ltd,Guntakal,Durgapur,Rajasthan,India,220994,12.7984761,92.2349147,True,
+365,2,"74/75
+Rege Zila",Near Kata PLC,"Sengupta, Hayer and Deep",Latur,Vasai-Virar,Haryana,India,505065,36.54114,74.6378924,True,
+171,1,"58
+Garde",Sector 19,"Virk, Rana and Maharaj",Panvel,Jamalpur,Nagaland,India,385325,23.2846362,74.3757894,True,
+171,3,"62/25
+Manda Chowk",Sector 5,"Bala, Sani and Vaidya",Khandwa,Bidar,Uttar Pradesh,India,959856,19.386732,84.4034586,False,
+233,1,"H.No. 33
+Seshadri Circle",Near Subramanian-Master,Kaul and Sons,Rajkot,Nagpur,Himachal Pradesh,India,909735,24.1396259,96.9695378,True,
+571,1,"H.No. 147
+Parekh Street",,Mistry PLC,Kavali,Coimbatore,Haryana,India,242735,30.7885791,81.0763448,True,
+571,2,"75
+Sampath Zila",,Koshy Inc,Phagwara,Nagaon,Rajasthan,India,244747,34.7102418,71.9362028,False,
+107,2,"H.No. 49
+Manda Circle",Block D,"Upadhyay, Das and Bir",Thane,Mangalore,Jharkhand,India,019979,11.6473643,79.6902463,True,
+55,1,"28/16
+Zachariah",Sector 49,Kade-Handa,Ambarnath,Delhi,Himachal Pradesh,India,603743,28.5273546,83.4655898,True,
+339,3,"11/652, Dave Marg",Near Dugar Inc,Goel-Bobal,Danapur,Noida,Tamil Nadu,India,550592,36.6082213,77.4435085,True,
+339,1,"20, Pandya Nagar",,Vig-Chacko,Gudivada,Durgapur,Tamil Nadu,India,052821,14.8169044,89.4122897,False,
+909,3,"61, Mahal Ganj",Near Sagar-Hayre,"Tripathi, Apte and Mangal",Rampur,Hajipur,Punjab,India,070445,14.7514051,88.0971277,True,
+909,2,"01/34
+Tata Nagar",,Sinha Group,Saharanpur,Kadapa,Odisha,India,248611,10.5044209,72.7766197,False,
+73,2,"34
+Koshy",Near Date Group,"Bora, Vig and Pandey",Vasai-Virar,Kolhapur,Bihar,India,337454,18.3484331,83.0719989,True,
+73,1,"133
+Wadhwa Zila",Block D,Pingle LLC,Rampur,Rourkela,Manipur,India,520805,17.7972122,77.1561848,False,
+93,3,"91/41, Chhabra",Block D,Sheth LLC,Ramgarh,Berhampur,Uttarakhand,India,236287,21.6916501,70.4709398,True,
+661,3,"H.No. 369
+Chowdhury Marg",Block D,Ganguly-Bora,Guntakal,Dehri,Telangana,India,908871,20.7381616,87.6958416,True,
+661,2,"H.No. 562
+Issac Path","Near Rao, Sinha and Patil",Randhawa PLC,Udaipur,Karimnagar,Arunachal Pradesh,India,509839,32.2130451,72.8667926,False,
+401,3,"358, Garde Street","Near Purohit, Parmer and Sen",Batta-Rege,Darbhanga,Dewas,Andhra Pradesh,India,131306,12.0042111,95.526,True,
+933,1,"729
+Viswanathan Circle",Sector 80,Lad PLC,Madhyamgram,Giridih,Tripura,India,948994,24.5664033,95.2210254,True,
+933,2,"41
+Iyer Path",Block A,Bhargava-Srinivas,Pondicherry,Bongaigaon,Andhra Pradesh,India,208019,15.5009609,72.9708296,False,
+450,3,"H.No. 934, Kamdar Path",Block C,Murty LLC,Guwahati,Suryapet,Meghalaya,India,258388,16.7359834,87.6394659,True,
+833,3,"43/680
+Atwal Street",,"Goswami, Kapadia and Thaman",Akola,Moradabad,Himachal Pradesh,India,931357,31.5241528,78.1546598,True,
+48,2,"68/609
+Pathak Road",Sector 89,"Swamy, Muni and Sekhon",Berhampore,Jamshedpur,Gujarat,India,005475,27.0440625,95.7891927,True,
+4,3,"50/246, Ramachandran Nagar",Block A,Hegde-Bala,Bhiwani,Bidhannagar,Chhattisgarh,India,464615,18.1099102,87.3342112,True,
+129,3,"H.No. 078, Rattan",Block B,Narayan-Muni,Raurkela Industrial Township,Khandwa,Uttarakhand,India,607203,9.857856,77.2562926,True,
+129,2,"74
+Trivedi Path",,Shan-Rana,Jaipur,Amaravati,Uttarakhand,India,879279,18.0820974,89.5099194,False,
+90,3,"H.No. 526
+Palla Road",,Grewal-Ravel,Mysore,Adoni,Jharkhand,India,392257,25.4522816,90.3665565,True,
+715,1,"30/737, Dey Marg",Near Bhasin Inc,Zacharia-Kashyap,Kozhikode,Nangloi Jat,Uttar Pradesh,India,366406,18.5345913,71.8169959,True,
+481,1,"00/28
+Ganguly Ganj",Sector 51,Kapur-Nori,Berhampore,Panihati,Uttarakhand,India,256273,14.7992395,76.0454376,True,
+454,3,"H.No. 32, Kohli","Near Borde, Parekh and Barad","Lall, Kapadia and Dhingra",Phusro,Danapur,Uttar Pradesh,India,055639,31.6126159,69.6882509,True,
+454,2,"H.No. 94
+More Zila",,"Shere, Bose and Sur",Kanpur,Jaunpur,Arunachal Pradesh,India,401585,30.3584303,89.2546073,False,
+44,3,"03/281
+Upadhyay Ganj",Sector 76,Nagar PLC,Miryalaguda,Jorhat,Tamil Nadu,India,698219,28.1364055,83.2373205,True,
+44,1,"H.No. 679, Chaudry Ganj",Sector 97,Shanker and Sons,Malegaon,Srinagar,Mizoram,India,388910,22.5177297,74.8681487,False,
+734,1,"54, Sahni Street",,Dutta Group,Gopalpur,Ghaziabad,Rajasthan,India,221256,19.5281765,84.0489223,True,
+633,3,"57/257, Sharaf Chowk",,Rajagopalan-Hegde,Meerut,Dhule,Chhattisgarh,India,543111,32.0750612,90.8036545,True,
+486,1,"497
+Khosla Marg",Near Narasimhan-Nath,Thaman Ltd,Vijayawada,Bharatpur,Mizoram,India,144264,32.9655453,71.8452764,True,
+510,3,"03, Radhakrishnan Zila",Block B,"More, Arora and Anand",Vadodara,Etawah,Chhattisgarh,India,823798,19.2887902,83.6906385,True,
+835,1,"H.No. 58, Natt Path",,Chanda-Koshy,Sirsa,Dharmavaram,Andhra Pradesh,India,193049,28.1117011,85.9307946,True,
+303,1,"829
+Narayan Path",Near Taneja-Babu,Dalal Inc,Hosur,South Dumdum,Sikkim,India,154894,26.6231363,73.4845291,True,
+541,1,"H.No. 26, Yadav Path","Near Shere, Pandit and Gola",Kota LLC,Siwan,Guwahati,Jharkhand,India,518572,34.4315393,84.6464386,True,
+315,3,"06/140
+Bhargava",Block A,Ravi LLC,Sasaram,Rajahmundry,Tripura,India,357576,9.7314806,92.2850627,True,
+989,1,"H.No. 119, Kade Path",Block A,Jani LLC,Jaipur,Kumbakonam,Tripura,India,505097,21.1544209,76.2118356,True,
+337,2,"07/37, Palan Circle",Near Pall-Handa,"Chatterjee, Taneja and Palla",Bharatpur,Nandyal,Kerala,India,312624,12.7447664,86.3277742,True,
+337,3,"24
+Parmer Marg",,Garde-Bandi,Hyderabad,Guwahati,Assam,India,445970,25.4492327,69.7983073,False,
+131,2,"655, Oak Chowk",Block C,Dhingra-Choudhry,Mirzapur,Srinagar,Andhra Pradesh,India,005656,11.1263019,82.8509353,True,
+376,3,"42/621
+Pau Path",,Acharya and Sons,Yamunanagar,Deoghar,Andhra Pradesh,India,009521,36.3531904,90.6829446,True,
+881,2,"00
+Walia Circle",Sector 78,"Reddy, Murty and Sem",Ulhasnagar,Secunderabad,Rajasthan,India,532549,33.8585388,81.6255767,True,
+627,1,"49/006
+Pradhan Chowk",Block B,"Seth, Varghese and Bose",Salem,Loni,Telangana,India,362547,35.1305159,78.594342,True,
+627,3,"49, Bandi Path",Sector 13,Babu-Mammen,Karaikudi,Bhubaneswar,Sikkim,India,086815,22.5095978,90.4847165,False,
+358,2,"99, Singhal Street",Near Iyengar-Kakar,"Doshi, Chawla and Sem",Srikakulam,Guntur,Gujarat,India,810735,29.5161903,85.1303917,True,
+196,3,"82/91
+D’Alia Path",Sector 44,Natarajan Inc,Naihati,Ambala,Maharashtra,India,900967,17.5337361,91.5030038,True,
+556,1,"614, Nair Ganj",,Batra-Parikh,Kumbakonam,Amaravati,Jharkhand,India,211655,34.4431734,76.7746671,True,
+942,3,"19/657
+Sarin Ganj",Block C,"Lanka, Misra and Kalita",Jabalpur,Farrukhabad,Karnataka,India,641074,18.1923495,80.341593,True,

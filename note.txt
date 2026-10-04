@@ -21,3 +21,33 @@ School
 1. TODO: attendance_threshold table with year it may vary
 2. With Board table over year field
 3. Principle relation table with Person table
+
+
+Total Phase 1 Tables
+================================================================================================
+organizations
+├── Board
+├── School
+├── AcademicYear        #wait
+├── SchoolBoardRegistration
+└── SchoolBoardWithdrawal
+
+people
+├── Person
+├── PersonIdentity
+├── PersonContact
+└── PersonAddress
+
+academics
+└── Subject
+
+hr
+├── Department
+├── Designation
+├── Employment
+├── Resignation
+└── TeacherSubject
+
+students
+├── Student
+└── StudentParent
