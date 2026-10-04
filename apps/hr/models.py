@@ -19,12 +19,6 @@ class Department(BaseModel):
         blank=True
     )
 
-    school = models.ForeignKey(
-        "organizations.School",
-        on_delete=models.CASCADE,
-        related_name="departments"
-    )
-
     is_active = models.BooleanField(
         default=True
     )
@@ -36,25 +30,8 @@ class Department(BaseModel):
             "name"
         ]
 
-        constraints = [
-            models.UniqueConstraint(
-                fields=[
-                    "school",
-                    "code"
-                ],
-                name="uq_department_school_code"
-            ),
-            models.UniqueConstraint(
-                fields=[
-                    "school",
-                    "name"
-                ],
-                name="uq_department_school_name"
-            )
-        ]
-
     def get_slug_source(self):
-        return f"{self.school_id}-{self.code}"
+        return self.code
 
     def __str__(self):
         return self.name
