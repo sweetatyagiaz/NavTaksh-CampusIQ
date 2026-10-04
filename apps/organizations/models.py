@@ -18,7 +18,7 @@ class WithdrawalReason(models.TextChoices):
 
     OTHER = "OTHER", "Other"
   
-class School(models.Model):
+class School(BaseModel):
     """
     School Master
 
