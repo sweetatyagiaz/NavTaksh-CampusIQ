@@ -53,6 +53,9 @@ class Designation(BaseModel):
         blank=True
     )
 
+    is_teaching_staff = models.BooleanField(
+        default=False
+    )
     class Meta:
         db_table = "designation"
         ordering = ["name"]
@@ -63,34 +66,38 @@ class Designation(BaseModel):
     def __str__(self):
         return self.name
 
+class Employee(BaseModel):
 
-class Employment(BaseModel):
+    class Status(models.IntegerChoices):
+        ACTIVE = 1, "Active"
+        ON_LEAVE = 2, "On Leave"
+        SUSPENDED = 3, "Suspended"
+        RESIGNED = 4, "Resigned"
+        RETIRED = 5, "Retired"
+        TERMINATED = 6, "Terminated"
 
     person = models.ForeignKey(
-        # Person,
         "people.Person",
         on_delete=models.PROTECT,
-        related_name="employments"
+        related_name="employees"
     )
 
     school = models.ForeignKey(
         "organizations.School",
         on_delete=models.PROTECT,
-        related_name="employments"
+        related_name="employees"
     )
 
     department = models.ForeignKey(
-        Department,
+        "hr.Department",
         on_delete=models.PROTECT,
-        related_name="employments",
-        null=True,
-        blank=True
+        related_name="employees"
     )
 
     designation = models.ForeignKey(
-        Designation,
+        "hr.Designation",
         on_delete=models.PROTECT,
-        related_name="employments"
+        related_name="employees"
     )
 
     employee_code = models.CharField(
@@ -99,17 +106,22 @@ class Employment(BaseModel):
 
     joining_date = models.DateField()
 
-    relieving_date = models.DateField(
-        null=True,
-        blank=True
-    )
-
-    is_current = models.BooleanField(
-        default=True
+    status = models.PositiveSmallIntegerField(
+        choices=Status.choices,
+        default=Status.ACTIVE
     )
 
     class Meta:
-        db_table = "employment"
+        db_table = "employee"
+
+        unique_together = (
+            "school",
+            "employee_code"
+        )
+
+        ordering = [
+            "employee_code"
+        ]
 
     def get_slug_source(self):
         return (
@@ -124,35 +136,29 @@ class Employment(BaseModel):
         )
 
 
-class Resignation(BaseModel):
-    """
-    Employee resignation / separation record.
-    """
+class EmployeeResignation(BaseModel):
 
-    class ReasonType(models.IntegerChoices):
+    class Reason(models.IntegerChoices):
         RESIGNED = 1, "Resigned"
         RETIRED = 2, "Retired"
         TERMINATED = 3, "Terminated"
         CONTRACT_ENDED = 4, "Contract Ended"
-        TRANSFERRED = 5, "Transferred"
-        DECEASED = 6, "Deceased"
-        ABSCONDED = 7, "Absconded"
-        OTHER = 99, "Other"
+        DECEASED = 5, "Deceased"
+        TRANSFERRED = 6, "Transferred"
 
-    employment = models.OneToOneField(
-        "hr.Employment",
+    employee = models.OneToOneField(
+        "hr.Employee",
         on_delete=models.CASCADE,
         related_name="resignation"
     )
 
-    reason_type = models.CharField(
-        max_length=30,
-        choices=ReasonType.choices
+    reason = models.PositiveSmallIntegerField(
+        choices=Reason.choices
     )
 
-    resignation_date = models.DateField(
-        help_text="Last working day"
-    )
+    resignation_date = models.DateField()
+
+    last_working_date = models.DateField()
 
     reason_details = models.TextField(
         blank=True,
@@ -173,72 +179,25 @@ class Resignation(BaseModel):
         default=True
     )
 
+    remarks = models.TextField(
+        blank=True
+    )
+
     class Meta:
-        db_table = "resignation"
-        ordering = ["-resignation_date"]
+        db_table = "employee_resignation"
+
+        ordering = [
+            "-last_working_date"
+        ]
 
     def get_slug_source(self):
         return (
-            f"{self.employment.employee_code}-"
-            f"{self.reason_type}"
+            f"{self.employee.employee_code}-"
+            f"{self.employee.person}"
         )
 
     def __str__(self):
         return (
-            f"{self.employment.employee_code} - "
-            f"{self.reason_type}"
+            f"{self.employee.employee_code}"
         )
 
-
-# class TeacherSubject(BaseModel):
-
-#     employment = models.ForeignKey(
-#         "hr.Employment",
-#         on_delete=models.CASCADE,
-#         related_name="subjects"
-#     )
-
-#     subject = models.ForeignKey(
-#         "academics.Subject",
-#         on_delete=models.PROTECT,
-#         related_name="teachers"
-#     )
-
-#     is_primary = models.BooleanField(
-#         default=False,
-#         help_text="Primary subject of the teacher"
-#     )
-
-#     remarks = models.TextField(
-#         blank=True
-#     )
-
-#     class Meta:
-#         db_table = "teacher_subject"
-
-#         ordering = [
-#             "employment",
-#             "subject"
-#         ]
-
-#         constraints = [
-#             models.UniqueConstraint(
-#                 fields=[
-#                     "employment",
-#                     "subject"
-#                 ],
-#                 name="uq_teacher_subject"
-#             )
-#         ]
-
-#     def get_slug_source(self):
-#         return (
-#             f"{self.employment_id}-"
-#             f"{self.subject_id}"
-#         )
-
-#     def __str__(self):
-#         return (
-#             f"{self.employment} - "
-#             f"{self.subject}"
-#         )

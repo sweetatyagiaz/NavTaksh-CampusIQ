@@ -1,0 +1,30 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+
+    <div class="container-fluid">
+
+        <a class="navbar-brand fw-bold" href="/">
+            CampusIQ™
+        </a>
+
+        <div class="ms-auto text-white">
+
+            {% if request.user.is_authenticated %}
+
+                {{ request.user.username }}
+
+                |
+
+                <a
+                    href="{% url 'logout' %}"
+                    class="text-white text-decoration-none"
+                >
+                    Logout
+                </a>
+
+            {% endif %}
+
+        </div>
+
+    </div>
+
+</nav>

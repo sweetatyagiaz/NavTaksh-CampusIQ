@@ -58,3 +58,6 @@ class RolePermissionAdmin(admin.ModelAdmin):
     list_filter = (
         "role",
     )
+
+
+

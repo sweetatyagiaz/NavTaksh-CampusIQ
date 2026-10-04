@@ -1,0 +1,350 @@
+
+Phase 1 Testing Checklist
+====================================================
+1. Multi-Tenant Security
+-----------------------------------
+- Admin A cannot see School B students
+- Admin A cannot see School B employees
+- Admin A cannot see School B classes
+- Admin A cannot see School B academic records
+This is the most important test in CampusIQ.
+
+2. Role-Based Access Control (RBAC)
+----------------------------------
+Role	            Access
+SUPER_ADMIN	        All Schools
+SCHOOL_ADMIN	    Own School Only
+TEACHER	Own         Classes
+ACCOUNTANT	        Fees Only
+LIBRARIAN	        Library Only
+
+
+3. Academic Structure
+Create:
+Academic Year
+    2026-27
+
+Classes
+    1-12
+
+Sections
+    A-C
+
+Subjects
+    Mathematics
+    Science
+    English
+
+Verify:
+ClassSection
+
+creation works correctly.
+Examples:
+2026-27 / Class 10 / A
+2026-27 / Class 10 / B
+2026-27 / Class 11 / A
+
+4. Employee Module
+Create:
+Department
+    Academics
+
+Designation
+    Teacher
+
+Create:
+Person
+    Rakesh Kumar
+
+Employee
+    EMP0001
+
+Verify:
+- Employee created correctly
+- School assigned correctly
+- Status defaults correctly
+- Slug generation works
+5. Teacher Assignment
+Create:
+TeacherSubject
+
+Example:
+Rakesh
+    Mathematics
+    Rating 9.5
+
+Rakesh
+    Physics
+    Rating 8.0
+
+Verify:
+- Duplicate subject assignment blocked
+- Non-teaching designation blocked
+6. Student Module
+Create:
+Person
+    Rahul Sharma
+
+Student
+    ADM0001
+
+Verify:
+- Admission number uniqueness within school
+- Same admission number allowed in another school if desired by design
+7. Student Enrollment
+Create:
+Rahul
+    2026-27
+    Class 10-A
+    Roll 1
+
+Verify:
+- Duplicate roll number blocked within ClassSection
+- Student history preserved
+8. Student Guardian
+Create:
+Father
+Mother
+Guardian
+
+Verify:
+- Multiple guardians allowed
+- Primary guardian logic works
+9. Employee Resignation
+Create:
+Employee
+    Status = Active
+
+Add resignation.
+Verify:
+Status
+    Active -> Resigned
+
+automatically updates.
+10. Django Admin
+Verify all models:
+Organizations
+Accounts
+People
+HR
+Academics
+Students
+
+appear correctly.
+Check:
+- search_fields
+- list_display
+- list_filter
+- autocomplete_fields
+Sample Data Volume Test
+Create:
+1 School
+
+10 Departments
+
+20 Designations
+
+100 Employees
+
+500 Students
+
+20 Subjects
+
+30 ClassSections
+
+Then check:
+Admin performance
+Foreign key dropdowns
+Filters
+Search
+
+Exit Criteria for Phase 1
+Move to Phase 2 only after:
+✅ Migrations clean
+✅ No duplicate data issues
+✅ RBAC working
+✅ School isolation working
+✅ Employee flow working
+✅ Student flow working
+✅ Teacher assignment working
+✅ Admin screens usable
+
+Once these pass, Phase 2 (Timetable + Attendance) will be much smoother because it will build on a stable foundation.
+
+
+Recommended Template Structure
+-------------------------------------------------------------------------
+templates/
+│
+├── base/
+│   ├── base.html
+│   ├── navbar.html
+│   ├── sidebar.html
+│   ├── breadcrumbs.html
+│   ├── messages.html
+│   └── footer.html
+│
+├── dashboard/
+│   └── index.html
+│
+├── students/
+├── academics/
+├── hr/
+├── accounts/
+├── reports/
+└── components/
+
+Main Layout
+============================================================================
++------------------------------------------------------+
+| NavTaksh CampusIQ™                                   |
++------------------------------------------------------+
+| Sidebar      |                                       |
+|              |      Main Content                     |
+| Dashboard    |                                       |
+| Students     |                                       |
+| Academics    |                                       |
+| HR           |                                       |
+| Attendance   |                                       |
+| Exams        |                                       |
+| Fees         |                                       |
+| Reports      |                                       |
+|              |                                       |
++------------------------------------------------------+
+
+Sidebar Menu
+===============================================================================
+Based on your Phase-1 modules:
+Dashboard
+
+Organizations
+ └─ Schools
+
+Accounts
+ ├─ Users
+ ├─ Roles
+ └─ Permissions
+
+People
+ └─ Persons
+
+HR
+ ├─ Departments
+ ├─ Designations
+ ├─ Employees
+ └─ Resignations
+
+Academics
+ ├─ Academic Years
+ ├─ Classes
+ ├─ Sections
+ ├─ Subjects
+ ├─ Class Sections
+ ├─ Teacher Subjects
+ ├─ Teacher Classes
+ └─ Class Teachers
+
+Students
+ ├─ Students
+ ├─ Enrollments
+ └─ Guardians
+
+Reports
+
+Dashboard Cards
+==========================================================================
+For School Admin:
++------------------+
+| Total Students   |
+| 1,250            |
++------------------+
+
++------------------+
+| Total Teachers   |
+| 85               |
++------------------+
+
++------------------+
+| Total Employees  |
+| 120              |
++------------------+
+
++------------------+
+| Active Classes   |
+| 42               |
++------------------+
+
+Tech Stack
+===========================================================================
+Since you're already using Bootstrap in CloudFin, I recommend:
+Bootstrap 5.3
+Bootstrap Icons
+DataTables
+Chart.js
+HTMX (optional later)
+
+Standard CRUD Layout
+=================================================================
+Every module should follow the same pattern.
+List Page
+Students
+------------------------------------------------
+[Add Student]
+
+Search: [____________]
+
+------------------------------------------------
+| Admission | Name | Class | Status | Actions |
+------------------------------------------------
+
+Form Page
+=================================================================
+Student Information
+
+Admission No
+First Name
+Last Name
+Gender
+DOB
+Photo
+
+[Save]
+[Cancel]
+
+Detail Page
+==================================================================
+Student Profile
+
+Personal Information
+Enrollment History
+Guardians
+Documents
+Attendance
+
+Theme
+=====================================================================
+For NavTaksh CampusIQ™
+Primary   : #0F172A
+Secondary : #1E293B
+Accent    : #2563EB
+Success   : #16A34A
+Warning   : #F59E0B
+Danger    : #DC2626
+
+Professional SaaS look similar to:
+ERPNext
+Odoo
+Zoho School ERP
+Modern Admin Dashboards
+
+What I suggest next
+Create these first:
+templates/base/base.html
+templates/base/navbar.html
+templates/base/sidebar.html
+templates/dashboard/index.html
+static/css/campusiq.css
+static/js/campusiq.js
+
+Then build the Dashboard Home Page before creating Student, HR, and Academics screens. This gives you a reusable UI foundation for the entire CampusIQ platform.
+

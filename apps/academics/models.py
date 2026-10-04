@@ -250,62 +250,168 @@ class ClassSubject(models.Model):
 
 
 
-# class TeacherSubject(BaseModel):
+class TeacherSubject(BaseModel):
 
-#     employment = models.ForeignKey(
-#         "people.Employment",
-#         on_delete=models.CASCADE,
-#         related_name="teacher_subjects"
-#     )
+    employee = models.ForeignKey(
+        "hr.Employee",
+        on_delete=models.CASCADE,
+        related_name="teacher_subjects"
+    )
 
-#     subject = models.ForeignKey(
-#         "academics.Subject",
-#         on_delete=models.PROTECT,
-#         related_name="teachers"
-#     )
+    subject = models.ForeignKey(
+        "academics.Subject",
+        on_delete=models.PROTECT,
+        related_name="teacher_subjects"
+    )
 
-#     is_primary = models.BooleanField(
-#         default=False,
-#         help_text="Primary subject specialization"
-#     )
+    rating = models.DecimalField(
+        max_digits=3,
+        decimal_places=1,
+        default=5.0
+    )
 
-#     start_date = models.DateField(
-#         null=True,
-#         blank=True
-#     )
+    remarks = models.TextField(
+        blank=True
+    )
 
-#     end_date = models.DateField(
-#         null=True,
-#         blank=True
-#     )
+    class Meta:
+        db_table = "teacher_subject"
 
-#     remarks = models.TextField(
-#         blank=True
-#     )
+        unique_together = (
+            "employee",
+            "subject"
+        )
 
-#     class Meta:
-#         db_table = "teacher_subject"
+        ordering = [
+            "employee",
+            "subject"
+        ]
 
-#         constraints = [
-#             models.UniqueConstraint(
-#                 fields=[
-#                     "employment",
-#                     "subject"
-#                 ],
-#                 name="unique_teacher_subject"
-#             )
-#         ]
+    def get_slug_source(self):
+        return (
+            f"{self.employee}-"
+            f"{self.subject}"
+        )
 
-#     def get_slug_source(self):
-#         return (
-#             f"{self.employment.employee_code}-"
-#             f"{self.subject.name}"
-#         )
+    def __str__(self):
+        return (
+            f"{self.employee} - "
+            f"{self.subject}"
+        )
 
-#     def __str__(self):
-#         return (
-#             f"{self.employment.person} - "
-#             f"{self.subject.name}"
-#         )
+
+class ClassSection(BaseModel):
+
+    academic_year = models.ForeignKey(
+        "academics.AcademicYear",
+        on_delete=models.PROTECT,
+        related_name="class_sections"
+    )
+
+    classroom = models.ForeignKey(
+        "academics.Class",
+        on_delete=models.PROTECT,
+        related_name="class_sections"
+    )
+
+    section = models.ForeignKey(
+        "academics.Section",
+        on_delete=models.PROTECT,
+        related_name="class_sections"
+    )
+
+    capacity = models.PositiveIntegerField(
+        default=40
+    )
+
+    class Meta:
+
+        db_table = "class_section"
+
+        unique_together = (
+            "academic_year",
+            "classroom",
+            "section"
+        )
+
+        ordering = [
+            "academic_year",
+            "classroom",
+            "section"
+        ]
+
+    def get_slug_source(self):
+        return (
+            f"{self.academic_year}-"
+            f"{self.classroom}-"
+            f"{self.section}"
+        )
+
+    def __str__(self):
+        return (
+            f"{self.classroom} - "
+            f"{self.section}"
+        )
+
+class TeacherClass(BaseModel):
+
+    employee = models.ForeignKey(
+        "hr.Employee",
+        on_delete=models.CASCADE,
+        related_name="teacher_classes"
+    )
+
+    class_section = models.ForeignKey(
+        "academics.ClassSection",
+        on_delete=models.CASCADE,
+        related_name="teacher_classes"
+    )
+
+    subject = models.ForeignKey(
+        "academics.Subject",
+        on_delete=models.PROTECT,
+        related_name="teacher_classes"
+    )
+
+    class Meta:
+
+        db_table = "teacher_class"
+
+        unique_together = (
+            "employee",
+            "class_section",
+            "subject"
+        )
+
+    def get_slug_source(self):
+        return (
+            f"{self.employee}-"
+            f"{self.class_section}-"
+            f"{self.subject}"
+        )
+
+
+class ClassTeacher(BaseModel):
+
+    class_section = models.OneToOneField(
+        "academics.ClassSection",
+        on_delete=models.CASCADE,
+        related_name="class_teacher"
+    )
+
+    employee = models.ForeignKey(
+        "hr.Employee",
+        on_delete=models.PROTECT,
+        related_name="class_teacher_assignments"
+    )
+
+    class Meta:
+
+        db_table = "class_teacher"
+
+    def get_slug_source(self):
+        return (
+            f"{self.class_section}"
+        )
 
 

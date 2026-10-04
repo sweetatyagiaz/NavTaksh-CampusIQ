@@ -23,4 +23,7 @@ urlpatterns = [
 
     path("", include("apps.home.urls")),
     path("contact/", include("apps.contact.urls")),
+
+
+    path("", include("apps.accounts.urls")),
 ]

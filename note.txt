@@ -29,6 +29,62 @@ Control (RBAC) so each school can manage its own users and permissions securely.
 
 
 
+Dashboard
+├── Students
+│   ├── Admissions
+│   ├── Student Directory
+│   └── Student Promotion
+│
+├── Academics
+│   ├── Classes
+│   ├── Subjects
+│   ├── Timetable
+│   └── Teacher Allocation
+│
+├── HR
+│   ├── Employees
+│   ├── Departments
+│   ├── Designations
+│   └── Resignations
+│
+├── Attendance
+├── Examinations
+├── Fees
+├── Transport
+├── Library
+├── Hostel
+├── Reports
+└── Settings
+
+Role-Based Dashboard
+
+        │
+        ├── Super Admin Dashboard
+        ├── School Admin Dashboard
+        ├── Teacher Dashboard
+        ├── Student Dashboard
+        ├── Parent Dashboard
+        └── Accountant Dashboard
+
+
+urlpatterns = [
+
+    path("", HomeView.as_view(), name="home"),
+
+    path("login/", LoginView.as_view(), name="login"),
+
+    path("logout/", LogoutView.as_view(), name="logout"),
+
+    path(
+        "dashboard/",
+        DashboardView.as_view(),
+        name="dashboard"
+    ),
+]
+
+
+
+
 Recommended CampusIQ Hierarchy
 ============================================================
 PLATFORM
@@ -489,3 +545,44 @@ FEE_REFUND
 FEE_REPORT
 
 
+
+
+
+Future Work
+=====================================
+1. TODO: Parant Login/id
+2. 
+
+
+My Suggested Priority
+Build in this order:
+Phase 1 (Core School Setup)
+===============================================================
+✅ School
+✅ User
+✅ Role
+✅ Person
+✅ Employee
+✅ Student
+✅ Academic Structure
+
+Phase 2 (Daily Operations)
+⬜ Timetable
+⬜ Student Attendance
+⬜ Employee Attendance
+
+Phase 3 (Academic Operations)
+⬜ Examination
+⬜ Marks
+⬜ Report Cards
+
+Phase 4 (Business Operations)
+⬜ Fees
+⬜ Transport
+⬜ Library
+
+Phase 5 (Advanced)
+⬜ Hostel
+⬜ Visitor Management
+⬜ Surveillance
+⬜ Analytics

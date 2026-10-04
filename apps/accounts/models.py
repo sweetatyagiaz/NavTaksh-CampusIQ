@@ -1,6 +1,8 @@
 from django.db import models
 from django.contrib.auth.models import AbstractUser
 
+from apps.core.models import BaseModel
+
 class Role(models.Model):
 
     class RoleType(models.TextChoices):
@@ -59,6 +61,12 @@ class User(AbstractUser):
     is_platform_admin = models.BooleanField(
         default=False
     )
+
+    def has_role(self, role_code):
+
+        return self.roles.filter(
+            role__code=role_code
+        ).exists()
 
     class Meta:
         db_table = "user"
@@ -167,6 +175,10 @@ class RolePermission(models.Model):
 
     def __str__(self):
         return f"{self.role.name} - {self.permission.name}"
+
+
+
+
 
 
 

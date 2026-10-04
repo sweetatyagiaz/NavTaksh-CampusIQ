@@ -1,0 +1,203 @@
+{% load role_tags %}
+
+<div class="col-md-2 bg-dark text-white vh-100 p-0">
+
+    <div class="p-3">
+
+        <h5>CampusIQ™</h5>
+
+        <hr>
+
+        <ul class="nav flex-column">
+
+            <!-- Dashboard -->
+
+            <li class="nav-item">
+                <a
+                    class="nav-link text-white"
+                    href="{% url 'dashboard' %}"
+                >
+                    <i class="bi bi-speedometer2"></i>
+                    Dashboard
+                </a>
+            </li>
+
+            <!-- SCHOOL ADMIN -->
+
+            {% if request.user|has_role:"SCHOOL_ADMIN" %}
+
+                <li class="nav-item mt-3">
+                    <small class="text-secondary">
+                        SCHOOL MANAGEMENT
+                    </small>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                        Students
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                        Academics
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                        HR
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                        Attendance
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                        Examinations
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                        Fees
+                    </a>
+                </li>
+
+            {% endif %}
+
+            <!-- TEACHER -->
+
+            {% if request.user|has_role:"TEACHER" %}
+
+                <li class="nav-item mt-3">
+                    <small class="text-secondary">
+                        TEACHER
+                    </small>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                        My Classes
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                        Attendance
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                        Homework
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                        Timetable
+                    </a>
+                </li>
+
+            {% endif %}
+
+            <!-- PARENT -->
+
+            {% if request.user|has_role:"PARENT" %}
+
+                <li class="nav-item mt-3">
+                    <small class="text-secondary">
+                        PARENT
+                    </small>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                        My Children
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                        Attendance
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                        Results
+                    </a>
+                </li>
+
+            {% endif %}
+
+            <!-- STUDENT -->
+
+            {% if request.user|has_role:"STUDENT" %}
+
+                <li class="nav-item mt-3">
+                    <small class="text-secondary">
+                        STUDENT
+                    </small>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                        Timetable
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                        Homework
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                        Results
+                    </a>
+                </li>
+
+            {% endif %}
+
+            <!-- PLATFORM ADMIN -->
+
+            {% if request.user.is_platform_admin %}
+
+                <li class="nav-item mt-3">
+                    <small class="text-secondary">
+                        PLATFORM
+                    </small>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                        Organizations
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                        Accounts
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" href="#">
+                        Analytics
+                    </a>
+                </li>
+
+            {% endif %}
+
+        </ul>
+
+    </div>
+
+</div>

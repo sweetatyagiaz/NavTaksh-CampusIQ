@@ -1,139 +1,141 @@
 from django.db import models
 
 from apps.core.models import BaseModel
-from apps.core.constants import Gender
+# from apps.core.constants import Gender
 
 
 class Student(BaseModel):
 
+    class Status(models.IntegerChoices):
+        ACTIVE = 1, "Active"
+        TRANSFERRED = 2, "Transferred"
+        PASSED_OUT = 3, "Passed Out"
+        DROPPED = 4, "Dropped"
+        SUSPENDED = 5, "Suspended"
+        ALUMNI = 6, "Alumni"
+
+    person = models.ForeignKey(
+        "people.Person",
+        on_delete=models.PROTECT,
+        related_name="students"
+    )
+
+    school = models.ForeignKey(
+        "organizations.School",
+        on_delete=models.PROTECT,
+        related_name="students"
+    )
+
     admission_number = models.CharField(
-        max_length=50,
-        unique=True,
-        db_index=True
+        max_length=50
     )
 
-    first_name = models.CharField(
-        max_length=100
-    )
+    admission_date = models.DateField()
 
-    middle_name = models.CharField(
-        max_length=100,
-        blank=True
-    )
-
-    last_name = models.CharField(
-        max_length=100,
-        blank=True
-    )
-
-    gender = models.PositiveSmallIntegerField(
-        choices=Gender.choices,
-        default=Gender.NOT_AVAILABLE,
-        db_index=True
-    )
-
-    date_of_birth = models.DateField(
-        null=True,
-        blank=True
-    )
-
-    aadhaar_number = models.CharField(
-        max_length=12,
-        blank=True,
-        null=True,
-        unique=True
-    )
-
-    email = models.EmailField(
-        blank=True
-    )
-
-    mobile = models.CharField(
-        max_length=20,
-        blank=True
-    )
-
-    profile_photo = models.ImageField(
-        upload_to="students/photos/",
-        blank=True,
-        null=True
-    )
-
-    address_line_1 = models.CharField(
-        max_length=255,
-        blank=True
-    )
-
-    city = models.CharField(
-        max_length=100,
-        blank=True
-    )
-
-    state = models.CharField(
-        max_length=100,
-        blank=True
-    )
-
-    country = models.CharField(
-        max_length=100,
-        default="India"
-    )
-
-    postal_code = models.CharField(
-        max_length=20,
-        blank=True
-    )
-
-    admission_date = models.DateField(
-        null=True,
-        blank=True
-    )
-
-    is_active = models.BooleanField(
-        default=True
+    status = models.PositiveSmallIntegerField(
+        choices=Status.choices,
+        default=Status.ACTIVE
     )
 
     class Meta:
+
         db_table = "student"
-        ordering = ["admission_number"]
+
+        unique_together = (
+            "school",
+            "admission_number"
+        )
+
+        ordering = [
+            "admission_number"
+        ]
 
     def get_slug_source(self):
-        return self.admission_number
+        return (
+            f"{self.admission_number}-"
+            f"{self.person}"
+        )
 
     def __str__(self):
         return (
             f"{self.admission_number} - "
-            f"{self.first_name} {self.last_name}"
+            f"{self.person}"
         )
 
-
-class StudentParent(BaseModel):
-
-    class RelationshipType(models.IntegerChoices):
-        FATHER = 1, "Father"
-        MOTHER = 2, "Mother"
-        GUARDIAN = 3, "Guardian"
-        GRANDPARENT = 4, "Grandparent"
-        OTHER = 99, "Other"
+class StudentEnrollment(BaseModel):
+    class EnrollmentStatus(models.IntegerChoices):
+        ACTIVE = 1, "Active"
+        PROMOTED = 2, "Promoted"
+        DETAINED = 3, "Detained"
+        TRANSFERRED = 4, "Transferred"
+        PASSED_OUT = 5, "Passed Out"
+        DROPPED = 6, "Dropped"
 
     student = models.ForeignKey(
         "students.Student",
         on_delete=models.CASCADE,
-        related_name="parents"
+        related_name="enrollments"
+    )
+
+    class_section = models.ForeignKey(
+        "academics.ClassSection",
+        on_delete=models.PROTECT,
+        related_name="enrollments"
+    )
+
+    roll_number = models.PositiveIntegerField()
+
+    enrollment_date = models.DateField()
+
+    status = models.PositiveSmallIntegerField(
+        choices=EnrollmentStatus.choices,
+        default=EnrollmentStatus.ACTIVE
+    )
+
+    class Meta:
+
+        db_table = "student_enrollment"
+
+        unique_together = (
+            "class_section",
+            "roll_number"
+        )
+
+    def get_slug_source(self):
+        return (
+            f"{self.student}-"
+            f"{self.class_section}"
+        )
+    
+class StudentGuardian(BaseModel):
+
+    class Relationship(models.IntegerChoices):
+        FATHER = 1, "Father"
+        MOTHER = 2, "Mother"
+        GUARDIAN = 3, "Guardian"
+        GRAND_FATHER = 4, "Grand Father"
+        GRAND_MOTHER = 5, "Grand Mother"
+        UNCLE = 6, "Uncle"
+        AUNT = 7, "Aunt"
+        OTHER = 8, "Other"
+
+    student = models.ForeignKey(
+        "students.Student",
+        on_delete=models.CASCADE,
+        related_name="guardians"
     )
 
     person = models.ForeignKey(
         "people.Person",
         on_delete=models.PROTECT,
-        related_name="student_relationships"
+        related_name="guardian_students"
     )
 
-    relationship_type = models.PositiveSmallIntegerField(
-        choices=RelationshipType.choices,
-        db_index=True
+    relationship = models.PositiveSmallIntegerField(
+        choices=Relationship.choices
     )
 
-    is_primary_contact = models.BooleanField(
+    is_primary = models.BooleanField(
         default=False
     )
 
@@ -141,16 +143,48 @@ class StudentParent(BaseModel):
         default=True
     )
 
-    receives_sms = models.BooleanField(
-        default=True
+    is_emergency_contact = models.BooleanField(
+        default=False
     )
 
-    receives_whatsapp = models.BooleanField(
-        default=True
+    class Meta:
+        db_table = "student_guardian"
+
+    def get_slug_source(self):
+        return (
+            f"{self.student}-"
+            f"{self.person}"
+        )
+
+class StudentDocument(BaseModel):
+
+    student = models.ForeignKey(
+        "students.Student",
+        on_delete=models.CASCADE,
+        related_name="documents"
     )
 
-    receives_email = models.BooleanField(
-        default=True
+    document_type = models.CharField(
+        max_length=100
+    )
+
+    document_number = models.CharField(
+        max_length=100,
+        blank=True
+    )
+
+    file = models.FileField(
+        upload_to="students/documents/"
+    )
+
+    issue_date = models.DateField(
+        null=True,
+        blank=True
+    )
+
+    expiry_date = models.DateField(
+        null=True,
+        blank=True
     )
 
     remarks = models.TextField(
@@ -158,28 +192,13 @@ class StudentParent(BaseModel):
     )
 
     class Meta:
-        db_table = "student_parent"
-
-        constraints = [
-            models.UniqueConstraint(
-                fields=[
-                    "student",
-                    "person",
-                    "relationship_type"
-                ],
-                name="unique_student_parent"
-            )
-        ]
+        db_table = "student_document"
 
     def get_slug_source(self):
         return (
-            f"{self.student.admission_number}-"
-            f"{self.person.id}"
+            f"{self.student}-"
+            f"{self.document_type}"
         )
 
-    def __str__(self):
-        return (
-            f"{self.student} - "
-            f"{self.relationship_type}"
-        )
+
 
