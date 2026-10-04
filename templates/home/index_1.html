@@ -1,0 +1,227 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}
+NavTaksh CampusIQ™ | AI Powered School ERP
+{% endblock %}
+
+{% block css %}
+<link rel="stylesheet" href="{% static 'css/home.css' %}">
+{% endblock %}
+
+{% block content %}
+
+<!-- Hero Section -->
+<section class="bg-light py-5">
+    <div class="container-fluid px-lg-5">
+
+        <div class="row align-items-center min-vh-100">
+
+            <div class="col-lg-6 order-2 order-lg-1">
+
+                <span class="badge bg-primary px-3 py-2 mb-3">
+                    AI Powered School ERP
+                </span>
+
+                <h1 class="display-3 fw-bold mb-4">
+                    Transform School Management
+                    with CampusIQ™
+                </h1>
+
+                <p class="lead text-muted mb-4">
+                    Manage admissions, attendance, academics,
+                    examinations, fees, HR, transport and analytics
+                    from one intelligent platform.
+                </p>
+
+                <div class="d-flex flex-wrap gap-3">
+
+                    <a href="#features"
+                       class="btn btn-primary btn-lg">
+                        Explore Features
+                    </a>
+
+                    <a href="#contact"
+                       class="btn btn-outline-dark btn-lg">
+                        Request Demo
+                    </a>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-6 text-center order-1 order-lg-2">
+
+                <img
+                    src="{% static 'images/hero-banner.png' %}"
+                    class="img-fluid"
+                    alt="CampusIQ Dashboard"
+                >
+
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+<!-- Statistics -->
+<section class="py-5">
+
+    <div class="container-fluid px-lg-5">
+
+        <div class="row text-center">
+
+            <div class="col-md-3 col-6 mb-4">
+                <h2 class="fw-bold text-primary">500+</h2>
+                <p class="text-muted">Schools</p>
+            </div>
+
+            <div class="col-md-3 col-6 mb-4">
+                <h2 class="fw-bold text-primary">50K+</h2>
+                <p class="text-muted">Students</p>
+            </div>
+
+            <div class="col-md-3 col-6 mb-4">
+                <h2 class="fw-bold text-primary">5K+</h2>
+                <p class="text-muted">Teachers</p>
+            </div>
+
+            <div class="col-md-3 col-6 mb-4">
+                <h2 class="fw-bold text-primary">1M+</h2>
+                <p class="text-muted">Attendance Records</p>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- Features -->
+<section id="features" class="py-5 bg-light">
+
+    <div class="container-fluid px-lg-5">
+
+        <div class="text-center mb-5">
+
+            <h2 class="fw-bold">
+                Powerful School Management Modules
+            </h2>
+
+            <p class="text-muted">
+                Everything needed to run a modern educational institution.
+            </p>
+
+        </div>
+
+        <div class="row g-4">
+
+            <div class="col-lg-3 col-md-6">
+                <div class="card border-0 shadow-sm h-100">
+                    <div class="card-body">
+                        <h5>Admissions</h5>
+                        <p>Student registration and onboarding.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="card border-0 shadow-sm h-100">
+                    <div class="card-body">
+                        <h5>Attendance</h5>
+                        <p>Daily attendance and analytics.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="card border-0 shadow-sm h-100">
+                    <div class="card-body">
+                        <h5>Examinations</h5>
+                        <p>Marks, grading and report cards.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="card border-0 shadow-sm h-100">
+                    <div class="card-body">
+                        <h5>Fee Management</h5>
+                        <p>Collections, dues and reporting.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- AI Section -->
+<section class="py-5 bg-dark text-white">
+
+    <div class="container-fluid px-lg-5">
+
+        <div class="text-center mb-5">
+
+            <h2 class="fw-bold">
+                CampusIQ AI
+            </h2>
+
+            <p>
+                Intelligent insights powered by AI.
+            </p>
+
+        </div>
+
+        <div class="row text-center">
+
+            <div class="col-lg-4 mb-4">
+                <div class="p-4 border rounded">
+                    AI Attendance Insights
+                </div>
+            </div>
+
+            <div class="col-lg-4 mb-4">
+                <div class="p-4 border rounded">
+                    Student Performance Prediction
+                </div>
+            </div>
+
+            <div class="col-lg-4 mb-4">
+                <div class="p-4 border rounded">
+                    Automated Academic Reports
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- CTA -->
+<section id="contact" class="py-5">
+
+    <div class="container-fluid px-lg-5 text-center">
+
+        <h2 class="fw-bold mb-3">
+            Ready to Modernize Your Institution?
+        </h2>
+
+        <p class="lead text-muted mb-4">
+            Experience the next generation of school management.
+        </p>
+
+        <a href="#"
+           class="btn btn-primary btn-lg">
+            Schedule Free Demo
+        </a>
+
+    </div>
+
+</section>
+
+{% endblock %}

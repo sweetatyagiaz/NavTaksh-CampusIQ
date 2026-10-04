@@ -13,14 +13,71 @@
 13. Surveillance Model
 14. Analytics Model
 
+NavTaksh-CampusIQ/
+│
+├── manage.py
+│
+├── config/
+│   ├── settings.py
+│   ├── urls.py
+│   └── ...
+│
+├── home/
+│   ├── views.py      ← HERE
+│   ├── urls.py
+│   ├── models.py
+│   └── ...
+│
+├── templates/
+├── static/
+└── media/
 
 
+Recommended URL Structure for CampusIQ
+Later, as modules are added:
+/
+├── admin/
+├── accounts/
+├── schools/
+├── boards/
+├── academic-years/
+├── classes/
+├── sections/
+├── subjects/
+├── teachers/
+├── students/
+├── attendance/
+├── examinations/
+├── fees/
+├── reports/
+└── api/
 
 School
 ------------------------------
 1. TODO: attendance_threshold table with year it may vary
 2. With Board table over year field
 3. Principle relation table with Person table
+
+
+Result After Step 1
+You will have:
+✅ Responsive Navbar
+✅ Hero Banner
+✅ Footer
+✅ Bootstrap 5 Layout
+✅ Static Files Structure
+✅ Reusable Base Template
+Next Step (Step 2)
+We build a professional Hero Dashboard Mockup section with:
+- Floating cards
+- Student Count
+- Teacher Count
+- Revenue Widget
+- Attendance Widget
+- Modern SaaS design
+- Gradient background
+- Animated statistics
+This is the section that makes
 
 
 Total Phase 1 Tables

@@ -1,0 +1,1741 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}
+NavTaksh CampusIQ™ | AI Powered School ERP
+{% endblock %}
+
+{% block css %}
+<link rel="stylesheet" href="{% static 'css/home.css' %}">
+{% endblock %}
+
+{% block content %}
+
+<!-- Hero Section -->
+<!-- Premium SaaS Hero Section -->
+<section class="hero-section position-relative overflow-hidden">
+
+    <div class="hero-bg-shape hero-bg-1"></div>
+    <div class="hero-bg-shape hero-bg-2"></div>
+
+    <div class="container-fluid px-lg-5">
+
+        <div class="row align-items-center min-vh-100">
+
+            <!-- Left Content -->
+            <div class="col-lg-6 order-2 order-lg-1">
+
+                <div class="hero-content">
+
+                    <span class="hero-badge">
+                        <i class="bi bi-stars me-2"></i>
+                        AI Powered School ERP
+                    </span>
+
+                    <h1 class="hero-title mt-4">
+                        Smarter Schools.
+                        <span class="text-primary">Better Outcomes.</span>
+                    </h1>
+
+                    <p class="hero-description mt-4">
+                        Manage admissions, academics, attendance,
+                        examinations, fees, transport, HR and analytics
+                        from one intelligent platform designed for modern
+                        educational institutions.
+                    </p>
+
+                    <div class="d-flex flex-wrap gap-3 mt-5">
+
+                        <a href="#features"
+                           class="btn btn-primary btn-lg px-4 py-3 rounded-pill">
+
+                            Explore Features
+                            <i class="bi bi-arrow-right ms-2"></i>
+
+                        </a>
+
+                        <a href="#contact"
+                           class="btn btn-outline-dark btn-lg px-4 py-3 rounded-pill">
+
+                            Schedule Demo
+
+                        </a>
+
+                    </div>
+
+                    <div class="hero-trust mt-5">
+
+                        <div class="trust-item">
+                            <i class="bi bi-shield-check text-success"></i>
+                            Secure Platform
+                        </div>
+
+                        <div class="trust-item">
+                            <i class="bi bi-cloud-check text-primary"></i>
+                            Cloud Based
+                        </div>
+
+                        <div class="trust-item">
+                            <i class="bi bi-robot text-warning"></i>
+                            AI Enabled
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- Right Dashboard -->
+            <div class="col-lg-6 order-1 order-lg-2">
+
+                <div class="hero-dashboard-wrapper">
+
+                    <!-- Floating Cards -->
+
+                    <div class="floating-card students-card">
+
+                        <i class="bi bi-people-fill"></i>
+
+                        <div>
+                            <h6>50K+</h6>
+                            <small>Students</small>
+                        </div>
+
+                    </div>
+
+                    <div class="floating-card attendance-card">
+
+                        <i class="bi bi-bar-chart-fill"></i>
+
+                        <div>
+                            <h6>96%</h6>
+                            <small>Attendance</small>
+                        </div>
+
+                    </div>
+
+                    <div class="floating-card school-card">
+
+                        <i class="bi bi-building"></i>
+
+                        <div>
+                            <h6>500+</h6>
+                            <small>Schools</small>
+                        </div>
+
+                    </div>
+
+                    <img
+                        src="{% static 'images/hero-banner.png' %}"
+                        class="img-fluid hero-dashboard"
+                        alt="CampusIQ Dashboard"
+                    >
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- Statistics -->
+<section class="py-5 bg-white">
+    <div class="container-fluid px-lg-5">
+        <div class="row text-center g-4">
+            <div class="col-md-3 col-6">
+                <div class="p-3">
+                    <h2 class="fw-bold text-primary display-5">500+</h2>
+                    <p class="text-muted mb-0 fw-medium">Schools</p>
+                </div>
+            </div>
+            <div class="col-md-3 col-6">
+                <div class="p-3">
+                    <h2 class="fw-bold text-primary display-5">50K+</h2>
+                    <p class="text-muted mb-0 fw-medium">Students</p>
+                </div>
+            </div>
+            <div class="col-md-3 col-6">
+                <div class="p-3">
+                    <h2 class="fw-bold text-primary display-5">5K+</h2>
+                    <p class="text-muted mb-0 fw-medium">Teachers</p>
+                </div>
+            </div>
+            <div class="col-md-3 col-6">
+                <div class="p-3">
+                    <h2 class="fw-bold text-primary display-5">1M+</h2>
+                    <p class="text-muted mb-0 fw-medium">Attendance Records</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- Why CampusIQ -->
+<section class="py-5 bg-white" id="why-campusiq">
+
+    <div class="container-fluid px-lg-5">
+
+        <div class="text-center mb-5">
+
+            <span class="badge bg-primary-subtle text-primary px-3 py-2">
+                Why CampusIQ™
+            </span>
+
+            <h2 class="display-5 fw-bold mt-3">
+                Everything Your Institution Needs
+            </h2>
+
+            <p class="lead text-muted">
+                One platform to manage students, staff, academics,
+                finance, communication and analytics.
+            </p>
+
+        </div>
+
+        <div class="row g-4">
+
+            <div class="col-lg-3 col-md-6">
+                <div class="campusiq-card">
+                    <i class="bi bi-person-plus-fill"></i>
+                    <h5>Admissions</h5>
+                    <p>
+                        Streamline registration, enrollment,
+                        document verification and onboarding.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="campusiq-card">
+                    <i class="bi bi-mortarboard-fill"></i>
+                    <h5>Student Management</h5>
+                    <p>
+                        Complete student lifecycle management
+                        from admission to graduation.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="campusiq-card">
+                    <i class="bi bi-person-workspace"></i>
+                    <h5>Teacher Management</h5>
+                    <p>
+                        Manage staff records, attendance,
+                        payroll and performance.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="campusiq-card">
+                    <i class="bi bi-calendar-check-fill"></i>
+                    <h5>Attendance</h5>
+                    <p>
+                        Real-time attendance tracking
+                        with analytics and reports.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="campusiq-card">
+                    <i class="bi bi-file-earmark-text-fill"></i>
+                    <h5>Examinations</h5>
+                    <p>
+                        Marks entry, grading,
+                        report cards and analytics.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="campusiq-card">
+                    <i class="bi bi-credit-card-fill"></i>
+                    <h5>Fee Management</h5>
+                    <p>
+                        Online payments,
+                        invoices and financial reports.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="campusiq-card">
+                    <i class="bi bi-bus-front-fill"></i>
+                    <h5>Transport</h5>
+                    <p>
+                        Route planning,
+                        vehicle management and tracking.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="campusiq-card">
+                    <i class="bi bi-cpu-fill"></i>
+                    <h5>AI Analytics</h5>
+                    <p>
+                        Predictive insights,
+                        performance forecasting and reporting.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- Platform Preview -->
+<section class="platform-preview py-5">
+
+    <div class="container-fluid px-lg-5">
+
+        <div class="row align-items-center">
+
+            <!-- Left Side -->
+            <div class="col-lg-6 mb-5 mb-lg-0">
+
+                <span class="badge bg-primary-subtle text-primary px-3 py-2">
+                    Platform Preview
+                </span>
+
+                <h2 class="display-5 fw-bold mt-3">
+                    A Unified Dashboard For
+                    Every Stakeholder
+                </h2>
+
+                <p class="lead text-muted mt-3">
+                    Administrators, teachers, students and parents
+                    access everything from one centralized platform.
+                </p>
+
+                <div class="row mt-5 g-3">
+
+                    <div class="col-sm-6">
+                        <div class="feature-mini">
+                            <i class="bi bi-people-fill"></i>
+                            <span>Student Management</span>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <div class="feature-mini">
+                            <i class="bi bi-calendar-check-fill"></i>
+                            <span>Attendance Tracking</span>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <div class="feature-mini">
+                            <i class="bi bi-credit-card-fill"></i>
+                            <span>Fee Collection</span>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <div class="feature-mini">
+                            <i class="bi bi-file-earmark-text-fill"></i>
+                            <span>Examinations</span>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <div class="feature-mini">
+                            <i class="bi bi-bar-chart-fill"></i>
+                            <span>Analytics</span>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <div class="feature-mini">
+                            <i class="bi bi-robot"></i>
+                            <span>AI Insights</span>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- Right Side -->
+            <div class="col-lg-6">
+
+                <div class="dashboard-preview">
+
+                    <img
+                        src="{% static 'images/dashboard-preview.png' %}"
+                        class="img-fluid rounded-4 shadow-lg"
+                        alt="CampusIQ Dashboard"
+                    >
+
+                    <div class="preview-card card-1">
+                        <h6>Attendance</h6>
+                        <strong>96%</strong>
+                    </div>
+
+                    <div class="preview-card card-2">
+                        <h6>Students</h6>
+                        <strong>50,000+</strong>
+                    </div>
+
+                    <div class="preview-card card-3">
+                        <h6>Revenue</h6>
+                        <strong>₹12.4 Cr</strong>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- Solutions Section -->
+<section class="solutions-section py-5 bg-white">
+
+    <div class="container-fluid px-lg-5">
+
+        <div class="text-center mb-5">
+
+            <span class="badge bg-primary-subtle text-primary px-3 py-2">
+                Solutions
+            </span>
+
+            <h2 class="display-5 fw-bold mt-3">
+                Built For Every Educational Institution
+            </h2>
+
+            <p class="lead text-muted">
+                Whether you're managing a school, college,
+                university or coaching institute, CampusIQ adapts
+                to your workflow.
+            </p>
+
+        </div>
+
+        <div class="row g-4">
+
+            <div class="col-lg-4 col-md-6">
+                <div class="solution-card">
+                    <div class="solution-icon">
+                        <i class="bi bi-building"></i>
+                    </div>
+
+                    <h4>Schools</h4>
+
+                    <p>
+                        CBSE, ICSE and State Board schools
+                        with complete student lifecycle management.
+                    </p>
+
+                    <ul>
+                        <li>Admissions</li>
+                        <li>Attendance</li>
+                        <li>Report Cards</li>
+                        <li>Parent Portal</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="solution-card">
+                    <div class="solution-icon">
+                        <i class="bi bi-mortarboard"></i>
+                    </div>
+
+                    <h4>Colleges</h4>
+
+                    <p>
+                        Manage departments, faculty,
+                        academics and examinations.
+                    </p>
+
+                    <ul>
+                        <li>Course Management</li>
+                        <li>Faculty Management</li>
+                        <li>Internal Assessment</li>
+                        <li>Student Portal</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="solution-card">
+                    <div class="solution-icon">
+                        <i class="bi bi-bank"></i>
+                    </div>
+
+                    <h4>Universities</h4>
+
+                    <p>
+                        Centralized management across
+                        multiple campuses and departments.
+                    </p>
+
+                    <ul>
+                        <li>Multi Campus</li>
+                        <li>Research Management</li>
+                        <li>Academic Workflow</li>
+                        <li>Analytics</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="solution-card">
+                    <div class="solution-icon">
+                        <i class="bi bi-journal-bookmark"></i>
+                    </div>
+
+                    <h4>Coaching Institutes</h4>
+
+                    <p>
+                        Batch management,
+                        online learning and student progress.
+                    </p>
+
+                    <ul>
+                        <li>Batch Management</li>
+                        <li>Test Series</li>
+                        <li>Fee Tracking</li>
+                        <li>Performance Analysis</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="solution-card">
+                    <div class="solution-icon">
+                        <i class="bi bi-laptop"></i>
+                    </div>
+
+                    <h4>Training Centers</h4>
+
+                    <p>
+                        Skill development and certification
+                        management platform.
+                    </p>
+
+                    <ul>
+                        <li>Certification</li>
+                        <li>Online Courses</li>
+                        <li>Attendance</li>
+                        <li>Reports</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="solution-card featured-solution">
+
+                    <span class="popular-tag">
+                        MOST POPULAR
+                    </span>
+
+                    <div class="solution-icon">
+                        <i class="bi bi-cpu-fill"></i>
+                    </div>
+
+                    <h4>AI Campus</h4>
+
+                    <p>
+                        Next-generation institutions powered
+                        by AI insights and predictive analytics.
+                    </p>
+
+                    <ul>
+                        <li>AI Assistant</li>
+                        <li>Performance Prediction</li>
+                        <li>Automated Reports</li>
+                        <li>Smart Insights</li>
+                    </ul>
+
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- Role Based Experience -->
+<section class="role-section py-5 bg-light">
+
+    <div class="container-fluid px-lg-5">
+
+        <div class="text-center mb-5">
+
+            <span class="badge bg-primary-subtle text-primary px-3 py-2">
+                Role Based Experience
+            </span>
+
+            <h2 class="display-5 fw-bold mt-3">
+                Designed For Every User
+            </h2>
+
+            <p class="lead text-muted">
+                Personalized dashboards for administrators,
+                teachers, students and parents.
+            </p>
+
+        </div>
+
+        <ul class="nav nav-pills justify-content-center mb-5"
+            id="roleTab"
+            role="tablist">
+
+            <li class="nav-item">
+                <button class="nav-link active"
+                        data-bs-toggle="pill"
+                        data-bs-target="#principal">
+                    Principal
+                </button>
+            </li>
+
+            <li class="nav-item">
+                <button class="nav-link"
+                        data-bs-toggle="pill"
+                        data-bs-target="#teacher">
+                    Teacher
+                </button>
+            </li>
+
+            <li class="nav-item">
+                <button class="nav-link"
+                        data-bs-toggle="pill"
+                        data-bs-target="#student">
+                    Student
+                </button>
+            </li>
+
+            <li class="nav-item">
+                <button class="nav-link"
+                        data-bs-toggle="pill"
+                        data-bs-target="#parent">
+                    Parent
+                </button>
+            </li>
+
+        </ul>
+
+        <div class="tab-content">
+
+            <!-- Principal -->
+
+            <div class="tab-pane fade show active"
+                 id="principal">
+
+                <div class="row align-items-center">
+
+                    <div class="col-lg-6">
+
+                        <img
+                            src="{% static 'images/roles/principal-dashboard.png' %}"
+                            class="img-fluid rounded-4 shadow-lg"
+                            alt="Principal Dashboard"
+                        >
+
+                    </div>
+
+                    <div class="col-lg-6">
+
+                        <h3>Principal Dashboard</h3>
+
+                        <p class="text-muted">
+                            Complete visibility into school
+                            operations and performance.
+                        </p>
+
+                        <ul class="role-list">
+                            <li>School Performance Metrics</li>
+                            <li>Attendance Analytics</li>
+                            <li>Financial Reports</li>
+                            <li>Teacher Monitoring</li>
+                            <li>AI Insights</li>
+                        </ul>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- Teacher -->
+
+            <div class="tab-pane fade"
+                 id="teacher">
+
+                <div class="row align-items-center">
+
+                    <div class="col-lg-6">
+
+                        <img
+                            src="{% static 'images/roles/teacher-dashboard.png' %}"
+                            class="img-fluid rounded-4 shadow-lg"
+                            alt="Teacher Dashboard"
+                        >
+
+                    </div>
+
+                    <div class="col-lg-6">
+
+                        <h3>Teacher Dashboard</h3>
+
+                        <ul class="role-list">
+                            <li>Attendance Management</li>
+                            <li>Marks Entry</li>
+                            <li>Assignments</li>
+                            <li>Lesson Plans</li>
+                            <li>Student Progress Tracking</li>
+                        </ul>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- Student -->
+
+            <div class="tab-pane fade"
+                 id="student">
+
+                <div class="row align-items-center">
+
+                    <div class="col-lg-6">
+
+                        <img
+                            src="{% static 'images/roles/student-dashboard.png' %}"
+                            class="img-fluid rounded-4 shadow-lg"
+                            alt="Student Dashboard"
+                        >
+
+                    </div>
+
+                    <div class="col-lg-6">
+
+                        <h3>Student Portal</h3>
+
+                        <ul class="role-list">
+                            <li>Attendance Records</li>
+                            <li>Exam Results</li>
+                            <li>Assignments</li>
+                            <li>Timetable</li>
+                            <li>AI Study Assistant</li>
+                        </ul>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- Parent -->
+
+            <div class="tab-pane fade"
+                 id="parent">
+
+                <div class="row align-items-center">
+
+                    <div class="col-lg-6">
+
+                        <img
+                            src="{% static 'images/roles/parent-dashboard.png' %}"
+                            class="img-fluid rounded-4 shadow-lg"
+                            alt="Parent Dashboard"
+                        >
+
+                    </div>
+
+                    <div class="col-lg-6">
+
+                        <h3>Parent Portal</h3>
+
+                        <ul class="role-list">
+                            <li>Attendance Monitoring</li>
+                            <li>Fee Payments</li>
+                            <li>Exam Reports</li>
+                            <li>Teacher Communication</li>
+                            <li>Notifications</li>
+                        </ul>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- Testimonials -->
+<section class="testimonials-section py-5">
+
+    <div class="container-fluid px-lg-5">
+
+        <div class="text-center mb-5">
+
+            <span class="badge bg-primary-subtle text-primary px-3 py-2">
+                Testimonials
+            </span>
+
+            <h2 class="display-5 fw-bold mt-3">
+                Trusted By Educational Institutions
+            </h2>
+
+            <p class="lead text-muted">
+                See how schools and colleges are transforming
+                operations with CampusIQ™.
+            </p>
+
+        </div>
+
+        <div class="row g-4">
+
+            <div class="col-lg-4">
+
+                <div class="testimonial-card">
+
+                    <div class="rating">
+                        ★★★★★
+                    </div>
+
+                    <p class="testimonial-text">
+                        CampusIQ reduced our administrative
+                        workload by nearly 60%.
+                        Attendance, examinations and fees
+                        are now completely digitized.
+                    </p>
+
+                    <div class="testimonial-user">
+
+                        <img
+                            src="{% static 'images/testimonials/director-1.jpg' %}"
+                            alt="Principal"
+                        >
+
+                        <div>
+                            <h6>Dr. Rajesh Sharma</h6>
+                            <small>
+                                Principal, Delhi Public School
+                            </small>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-4">
+
+                <div class="testimonial-card">
+
+                    <div class="rating">
+                        ★★★★★
+                    </div>
+
+                    <p class="testimonial-text">
+                        The parent portal and attendance
+                        system have significantly improved
+                        communication with families.
+                    </p>
+
+                    <div class="testimonial-user">
+
+                        <img
+                            src="{% static 'images/testimonials/director-1.jpg' %}"
+                            alt="Administrator"
+                        >
+
+                        <div>
+                            <h6>Anita Verma</h6>
+                            <small>
+                                School Administrator
+                            </small>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-4">
+
+                <div class="testimonial-card">
+
+                    <div class="rating">
+                        ★★★★★
+                    </div>
+
+                    <p class="testimonial-text">
+                        Academic reporting that used to
+                        take days now takes minutes.
+                        The analytics are exceptional.
+                    </p>
+
+                    <div class="testimonial-user">
+
+                        <img
+                            src="{% static 'images/testimonials/director-1.jpg' %}"
+                            alt="Director"
+                        >
+
+                        <div>
+                            <h6>Prof. Sunita Gupta</h6>
+                            <small>
+                                Academic Director
+                            </small>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- Features -->
+<section id="features" class="py-5 bg-light">
+    <div class="container-fluid px-lg-5">
+        <div class="text-center mb-5">
+            <h2 class="fw-bold display-6">
+                Powerful School Management <span class="text-primary">Modules</span>
+            </h2>
+            <p class="text-muted lead">
+                Everything needed to run a modern educational institution.
+            </p>
+        </div>
+        <div class="row g-4">
+            <!-- Card 1 -->
+            <div class="col-lg-3 col-md-6">
+                <div class="card border-0 shadow-sm h-100 feature-card transition-all">
+                    <div class="card-body p-4">
+                        <div class="bg-primary bg-opacity-10 rounded-3 p-3 d-inline-block mb-3">
+                            <i class="bi bi-person-plus fs-3 text-primary"></i>
+                        </div>
+                        <h5 class="fw-bold">Admissions</h5>
+                        <p class="text-muted mb-0">Student registration and onboarding.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Card 2 -->
+            <div class="col-lg-3 col-md-6">
+                <div class="card border-0 shadow-sm h-100 feature-card transition-all">
+                    <div class="card-body p-4">
+                        <div class="bg-primary bg-opacity-10 rounded-3 p-3 d-inline-block mb-3">
+                            <i class="bi bi-calendar-check fs-3 text-primary"></i>
+                        </div>
+                        <h5 class="fw-bold">Attendance</h5>
+                        <p class="text-muted mb-0">Daily attendance and analytics.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Card 3 -->
+            <div class="col-lg-3 col-md-6">
+                <div class="card border-0 shadow-sm h-100 feature-card transition-all">
+                    <div class="card-body p-4">
+                        <div class="bg-primary bg-opacity-10 rounded-3 p-3 d-inline-block mb-3">
+                            <i class="bi bi-file-earmark-text fs-3 text-primary"></i>
+                        </div>
+                        <h5 class="fw-bold">Examinations</h5>
+                        <p class="text-muted mb-0">Marks, grading and report cards.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Card 4 -->
+            <div class="col-lg-3 col-md-6">
+                <div class="card border-0 shadow-sm h-100 feature-card transition-all">
+                    <div class="card-body p-4">
+                        <div class="bg-primary bg-opacity-10 rounded-3 p-3 d-inline-block mb-3">
+                            <i class="bi bi-credit-card fs-3 text-primary"></i>
+                        </div>
+                        <h5 class="fw-bold">Fee Management</h5>
+                        <p class="text-muted mb-0">Collections, dues and reporting.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- AI Section -->
+<section class="py-5 bg-dark text-white">
+    <div class="container-fluid px-lg-5">
+        <div class="text-center mb-5">
+            <h2 class="fw-bold display-6">
+                CampusIQ <span class="text-primary">AI</span>
+            </h2>
+            <p class="lead text-white-50">
+                Intelligent insights powered by AI.
+            </p>
+        </div>
+        <div class="row g-4 justify-content-center">
+            <div class="col-lg-4 col-md-6">
+                <div class="p-4 border border-secondary rounded-4 bg-dark bg-opacity-25 h-100 text-center transition-all hover-glow">
+                    <i class="bi bi-bar-chart-line fs-1 text-primary mb-3 d-block"></i>
+                    <h5 class="fw-semibold mb-0">AI Attendance Insights</h5>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="p-4 border border-secondary rounded-4 bg-dark bg-opacity-25 h-100 text-center transition-all hover-glow">
+                    <i class="bi bi-graph-up-arrow fs-1 text-primary mb-3 d-block"></i>
+                    <h5 class="fw-semibold mb-0">Student Performance Prediction</h5>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="p-4 border border-secondary rounded-4 bg-dark bg-opacity-25 h-100 text-center transition-all hover-glow">
+                    <i class="bi bi-robot fs-1 text-primary mb-3 d-block"></i>
+                    <h5 class="fw-semibold mb-0">Automated Academic Reports</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- Pricing Plans -->
+<section class="pricing-section py-5" id="pricing">
+
+    <div class="container-fluid px-lg-5">
+
+        <div class="text-center mb-5">
+
+            <span class="badge bg-primary-subtle text-primary px-3 py-2">
+                Pricing Plans
+            </span>
+
+            <h2 class="display-5 fw-bold mt-3">
+                Flexible Plans For Every Institution
+            </h2>
+
+            <p class="lead text-muted">
+                Start small and scale as your institution grows.
+            </p>
+
+        </div>
+
+        <div class="row g-4">
+
+            <!-- Starter -->
+
+            <div class="col-lg-4">
+
+                <div class="pricing-card">
+
+                    <h4>Starter</h4>
+
+                    <p class="text-muted">
+                        Small Schools
+                    </p>
+
+                    <div class="price">
+                        ₹4,999
+                        <small>/month</small>
+                    </div>
+
+                    <ul class="pricing-features">
+
+                        <li>Student Management</li>
+                        <li>Attendance</li>
+                        <li>Examinations</li>
+                        <li>Fee Management</li>
+                        <li>Email Support</li>
+
+                    </ul>
+
+                    <a href="#contact"
+                       class="btn btn-outline-primary w-100">
+                        Book Demo
+                    </a>
+
+                </div>
+
+            </div>
+
+            <!-- Professional -->
+
+            <div class="col-lg-4">
+
+                <div class="pricing-card featured-plan">
+
+                    <span class="featured-badge">
+                        MOST POPULAR
+                    </span>
+
+                    <h4>Professional</h4>
+
+                    <p class="text-muted">
+                        Growing Institutions
+                    </p>
+
+                    <div class="price">
+                        ₹9,999
+                        <small>/month</small>
+                    </div>
+
+                    <ul class="pricing-features">
+
+                        <li>Everything in Starter</li>
+                        <li>Parent Portal</li>
+                        <li>Transport Module</li>
+                        <li>Mobile App</li>
+                        <li>Advanced Analytics</li>
+                        <li>Priority Support</li>
+
+                    </ul>
+
+                    <a href="#contact"
+                       class="btn btn-primary w-100">
+                        Request Demo
+                    </a>
+
+                </div>
+
+            </div>
+
+            <!-- Enterprise -->
+
+            <div class="col-lg-4">
+
+                <div class="pricing-card">
+
+                    <h4>Enterprise</h4>
+
+                    <p class="text-muted">
+                        Universities & Multi Campus
+                    </p>
+
+                    <div class="price">
+                        Custom
+                    </div>
+
+                    <ul class="pricing-features">
+
+                        <li>Unlimited Students</li>
+                        <li>Multi Campus Support</li>
+                        <li>AI Insights</li>
+                        <li>Custom Integrations</li>
+                        <li>Dedicated Manager</li>
+                        <li>24x7 Support</li>
+
+                    </ul>
+
+                    <a href="#contact"
+                       class="btn btn-outline-dark w-100">
+                        Contact Sales
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- Final CTA -->
+<section class="final-cta-section position-relative overflow-hidden">
+
+    <div class="cta-glow cta-glow-1"></div>
+    <div class="cta-glow cta-glow-2"></div>
+
+    <div class="container-fluid px-lg-5 position-relative">
+
+        <div class="row justify-content-center">
+
+            <div class="col-xl-10">
+
+                <div class="cta-card text-center">
+
+                    <span class="cta-badge">
+                        🚀 Transform Education With AI
+                    </span>
+
+                    <h2 class="cta-title mt-4">
+                        Ready To Modernize
+                        Your Institution?
+                    </h2>
+
+                    <p class="cta-description">
+                        Join schools, colleges, universities and training
+                        centers using CampusIQ™ to streamline operations,
+                        improve engagement and unlock AI-powered insights.
+                    </p>
+
+                    <div class="d-flex flex-wrap justify-content-center gap-3 mt-5">
+
+                        <a href="#contact"
+                           class="btn btn-light btn-lg px-5 py-3 rounded-pill">
+
+                            Schedule Demo
+
+                        </a>
+
+                        <a href="#contact"
+                           class="btn btn-outline-light btn-lg px-5 py-3 rounded-pill">
+
+                            Contact Sales
+
+                        </a>
+
+                    </div>
+
+                    <div class="row mt-5 g-4">
+
+                        <div class="col-md-3 col-6">
+
+                            <div class="cta-stat">
+
+                                <h3>500+</h3>
+
+                                <span>
+                                    Institutions
+                                </span>
+
+                            </div>
+
+                        </div>
+
+                        <div class="col-md-3 col-6">
+
+                            <div class="cta-stat">
+
+                                <h3>50K+</h3>
+
+                                <span>
+                                    Students
+                                </span>
+
+                            </div>
+
+                        </div>
+
+                        <div class="col-md-3 col-6">
+
+                            <div class="cta-stat">
+
+                                <h3>5K+</h3>
+
+                                <span>
+                                    Teachers
+                                </span>
+
+                            </div>
+
+                        </div>
+
+                        <div class="col-md-3 col-6">
+
+                            <div class="cta-stat">
+
+                                <h3>99.9%</h3>
+
+                                <span>
+                                    Uptime
+                                </span>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- AI Features -->
+<section class="ai-section py-5" id="ai">
+
+    <div class="container-fluid px-lg-5">
+
+        <div class="text-center mb-5">
+
+            <span class="badge bg-warning text-dark px-3 py-2">
+                🤖 AI Powered Campus
+            </span>
+
+            <h2 class="display-4 fw-bold mt-3">
+                Artificial Intelligence For
+                Modern Education
+            </h2>
+
+            <p class="lead text-muted">
+                Empower administrators, teachers,
+                students and parents with intelligent
+                insights and automation.
+            </p>
+
+        </div>
+
+        <div class="row g-4">
+
+            <div class="col-lg-4">
+
+                <div class="ai-card">
+
+                    <div class="ai-icon">
+                        <i class="bi bi-robot"></i>
+                    </div>
+
+                    <h4>AI Academic Assistant</h4>
+
+                    <p>
+                        Instant answers to academic,
+                        administrative and policy queries.
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-4">
+
+                <div class="ai-card">
+
+                    <div class="ai-icon">
+                        <i class="bi bi-graph-up-arrow"></i>
+                    </div>
+
+                    <h4>Performance Prediction</h4>
+
+                    <p>
+                        Identify students requiring
+                        attention before results decline.
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-4">
+
+                <div class="ai-card">
+
+                    <div class="ai-icon">
+                        <i class="bi bi-bar-chart-line-fill"></i>
+                    </div>
+
+                    <h4>Attendance Intelligence</h4>
+
+                    <p>
+                        Detect attendance trends,
+                        risks and anomalies automatically.
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-4">
+
+                <div class="ai-card">
+
+                    <div class="ai-icon">
+                        <i class="bi bi-file-earmark-text"></i>
+                    </div>
+
+                    <h4>Automated Reports</h4>
+
+                    <p>
+                        Generate academic and administrative
+                        reports in seconds.
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-4">
+
+                <div class="ai-card">
+
+                    <div class="ai-icon">
+                        <i class="bi bi-chat-dots-fill"></i>
+                    </div>
+
+                    <h4>AI Parent Communication</h4>
+
+                    <p>
+                        Automatically generate personalized
+                        student progress updates.
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-4">
+
+                <div class="ai-card">
+
+                    <div class="ai-icon">
+                        <i class="bi bi-lightbulb-fill"></i>
+                    </div>
+
+                    <h4>Smart Recommendations</h4>
+
+                    <p>
+                        Actionable recommendations
+                        for teachers and administrators.
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- FAQ Section -->
+<section class="faq-section py-5" id="faq">
+
+    <div class="container-fluid px-lg-5">
+
+        <div class="text-center mb-5">
+
+            <span class="badge bg-primary-subtle text-primary px-3 py-2">
+                Frequently Asked Questions
+            </span>
+
+            <h2 class="display-5 fw-bold mt-3">
+                Everything You Need To Know
+            </h2>
+
+            <p class="lead text-muted">
+                Answers to the most common questions
+                about CampusIQ™.
+            </p>
+
+        </div>
+
+        <div class="row justify-content-center">
+
+            <div class="col-lg-8">
+
+                <div class="accordion"
+                     id="faqAccordion">
+
+                    <!-- FAQ 1 -->
+
+                    <div class="accordion-item">
+
+                        <h2 class="accordion-header">
+
+                            <button
+                                class="accordion-button"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#faq1">
+
+                                What is CampusIQ™?
+
+                            </button>
+
+                        </h2>
+
+                        <div id="faq1"
+                             class="accordion-collapse collapse show"
+                             data-bs-parent="#faqAccordion">
+
+                            <div class="accordion-body">
+
+                                CampusIQ™ is an AI-powered
+                                School ERP platform that helps
+                                schools, colleges and universities
+                                manage academics, administration,
+                                finance and communication.
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <!-- FAQ 2 -->
+
+                    <div class="accordion-item">
+
+                        <h2 class="accordion-header">
+
+                            <button
+                                class="accordion-button collapsed"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#faq2">
+
+                                Does CampusIQ support CBSE,
+                                ICSE and State Boards?
+
+                            </button>
+
+                        </h2>
+
+                        <div id="faq2"
+                             class="accordion-collapse collapse"
+                             data-bs-parent="#faqAccordion">
+
+                            <div class="accordion-body">
+
+                                Yes. CampusIQ supports
+                                CBSE, ICSE, State Boards,
+                                Colleges and Universities.
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <!-- FAQ 3 -->
+
+                    <div class="accordion-item">
+
+                        <h2 class="accordion-header">
+
+                            <button
+                                class="accordion-button collapsed"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#faq3">
+
+                                Is there a mobile app?
+
+                            </button>
+
+                        </h2>
+
+                        <div id="faq3"
+                             class="accordion-collapse collapse"
+                             data-bs-parent="#faqAccordion">
+
+                            <div class="accordion-body">
+
+                                Yes. Dedicated mobile apps
+                                are available for administrators,
+                                teachers, students and parents.
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <!-- FAQ 4 -->
+
+                    <div class="accordion-item">
+
+                        <h2 class="accordion-header">
+
+                            <button
+                                class="accordion-button collapsed"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#faq4">
+
+                                How secure is CampusIQ?
+
+                            </button>
+
+                        </h2>
+
+                        <div id="faq4"
+                             class="accordion-collapse collapse"
+                             data-bs-parent="#faqAccordion">
+
+                            <div class="accordion-body">
+
+                                CampusIQ uses enterprise-grade
+                                security, encrypted communication,
+                                role-based access control and
+                                secure cloud infrastructure.
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <!-- FAQ 5 -->
+
+                    <div class="accordion-item">
+
+                        <h2 class="accordion-header">
+
+                            <button
+                                class="accordion-button collapsed"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#faq5">
+
+                                Can CampusIQ integrate with
+                                existing software?
+
+                            </button>
+
+                        </h2>
+
+                        <div id="faq5"
+                             class="accordion-collapse collapse"
+                             data-bs-parent="#faqAccordion">
+
+                            <div class="accordion-body">
+
+                                Yes. CampusIQ provides APIs
+                                and integration support for
+                                accounting, biometric devices,
+                                payment gateways and third-party
+                                systems.
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <!-- FAQ 6 -->
+
+                    <div class="accordion-item">
+
+                        <h2 class="accordion-header">
+
+                            <button
+                                class="accordion-button collapsed"
+                                type="button"
+                                data-bs-toggle="collapse"
+                                data-bs-target="#faq6">
+
+                                How long does implementation take?
+
+                            </button>
+
+                        </h2>
+
+                        <div id="faq6"
+                             class="accordion-collapse collapse"
+                             data-bs-parent="#faqAccordion">
+
+                            <div class="accordion-body">
+
+                                Typical implementation takes
+                                between 1 and 4 weeks depending
+                                on institution size and data
+                                migration requirements.
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section class="trust-bar py-4">
+
+    <div class="container-fluid px-lg-5">
+
+        <div class="row text-center">
+
+            <div class="col-md-3">
+                <i class="bi bi-shield-lock"></i>
+                Secure Cloud Infrastructure
+            </div>
+
+            <div class="col-md-3">
+                <i class="bi bi-database-check"></i>
+                Daily Backups
+            </div>
+
+            <div class="col-md-3">
+                <i class="bi bi-headset"></i>
+                Dedicated Support
+            </div>
+
+            <div class="col-md-3">
+                <i class="bi bi-graph-up-arrow"></i>
+                Scalable Architecture
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- Add Bootstrap Icons (if not already included in base) -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+<!-- Optional custom style for transitions (can also be placed in home.css) -->
+<style>
+    .transition-all {
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .feature-card:hover {
+        transform: translateY(-6px);
+        box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.1) !important;
+    }
+    .hover-glow:hover {
+        background-color: rgba(13, 110, 253, 0.1) !important;
+        border-color: #0d6efd !important;
+        transform: scale(1.02);
+    }
+    .hover-glow {
+        transition: all 0.25s ease;
+    }
+    .bg-dark .hover-glow:hover {
+        background-color: rgba(13, 110, 253, 0.15) !important;
+    }
+    /* better display for dark section icons */
+    .bg-dark .hover-glow i {
+        color: #6ea8fe !important;
+    }
+</style>
+
+{% endblock %}
