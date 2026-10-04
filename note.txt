@@ -1,3 +1,106 @@
+Multi-Tenant SaaS Architecture: High-Level Architecture
+-----------------------------------------------------------
+CampusIQ Database (SUPER_ADMIN)
+│
+├── Delhi Public School
+│   ├── Admin
+│   ├── Teachers
+│   ├── Students
+│   └── Data
+│
+├── Modern School
+│   ├── Admin
+│   ├── Teachers
+│   ├── Students
+│   └── Data
+│
+└── ABC Engineering College
+    ├── Admin
+    ├── Faculty
+    ├── Students
+    └── Data
+
+
+After School and User are complete, we can implement School Admin Login + Role-Based Access 
+Control (RBAC) so each school can manage its own users and permissions securely.
+
+1. Platform Users (NavTaksh Team)
+2. Institution Users
+
+
+
+Recommended CampusIQ Hierarchy
+============================================================
+PLATFORM
+├── SUPER_ADMIN
+├── PLATFORM_ADMIN
+├── SALES_MANAGER
+├── SUPPORT_ADMIN
+├── IMPLEMENTATION_MANAGER
+├── FINANCE_ADMIN
+└── AUDITOR
+
+INSTITUTION
+├── SCHOOL_ADMIN
+├── PRINCIPAL
+├── VICE_PRINCIPAL
+├── ACADEMIC_COORDINATOR
+├── EXAM_CONTROLLER
+├── DEPARTMENT_HEAD
+├── TEACHER
+├── COUNSELOR
+├── ACCOUNTANT
+├── LIBRARIAN
+├── TRANSPORT_MANAGER
+├── HOSTEL_WARDEN
+├── HR_MANAGER
+├── RECEPTIONIST
+├── SECURITY_OFFICER
+├── IT_ADMIN
+├── STUDENT
+├── PARENT
+└── ALUMNI
+
+This structure is scalable for schools, colleges, universities, coaching institutes, and future CampusIQ modules.
+
+
+
+
+
+CampusIQ RBAC (Role-Based Access Control) Flow
+---------------------------------
+User
+  │
+  ▼
+UserRole
+  │
+  ▼
+Role
+  │
+  ▼
+RolePermission
+  │
+  ▼
+Permission
+
+Example:
+dpsadmin
+    │
+    ▼
+SCHOOL_ADMIN
+    │
+    ├── USER_CREATE
+    ├── USER_UPDATE
+    ├── STUDENT_CREATE
+    ├── STUDENT_UPDATE
+    ├── TEACHER_CREATE
+    └── FEE_VIEW
+
+
+
+
+All institutions share the same database, but users only see data belonging to their institution.
+
 1. Organization Structure
 2. Authentication & Roles
 3. Academic Master Data
@@ -183,5 +286,206 @@ CRM Dashboard
 ├── Conversion Rate
 ├── Revenue Pipeline
 └── Lead Source Analytics
+
+CRM
+├── Contact Inquiry
+├── Demo Request
+├── Newsletter Subscription
+├── Lead
+├── Lead Activity
+├── Follow Up
+├── Sales Pipeline
+└── Customer
+
+
+
+
+Apps That Should Use Single models.py
+-------------------------------------------------
+1. accounts
+User
+Role
+Permission
+UserRole
+
+2. school
+School
+SchoolBoard
+SchoolBranch
+SchoolDocument
+
+3. board
+Board
+
+Examples:
+CBSE
+ICSE
+IB
+IGCSE
+HBSE
+UP Board
+
+4. academic_session
+AcademicSession
+
+5. subject
+Subject
+
+Examples:
+English
+Mathematics
+Physics
+Chemistry
+Computer Science
+
+6. class
+Class
+Section
+
+Example:
+Class 10
+Section A
+
+7. contact
+ContactInquiry
+DemoRequest
+NewsletterSubscription
+
+8. lead
+Lead
+LeadActivity
+FollowUp
+
+9. website
+Banner
+Page
+FAQ
+Testimonial
+Blog
+
+10. notification
+Notification
+NotificationTemplate
+
+
+
+Apps That Should Be Split Later
+These modules eventually become large.
+student
+Student
+StudentDocument
+StudentGuardian
+StudentAddress
+StudentMedicalInfo
+StudentAcademicHistory
+StudentTransfer
+
+teacher
+Teacher
+TeacherQualification
+TeacherExperience
+TeacherDocument
+TeacherAttendance
+TeacherLeave
+
+attendance
+StudentAttendance
+TeacherAttendance
+AttendanceRule
+AttendanceSummary
+
+examination
+Exam
+ExamSchedule
+ExamRoom
+MarkEntry
+Grade
+Result
+ResultPublish
+
+fee
+FeeCategory
+FeeStructure
+FeeInstallment
+FeeCollection
+FeeDiscount
+FeeFine
+FeeReceipt
+
+transport
+Vehicle
+Driver
+Route
+Stop
+StudentTransport
+TransportAttendance
+
+library
+Book
+BookCategory
+BookAuthor
+BookIssue
+BookReturn
+LibraryFine
+
+hostel
+Hostel
+Room
+Bed
+StudentHostelAllocation
+HostelFee
+
+hrms
+Department
+Designation
+Employee
+Payroll
+SalaryStructure
+LeaveApplication
+LeaveBalance
+
+
+Example Permissions
+=========================================================
+User Management
+-------------------------
+USER_VIEW
+USER_CREATE
+USER_UPDATE
+USER_DELETE
+
+Student Module
+------------------------
+STUDENT_VIEW
+STUDENT_CREATE
+STUDENT_UPDATE
+STUDENT_DELETE
+
+Teacher Module
+---------------------------
+TEACHER_VIEW
+TEACHER_CREATE
+TEACHER_UPDATE
+TEACHER_DELETE
+
+Attendance
+--------------------------
+ATTENDANCE_VIEW
+ATTENDANCE_MARK
+ATTENDANCE_UPDATE
+
+Examination
+------------------------
+EXAM_VIEW
+EXAM_CREATE
+EXAM_UPDATE
+EXAM_PUBLISH
+
+Fees
+--------------------------
+FEE_VIEW
+FEE_COLLECT
+FEE_REFUND
+FEE_REPORT
 
 

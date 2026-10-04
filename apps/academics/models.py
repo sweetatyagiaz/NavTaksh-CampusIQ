@@ -2,75 +2,253 @@ from django.db import models
 
 from apps.core.models import BaseModel
 
-# class AcademicYear(models.Model):
-#     """
-#     Academic Year Master
+class AcademicYear(models.Model):
 
-#     Example:
-
-#     Start Date : 2026-04-01
-#     End Date   : 2027-03-31
-
-#     Display    : 2026-2027
-#     """
-
-#     start_date = models.DateField(
-#         unique=True
-#     )
-
-#     end_date = models.DateField(
-#         unique=True
-#     )
-
-#     is_active = models.BooleanField(
-#         default=True
-#     )
-
-#     created_at = models.DateTimeField(
-#         auto_now_add=True
-#     )
-
-#     updated_at = models.DateTimeField(
-#         auto_now=True
-#     )
-
-#     class Meta:
-#         db_table = "academic_year"
-#         ordering = ["-start_date"]
-#         verbose_name = "Academic Year"
-#         verbose_name_plural = "Academic Years"
-
-#     @property
-#     def name(self):
-#         return f"{self.start_date.year}-{self.end_date.year}"
-
-#     def __str__(self):
-#         return self.name
-
-class Subject(BaseModel):
+    school = models.ForeignKey(
+        "organizations.School",
+        on_delete=models.CASCADE,
+        related_name="academic_years"
+    )
 
     code = models.CharField(
-        max_length=20,
-        unique=True
+        max_length=20
     )
 
     name = models.CharField(
-        max_length=255,
-        unique=True
+        max_length=100
+    )
+
+    start_date = models.DateField()
+
+    end_date = models.DateField()
+
+    is_current = models.BooleanField(
+        default=False
+    )
+
+    is_active = models.BooleanField(
+        default=True
+    )
+
+    created_at = models.DateTimeField(
+        auto_now_add=True
+    )
+
+    class Meta:
+
+        db_table = "academic_year"
+
+        unique_together = (
+            "school",
+            "code"
+        )
+
+        ordering = [
+            "-start_date"
+        ]
+
+    def __str__(self):
+        return f"{self.school.name} - {self.name}"
+
+
+class Class(models.Model):
+
+    school = models.ForeignKey(
+        "organizations.School",
+        on_delete=models.CASCADE,
+        related_name="classes"
+    )
+
+    academic_year = models.ForeignKey(
+        "academics.AcademicYear",
+        on_delete=models.CASCADE,
+        related_name="classes"
+    )
+
+    code = models.CharField(
+        max_length=20
+    )
+
+    name = models.CharField(
+        max_length=100
     )
 
     description = models.TextField(
         blank=True
     )
 
-    class Meta:
-        db_table = "subject"
+    display_order = models.PositiveIntegerField(
+        default=1
+    )
 
-    def get_slug_source(self):
-        return self.name
+    is_active = models.BooleanField(
+        default=True
+    )
+
+    created_at = models.DateTimeField(
+        auto_now_add=True
+    )
+
+    class Meta:
+
+        db_table = "class"
+
+        unique_together = (
+            "school",
+            "academic_year",
+            "code"
+        )
+
+        ordering = [
+            "display_order",
+            "name"
+        ]
 
     def __str__(self):
         return self.name
+
+
+class Section(models.Model):
+
+    school = models.ForeignKey(
+        "organizations.School",
+        on_delete=models.CASCADE
+    )
+
+    academic_year = models.ForeignKey(
+        "academics.AcademicYear",
+        on_delete=models.CASCADE
+    )
+
+    classroom = models.ForeignKey(
+        "academics.Class",
+        on_delete=models.CASCADE,
+        related_name="sections"
+    )
+
+    code = models.CharField(
+        max_length=20
+    )
+
+    name = models.CharField(
+        max_length=50
+    )
+
+    capacity = models.PositiveIntegerField(
+        default=50
+    )
+
+    is_active = models.BooleanField(
+        default=True
+    )
+
+    class Meta:
+
+        db_table = "section"
+
+        unique_together = (
+            "classroom",
+            "code"
+        )
+
+    def __str__(self):
+        return f"{self.classroom.name} - {self.name}"
+
+
+class Subject(models.Model):
+
+    school = models.ForeignKey(
+        "organizations.School",
+        on_delete=models.CASCADE,
+        related_name="subjects"
+    )
+
+    code = models.CharField(
+        max_length=20
+    )
+
+    name = models.CharField(
+        max_length=255
+    )
+
+    description = models.TextField(
+        blank=True
+    )
+
+    is_optional = models.BooleanField(
+        default=False
+    )
+
+    is_active = models.BooleanField(
+        default=True
+    )
+
+    created_at = models.DateTimeField(
+        auto_now_add=True
+    )
+
+    class Meta:
+
+        db_table = "subject"
+
+        unique_together = (
+            "school",
+            "code"
+        )
+
+        ordering = [
+            "name"
+        ]
+
+    def __str__(self):
+        return self.name
+
+
+class ClassSubject(models.Model):
+
+    school = models.ForeignKey(
+        "organizations.School",
+        on_delete=models.CASCADE
+    )
+
+    academic_year = models.ForeignKey(
+        "academics.AcademicYear",
+        on_delete=models.CASCADE
+    )
+
+    classroom = models.ForeignKey(
+        "academics.Class",
+        on_delete=models.CASCADE,
+        related_name="class_subjects"
+    )
+
+    subject = models.ForeignKey(
+        "academics.Subject",
+        on_delete=models.CASCADE,
+        related_name="subject_classes"
+    )
+
+    is_optional = models.BooleanField(
+        default=False
+    )
+
+    is_active = models.BooleanField(
+        default=True
+    )
+
+    class Meta:
+
+        db_table = "class_subject"
+
+        unique_together = (
+            "classroom",
+            "subject"
+        )
+
+    def __str__(self):
+        return f"{self.classroom.name} - {self.subject.name}"
+
+
 
 # class TeacherSubject(BaseModel):
 

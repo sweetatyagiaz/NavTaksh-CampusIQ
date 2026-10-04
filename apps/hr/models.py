@@ -190,55 +190,55 @@ class Resignation(BaseModel):
         )
 
 
-class TeacherSubject(BaseModel):
+# class TeacherSubject(BaseModel):
 
-    employment = models.ForeignKey(
-        "hr.Employment",
-        on_delete=models.CASCADE,
-        related_name="subjects"
-    )
+#     employment = models.ForeignKey(
+#         "hr.Employment",
+#         on_delete=models.CASCADE,
+#         related_name="subjects"
+#     )
 
-    subject = models.ForeignKey(
-        "academics.Subject",
-        on_delete=models.PROTECT,
-        related_name="teachers"
-    )
+#     subject = models.ForeignKey(
+#         "academics.Subject",
+#         on_delete=models.PROTECT,
+#         related_name="teachers"
+#     )
 
-    is_primary = models.BooleanField(
-        default=False,
-        help_text="Primary subject of the teacher"
-    )
+#     is_primary = models.BooleanField(
+#         default=False,
+#         help_text="Primary subject of the teacher"
+#     )
 
-    remarks = models.TextField(
-        blank=True
-    )
+#     remarks = models.TextField(
+#         blank=True
+#     )
 
-    class Meta:
-        db_table = "teacher_subject"
+#     class Meta:
+#         db_table = "teacher_subject"
 
-        ordering = [
-            "employment",
-            "subject"
-        ]
+#         ordering = [
+#             "employment",
+#             "subject"
+#         ]
 
-        constraints = [
-            models.UniqueConstraint(
-                fields=[
-                    "employment",
-                    "subject"
-                ],
-                name="uq_teacher_subject"
-            )
-        ]
+#         constraints = [
+#             models.UniqueConstraint(
+#                 fields=[
+#                     "employment",
+#                     "subject"
+#                 ],
+#                 name="uq_teacher_subject"
+#             )
+#         ]
 
-    def get_slug_source(self):
-        return (
-            f"{self.employment_id}-"
-            f"{self.subject_id}"
-        )
+#     def get_slug_source(self):
+#         return (
+#             f"{self.employment_id}-"
+#             f"{self.subject_id}"
+#         )
 
-    def __str__(self):
-        return (
-            f"{self.employment} - "
-            f"{self.subject}"
-        )
+#     def __str__(self):
+#         return (
+#             f"{self.employment} - "
+#             f"{self.subject}"
+#         )

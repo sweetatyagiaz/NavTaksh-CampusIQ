@@ -1,0 +1,26 @@
+code,name,short_name,registration_number,affiliation_number,udise_code,gst_number,latitude,longitude,email,phone,address_line_1,city,state,country,postal_code,website,primary_color,secondary_color,academic_session_start_month,is_active
+SCH001,Delhi Public School Faridabad,DPSF,REG1001,AFF5001,061900000001,,,,info1@school.edu.in,9886641168,Sector 7,Faridabad,Haryana,India,698700,https://www.school1.edu.in,#1E88E5,#43A047,4,1
+SCH002,Ryan International School,RIS,REG1002,AFF5002,061900000002,,,,info2@school.edu.in,9861257975,Sector 95,Faridabad,Haryana,India,264762,https://www.school2.edu.in,#1E88E5,#43A047,4,1
+SCH003,St Xavier School,SXS,REG1003,AFF5003,061900000003,,,,info3@school.edu.in,9857537186,Sector 3,Faridabad,Haryana,India,962115,https://www.school3.edu.in,#1E88E5,#43A047,4,1
+SCH004,Modern Public School,MPS,REG1004,AFF5004,061900000004,,,,info4@school.edu.in,9842851939,Sector 9,Delhi,Delhi,India,431157,https://www.school4.edu.in,#1E88E5,#43A047,4,1
+SCH005,Spring Dale School,SDS,REG1005,AFF5005,061900000005,,,,info5@school.edu.in,9866367445,Sector 91,Delhi,Delhi,India,596680,https://www.school5.edu.in,#1E88E5,#43A047,4,1
+SCH006,Blue Bells School,BBS,REG1006,AFF5006,061900000006,,,,info6@school.edu.in,9850813400,Sector 97,Gurugram,Haryana,India,411527,https://www.school6.edu.in,#1E88E5,#43A047,4,1
+SCH007,Amity International School,AIS,REG1007,AFF5007,061900000007,,,,info7@school.edu.in,9822378557,Sector 23,Noida,Uttar Pradesh,India,687257,https://www.school7.edu.in,#1E88E5,#43A047,4,1
+SCH008,Bal Bharati Public School,BBPS,REG1008,AFF5008,061900000008,,,,info8@school.edu.in,9874315851,Sector 37,Delhi,Delhi,India,613669,https://www.school8.edu.in,#1E88E5,#43A047,4,1
+SCH009,DAV Public School,DAVPS,REG1009,AFF5009,061900000009,,,,info9@school.edu.in,9865854847,Sector 7,Faridabad,Haryana,India,524972,https://www.school9.edu.in,#1E88E5,#43A047,4,1
+SCH010,Army Public School,APS,REG1010,AFF5010,061900000010,,,,info10@school.edu.in,9824211607,Sector 59,Delhi,Delhi,India,298286,https://www.school10.edu.in,#1E88E5,#43A047,4,1
+SCH011,Tagore International School,TIS,REG1011,AFF5011,061900000011,,,,info11@school.edu.in,9835637636,Sector 22,Delhi,Delhi,India,419473,https://www.school11.edu.in,#1E88E5,#43A047,4,1
+SCH012,Lotus Valley International School,LVIS,REG1012,AFF5012,061900000012,,,,info12@school.edu.in,9863834173,Sector 86,Noida,Uttar Pradesh,India,411130,https://www.school12.edu.in,#1E88E5,#43A047,4,1
+SCH013,Shiv Nadar School,SNS,REG1013,AFF5013,061900000013,,,,info13@school.edu.in,9822463235,Sector 66,Noida,Uttar Pradesh,India,143590,https://www.school13.edu.in,#1E88E5,#43A047,4,1
+SCH014,Heritage School,HS,REG1014,AFF5014,061900000014,,,,info14@school.edu.in,9891488698,Sector 32,Gurugram,Haryana,India,793706,https://www.school14.edu.in,#1E88E5,#43A047,4,1
+SCH015,Pathways School,PS,REG1015,AFF5015,061900000015,,,,info15@school.edu.in,9869278823,Sector 19,Gurugram,Haryana,India,911464,https://www.school15.edu.in,#1E88E5,#43A047,4,1
+SCH016,Scottish High International School,SHIS,REG1016,AFF5016,061900000016,,,,info16@school.edu.in,9871343637,Sector 10,Gurugram,Haryana,India,287701,https://www.school16.edu.in,#1E88E5,#43A047,4,1
+SCH017,The Shri Ram School,TSRS,REG1017,AFF5017,061900000017,,,,info17@school.edu.in,9868654660,Sector 34,Gurugram,Haryana,India,296541,https://www.school17.edu.in,#1E88E5,#43A047,4,1
+SCH018,GD Goenka Public School,GDGPS,REG1018,AFF5018,061900000018,,,,info18@school.edu.in,9888862168,Sector 32,Gurugram,Haryana,India,538034,https://www.school18.edu.in,#1E88E5,#43A047,4,1
+SCH019,Indus World School,IWS,REG1019,AFF5019,061900000019,,,,info19@school.edu.in,9814314305,Sector 73,Indore,Madhya Pradesh,India,666701,https://www.school19.edu.in,#1E88E5,#43A047,4,1
+SCH020,Greenwood High International School,GHIS,REG1020,AFF5020,061900000020,,,,info20@school.edu.in,9846887416,Sector 83,Bengaluru,Karnataka,India,633107,https://www.school20.edu.in,#1E88E5,#43A047,4,1
+SCH021,National Public School,NPS,REG1021,AFF5021,061900000021,,,,info21@school.edu.in,9832823113,Sector 34,Bengaluru,Karnataka,India,810158,https://www.school21.edu.in,#1E88E5,#43A047,4,1
+SCH022,Chinmaya Vidyalaya,CV,REG1022,AFF5022,061900000022,,,,info22@school.edu.in,9883666480,Sector 90,Chennai,Tamil Nadu,India,627364,https://www.school22.edu.in,#1E88E5,#43A047,4,1
+SCH023,PSBB Senior Secondary School,PSBB,REG1023,AFF5023,061900000023,,,,info23@school.edu.in,9874218813,Sector 43,Chennai,Tamil Nadu,India,679765,https://www.school23.edu.in,#1E88E5,#43A047,4,1
+SCH024,La Martiniere College,LMC,REG1024,AFF5024,061900000024,,,,info24@school.edu.in,9888048017,Sector 18,Lucknow,Uttar Pradesh,India,281357,https://www.school24.edu.in,#1E88E5,#43A047,4,1
+SCH025,Mayo College,MC,REG1025,AFF5025,061900000025,,,,info25@school.edu.in,9840490464,Sector 36,Ajmer,Rajasthan,India,597259,https://www.school25.edu.in,#1E88E5,#43A047,4,1
