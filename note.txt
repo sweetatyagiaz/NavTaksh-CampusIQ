@@ -1,0 +1,23 @@
+1. Organization Structure
+2. Authentication & Roles
+3. Academic Master Data
+4. Student Lifecycle
+5. Enrollment Model
+6. Examination Model
+7. Attendance Model
+8. Fee & Payment Model
+9. Communication Model
+10. Transport Model
+11. Library Model
+12. Visitor Model
+13. Surveillance Model
+14. Analytics Model
+
+
+
+
+School
+------------------------------
+1. TODO: attendance_threshold table with year it may vary
+2. With Board table over year field
+3. Principle relation table with Person table
