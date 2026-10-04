@@ -61,6 +61,7 @@ INSTALLED_APPS = [
     "apps.core",
     "apps.home",
     "apps.contact",
+    "apps.lead",
 
     "apps.people",
     "apps.accounts",
